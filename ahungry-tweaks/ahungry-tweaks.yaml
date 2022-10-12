@@ -1,0 +1,4 @@
+# For ease of bash scripting, keep each of the top 3 lines as a single line
+name: ahungry-tweaks
+homepage: https://github.com/ahungry/ahungry_tweaks
+direct_download: ~
