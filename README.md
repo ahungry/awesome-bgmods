@@ -175,7 +175,60 @@ Install/setup after EET
 A bit self-referential in this section, but this lets BG:EE and BG2:EE
 merge into one big campaign (BG:SOD as well!)
 
+- [Ascension](https://github.com/InfinityMods/Ascension/releases)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Aligns a lot of the TOB storyline and behavior to match the original
+dev intentions.  Necessary towards top of install order (which is why
+it's here, not in quests).
+
+- [Longer Road](https://forums.beamdog.com/discussion/37579/longer-road-working-in-bg2ee)
+![dependson](https://img.shields.io/badge/dependson-ascension-orange?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Close association/dependency on Ascension, so listed up here.
+
+- [BlackPits in BG](https://github.com/UnearthedArcana/BP_in_BG/releases/tag/0.6.1)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Enjoy experiencing the Black Pits as part of the game campaign,
+instead of a standalone experience.
+
+- [Rogue Revisions](http://www.spellholdstudios.net/ie/rr)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Lots of gameplay enhancements for rogues (pickpocket without instantly
+being attacked by an entire town on failure!)
+
+- [Lore from Learning](https://www.gibberlings3.net/mods/tweaks/lore/)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Build up CHARNAME's "Lore" stat based on various game activity (read a
+book!)
+
+- [Bubb Remove Stoneskin color](https://forums.beamdog.com/discussion/comment/1174034#Comment_1174034)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+If you miss seeing those colorful robes, this mod is for you.
+
+- [A7 Achievements](https://github.com/Argent77/A7-Achievements/releases)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Enables the Steam overlay achievements for those playing without the
+Steam overlay client.
+
+- [Skip Chateau Irenicus](https://github.com/Argent77/A7-SkipChateauIrenicus/releases/tag/v3.2)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Self explanatory in the name.
+
+- [IWDification](https://www.gibberlings3.net/mods/spells/iwdification/)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Adds lots of Icewind Dale spells and items (and spell effects) to the game.
+
 ### UI Enhancement
+
+- [Tipun GUI](https://github.com/tipun81/tipun_gui_mod/releases)
+![conflicts](https://img.shields.io/badge/conflicts-LeUI-yellow?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [LeUI](https://github.com/r-e-d/LeUI/releases)
+![conflicts](https://img.shields.io/badge/conflicts-TipunGUI-yellow?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+
 ### Item Packs
 ### Characters
 ### Quests/Story
