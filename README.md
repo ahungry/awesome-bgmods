@@ -123,7 +123,7 @@ Use "Travel Triggers" install option
 ![ahungry](https://img.shields.io/badge/testers-ahungry-green?style=plastic)
 
 - [Margarita](https://forums.beamdog.com/discussion/15867/mod-npc-margarita-zelleod)
-![ahungry](https://img.shields.io/badge/testers-ahungry-green?style=plastic)
+![ahungry](https://img.shields.io/badge/testers-ahungry,foo,bar-green?style=plastic)
 
 ### Gameplay
 
