@@ -67,14 +67,20 @@ setup, but will work with a BG:EE setup, and the EET merge process
 will manage to include them.
 
 ### Sundry/Miscellaneous
-### UI Enhancement
-### Item Packs
-### Characters
 
 - [bg1npc](https://github.com/Gibberlings3/BG1NPC/releases/tag/v30)
 ![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
 - [bg1npcmusic](https://www.gibberlings3.net/files/file/692-bg1-npc-project-music-pack/)
 ![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
+
+### UI Enhancement
+
+none
+
+### Item Packs
+
+none
+
 
 ### Quests/Story
 
@@ -84,6 +90,26 @@ Use "Travel Triggers" install option
 - [Dark Horizons](https://forums.beamdog.com/discussion/18833/bg-ee-dark-horizons-released)
 ![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
 - [The Stone of Askavar](https://forums.beamdog.com/discussion/42168/mod-the-stone-of-askavar-for-totsc-tutu-bgt-and-bg-ee)
+![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
+
+### Characters
+
+- [Garrick Tales of a Troubador](https://mirandir.baldursgateworld.fr/garrick-tt/)
+![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
+
+- [Drake](https://artisans-corner.com/drake-npc-for-bgee/)
+![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
+
+- [Sirene](https://artisans-corner.com/sirene-npc-for-bgee-and-bgsod/)
+![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
+
+- [White](https://downloads.weaselmods.net/download/white-npc/)
+![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
+
+- [Verrsza](https://downloads.weaselmods.net/download/verrsza-bg1ee/)
+![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
+
+- [Margarita](https://forums.beamdog.com/discussion/15867/mod-npc-margarita-zelleod)
 ![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
 
 ### Gameplay
