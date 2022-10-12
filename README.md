@@ -75,13 +75,18 @@ will manage to include them.
 
 ### Sundry/Miscellaneous
 
+- [modmerge](https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-steam-gog-sod-dlc-or-custom-dlcs-with-the-main-game)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Necessary if you want to include BG:SOD in your BG:EET setup - less of
+a weidu mod and more of a mandatory tool to execute.
+
 - [bg1npc](https://github.com/Gibberlings3/BG1NPC/releases/tag/v30)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Adds WAY more banter/conversations with original BG1 npcs.
 
 - [bg1npcmusic](https://www.gibberlings3.net/files/file/692-bg1-npc-project-music-pack/)
-![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 ![dependson](https://img.shields.io/badge/dependson-bg1npc-orange?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Background music to go with the banters (it'll play as the banter initiates).
 
 ### UI Enhancement
@@ -161,9 +166,15 @@ none
 
 ## Post-EET
 
-Install/setup before EET
+Install/setup after EET
 
 ### Sundry/Miscellaneous
+
+- [EET](https://github.com/Gibberlings3/EET)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+A bit self-referential in this section, but this lets BG:EE and BG2:EE
+merge into one big campaign (BG:SOD as well!)
+
 ### UI Enhancement
 ### Item Packs
 ### Characters
