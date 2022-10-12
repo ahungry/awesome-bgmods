@@ -5,6 +5,7 @@ as well).
 
 <details>
 <summary>Note about the purpose of this</summary>
+
 I hope to maintain a healthy list/index of mods, including homepage
 and direct download links, as well as any quick
 comments/findings/known issues with incompatabilites.
@@ -67,6 +68,9 @@ reference - I will want to update them to the proper homepages vs
 direct download links, but you may find some of one or the other atm).
 
 ## Pre-EET
+
+<details>
+<summary>Pre-EET Mods</summary>
 
 Install/setup before EET.  Many of these lack an awareness of an EET
 setup, but will work with a BG:EE setup, and the EET merge process
@@ -133,6 +137,8 @@ Blocked EET installation with an "invalid spell id -1" error on my testing.
 ### System Revisions
 ### Tactics
 ### Tweaks
+
+</details>
 
 ## Post-EET
 
