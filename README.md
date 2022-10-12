@@ -76,15 +76,18 @@ will manage to include them.
 ### Sundry/Miscellaneous
 
 - [modmerge](https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-steam-gog-sod-dlc-or-custom-dlcs-with-the-main-game)
+![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Necessary if you want to include BG:SOD in your BG:EET setup - less of
 a weidu mod and more of a mandatory tool to execute.
 
 - [bg1npc](https://github.com/Gibberlings3/BG1NPC/releases/tag/v30)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Adds WAY more banter/conversations with original BG1 npcs.
 
 - [bg1npcmusic](https://www.gibberlings3.net/files/file/692-bg1-npc-project-music-pack/)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
 ![dependson](https://img.shields.io/badge/dependson-bg1npc-orange?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Background music to go with the banters (it'll play as the banter initiates).
@@ -101,6 +104,7 @@ none
 ### Quests/Story
 
 - [Drizzt Saga](https://forums.beamdog.com/discussion/29969/drizzt-saga-v3-released-now-bgee-compatible)
+![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Use "Travel Triggers" install option.  High level campaign with 5
 custom npcs ranging in level from 9 to 15.  R.A. Salvatore based
@@ -108,47 +112,57 @@ theme, up to +4 weapons can be found - about 5 hours of content.
 
 
 - [Dark Horizons](https://forums.beamdog.com/discussion/18833/bg-ee-dark-horizons-released)
+![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Many new ambushes and integration of mod throughout entire BG1
 campaign.  Drops are powerful - one known issue with end of campaign
 Oversight HQ.
 
 - [The Stone of Askavar](https://forums.beamdog.com/discussion/42168/mod-the-stone-of-askavar-for-totsc-tutu-bgt-and-bg-ee)
+![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [bg1ub - Unfinished Business](https://github.com/Pocket-Plane-Group/bg1ub/releases)
+![dist](https://img.shields.io/badge/dist-ppg-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Lots of fun little quests (some part of original BG1 but cut for reasons).
 
 ### Characters
 
 - [Garrick Tales of a Troubador](https://mirandir.baldursgateworld.fr/garrick-tt/)
+![dist](https://img.shields.io/badge/dist-bgw-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 New side quests and banters with Garrick.
 
 - [Drake](https://artisans-corner.com/drake-npc-for-bgee/)
+![dist](https://img.shields.io/badge/dist-artisans-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Good cleric with an attitude.
 
 - [Sirene](https://artisans-corner.com/sirene-npc-for-bgee-and-bgsod/)
+![dist](https://img.shields.io/badge/dist-artisans-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Good paladin.
 
 - [White](https://downloads.weaselmods.net/download/white-npc/)
+![dist](https://img.shields.io/badge/dist-weaselmods-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Angry barbarian.
 
 - [Verrsza](https://downloads.weaselmods.net/download/verrsza-bg1ee/)
+![dist](https://img.shields.io/badge/dist-weaselmods-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Evil Rakshasa.
 
 - [Margarita](https://forums.beamdog.com/discussion/15867/mod-npc-margarita-zelleod)
+![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Female Halfling - not very talkative.
 
 ### Gameplay
 
 - [Saradas Magic](https://forums.beamdog.com/discussion/23861/bg-ee-mod-saradas-magic-released-v-1-1)
+![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
 Blocked EET installation with an "invalid spell id -1" error on my testing.
 
@@ -171,167 +185,210 @@ Install/setup after EET
 ### Sundry/Miscellaneous
 
 - [EET](https://github.com/Gibberlings3/EET)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 A bit self-referential in this section, but this lets BG:EE and BG2:EE
 merge into one big campaign (BG:SOD as well!)
 
 - [Ascension](https://github.com/InfinityMods/Ascension/releases)
+![dist](https://img.shields.io/badge/dist-infinity-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Aligns a lot of the TOB storyline and behavior to match the original
 dev intentions.  Necessary towards top of install order (which is why
 it's here, not in quests).
 
 - [Longer Road](https://forums.beamdog.com/discussion/37579/longer-road-working-in-bg2ee)
+![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![dependson](https://img.shields.io/badge/dependson-ascension-orange?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Close association/dependency on Ascension, so listed up here.
 
 - [BlackPits in BG](https://github.com/UnearthedArcana/BP_in_BG/releases/tag/0.6.1)
+![dist](https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Enjoy experiencing the Black Pits as part of the game campaign,
 instead of a standalone experience.
 
 - [Rogue Revisions](http://www.spellholdstudios.net/ie/rr)
+![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Lots of gameplay enhancements for rogues (pickpocket without instantly
 being attacked by an entire town on failure!)
 
 - [Lore from Learning](https://www.gibberlings3.net/mods/tweaks/lore/)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Build up CHARNAME's "Lore" stat based on various game activity (read a
 book!)
 
 - [Bubb Remove Stoneskin color](https://forums.beamdog.com/discussion/comment/1174034#Comment_1174034)
+![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 If you miss seeing those colorful robes, this mod is for you.
 
 - [A7 Achievements](https://github.com/Argent77/A7-Achievements/releases)
+![dist](https://img.shields.io/badge/dist-argent77-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Enables the Steam overlay achievements for those playing without the
 Steam overlay client.
 
 - [Skip Chateau Irenicus](https://github.com/Argent77/A7-SkipChateauIrenicus/releases/tag/v3.2)
+![dist](https://img.shields.io/badge/dist-argent77-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Self explanatory in the name.
 
 - [IWDification](https://www.gibberlings3.net/mods/spells/iwdification/)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Adds lots of Icewind Dale spells and items (and spell effects) to the game.
 
 ### UI Enhancement
 
 - [Tipun GUI](https://github.com/tipun81/tipun_gui_mod/releases)
+![dist](https://img.shields.io/badge/dist-tipun-purple?style=plastic)
 ![conflicts](https://img.shields.io/badge/conflicts-LeUI-yellow?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [LeUI](https://github.com/r-e-d/LeUI/releases)
+![dist](https://img.shields.io/badge/dist-lefreut-purple?style=plastic)
 ![conflicts](https://img.shields.io/badge/conflicts-TipunGUI-yellow?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [EEUITweaks](https://github.com/r-e-d/EEUITweaks/releases/tag/v4.0.1)
+![dist](https://img.shields.io/badge/dist-lefreut-purple?style=plastic)
 ![xcon](https://img.shields.io/badge/xcon-LeUI-blue?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Has some cross-content with other UI mods, includes an auto-roller.
 
 - [Recolored Buttons](https://github.com/Argent77/A7-recoloredbuttons/releases)
+![dist](https://img.shields.io/badge/dist-argent77-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 ### Item Packs
 
 - [TeamBG's Armor Pack](https://forums.beamdog.com/discussion/13314/mod-teambgs-armor-pack-for-bg-ee-bg2ee-bgt-amp-tutu/p1)
+![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Thalantyr Item Upgrades](https://github.com/CrevsDaak/thalan/releases)
+![dist](https://img.shields.io/badge/dist-crevsdaak-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Boards O' Magick Item Pack](https://sorcerers.net/community/resources/boards-o-magick-item-pack.85/)
+![dist](https://img.shields.io/badge/dist-sorcerers-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Arcane Treasure](https://github.com/Alexander12-creator/Arcane-Treasury-mod)
+![dist](https://img.shields.io/badge/dist-alexander12-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [The Sword of Noober](https://github.com/SpellholdStudios/TheSwordofNoober/releases)
+![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Unofficial Item Pack](https://forums.beamdog.com/discussion/56567/mod-bgii-ee-unofficial-item-pack)
+![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Freedoms Reign of Virtue](https://forums.beamdog.com/discussion/34075/freedoms-reign-reign-of-virtue-now-enhanced)
+![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Pocket Plane Group Item Upgrades](https://github.com/Pocket-Plane-Group/Item_Upgrade/releases)
+![dist](https://img.shields.io/badge/dist-ppg-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Rolles Safyer](https://github.com/SpellholdStudios/Rolles/releases)
+![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Ruad](https://github.com/SpellholdStudios/RuadRofhessaItemUpgrade/releases)
+![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [SoD to BG2EE Item Upgrades](https://github.com/Gibberlings3/SoD-to-BG2EE-Item-Upgrade/releases)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Under Represented Items](https://github.com/Pocket-Plane-Group/Under-Respresented_Items/releases)
+![dist](https://img.shields.io/badge/dist-ppg-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 ### Quests/Story
 
 - [BG1 NPC in SoA](https://forums.beamdog.com/discussion/82463/mod-bg1-npcs-for-soa-tob)
+![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Banter Pack](https://github.com/Pocket-Plane-Group/Banter_Pack/releases)
+![dist](https://img.shields.io/badge/dist-ppg-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Romantic Encounters (BG2)](https://www.gibberlings3.net/files/file/931-romantic-encounters-bg2/)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Romantic Encounters (BG)](https://www.gibberlings3.net/mods/npcs/bg-romantic-encounters/)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Almateria's Restoration Project](http://www.shsforums.net/files/file/1053-almaterias-restoration-project/)
+![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [BG2 Fix Pack](https://www.gibberlings3.net/files/file/696-bg2-fixpack/)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [BGQE (BG Quests and Encounters)](https://github.com/Gibberlings3/BG_Quests_And_Encounters/releases)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Unfinished Business](https://github.com/Pocket-Plane-Group/UnfinishedBusiness/releases)
+![dist](https://img.shields.io/badge/dist-ppg-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Imoen Forever](https://www.gibberlings3.net/files/file/1013-imoen-4-ever/)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Endless BG1](https://www.gibberlings3.net/files/file/1019-endless-bg1/)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Allows revisiting of BG1 areas after finishing the campaign.
 
 - [Transitions](https://www.gibberlings3.net/files/file/1021-transitions/)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Changes how the BG1->SOD->BG2 campaigns conclude/transition into each other.
 
 - [Another Fine Hell](https://www.gibberlings3.net/files/file/1034-another-fine-hell/)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 SOD mod
 
 - [The Boareskyr Bridge Scene](https://www.gibberlings3.net/files/file/1033-the-boareskyr-bridge-scene/)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 SOD mod
 
 - [PPG Quest Pack](https://www.pocketplane.net/quest-pack/)
+![dist](https://img.shields.io/badge/dist-ppg-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Gorgon](https://github.com/TotalMilk90/gorgon/releases/tag/v2.0)
+![dist](https://img.shields.io/badge/dist-github-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Thieves guild in Beregost, including quests for all but the Lawful Good.
 
 - [Weasels!](https://downloads.weaselmods.net/download/weasels/)
+![dist](https://img.shields.io/badge/dist-weaselmods-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Adds many weasel themed elements to game (fun balanced items, a few
 new spells).
 
 - [Imoen Romance](http://imoen.blindmonkey.org/downloads.php)
+![dist](https://img.shields.io/badge/dist-bm-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Sellswords](https://github.com/Pocket-Plane-Group/Sellswords/releases)
