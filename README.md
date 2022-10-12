@@ -87,8 +87,10 @@ none
 - [Drizzt Saga](https://forums.beamdog.com/discussion/29969/drizzt-saga-v3-released-now-bgee-compatible)
 ![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
 Use "Travel Triggers" install option
+
 - [Dark Horizons](https://forums.beamdog.com/discussion/18833/bg-ee-dark-horizons-released)
 ![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
+
 - [The Stone of Askavar](https://forums.beamdog.com/discussion/42168/mod-the-stone-of-askavar-for-totsc-tutu-bgt-and-bg-ee)
 ![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
 
