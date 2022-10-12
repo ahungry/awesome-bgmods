@@ -134,7 +134,7 @@ none
 
 ### Quests/Story
 
-- [Drizzt Saga](https://forums.beamdog.com/discussion/29969/drizzt-saga-v3-released-now-bgee-compatible)
+#### [Drizzt Saga](https://forums.beamdog.com/discussion/29969/drizzt-saga-v3-released-now-bgee-compatible)
 
 ![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
@@ -144,7 +144,7 @@ custom npcs ranging in level from 9 to 15.  R.A. Salvatore based
 theme, up to +4 weapons can be found - about 5 hours of content.
 
 
-- [Dark Horizons](https://forums.beamdog.com/discussion/18833/bg-ee-dark-horizons-released)
+#### [Dark Horizons](https://forums.beamdog.com/discussion/18833/bg-ee-dark-horizons-released)
 
 ![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
