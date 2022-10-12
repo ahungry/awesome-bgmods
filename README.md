@@ -94,36 +94,49 @@ none
 
 - [Drizzt Saga](https://forums.beamdog.com/discussion/29969/drizzt-saga-v3-released-now-bgee-compatible)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Use "Travel Triggers" install option.  High level campaign with 5
+custom npcs ranging in level from 9 to 15.  R.A. Salvatore based
+theme, up to +4 weapons can be found - about 5 hours of content.
 
-Use "Travel Triggers" install option
+
 - [Dark Horizons](https://forums.beamdog.com/discussion/18833/bg-ee-dark-horizons-released)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Many new ambushes and integration of mod throughout entire BG1
+campaign.  Drops are powerful - one known issue with end of campaign
+Oversight HQ.
 
 - [The Stone of Askavar](https://forums.beamdog.com/discussion/42168/mod-the-stone-of-askavar-for-totsc-tutu-bgt-and-bg-ee)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [bg1ub - Unfinished Business](https://github.com/Pocket-Plane-Group/bg1ub/releases)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Lots of fun little quests (some part of original BG1 but cut for reasons).
 
 ### Characters
 
 - [Garrick Tales of a Troubador](https://mirandir.baldursgateworld.fr/garrick-tt/)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+New side quests and banters with Garrick.
 
 - [Drake](https://artisans-corner.com/drake-npc-for-bgee/)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Good cleric with an attitude.
 
 - [Sirene](https://artisans-corner.com/sirene-npc-for-bgee-and-bgsod/)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Good paladin.
 
 - [White](https://downloads.weaselmods.net/download/white-npc/)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Angry barbarian.
 
 - [Verrsza](https://downloads.weaselmods.net/download/verrsza-bg1ee/)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Evil Rakshasa.
 
 - [Margarita](https://forums.beamdog.com/discussion/15867/mod-npc-margarita-zelleod)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Female Halfling - not very talkative.
 
 ### Gameplay
 
