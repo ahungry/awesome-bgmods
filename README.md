@@ -77,9 +77,12 @@ will manage to include them.
 
 - [bg1npc](https://github.com/Gibberlings3/BG1NPC/releases/tag/v30)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Adds WAY more banter/conversations with original BG1 npcs.
 
 - [bg1npcmusic](https://www.gibberlings3.net/files/file/692-bg1-npc-project-music-pack/)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+![dependson](https://img.shields.io/badge/dependson-bg1npc-orange?style=plastic)
+Background music to go with the banters (it'll play as the banter initiates).
 
 ### UI Enhancement
 
