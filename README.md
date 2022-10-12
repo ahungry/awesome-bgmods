@@ -51,6 +51,12 @@ personally tested/installed them - if future ones are inserted
 in-between ones I've personally tested by other contributors, it will
 be noted by a different badge.
 
+Badge looks like this, and is not an endorsement or review on the
+quality of the mod - just that it was successfully installed and
+didn't have any obvious game breaking errors in tandem with other mods:
+
+![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
+
 If you don't want to use EET, the mods in the first section (Pre-EET)
 should be good for a BG:EE game, but not for a BG2:EE, however some of
 the mods in the Post-EET section may be good for a BG:EE as well
@@ -86,12 +92,15 @@ none
 
 - [Drizzt Saga](https://forums.beamdog.com/discussion/29969/drizzt-saga-v3-released-now-bgee-compatible)
 ![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
-Use "Travel Triggers" install option
 
+Use "Travel Triggers" install option
 - [Dark Horizons](https://forums.beamdog.com/discussion/18833/bg-ee-dark-horizons-released)
 ![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
 
 - [The Stone of Askavar](https://forums.beamdog.com/discussion/42168/mod-the-stone-of-askavar-for-totsc-tutu-bgt-and-bg-ee)
+![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
+
+- [bg1ub - Unfinished Business](https://github.com/Pocket-Plane-Group/bg1ub/releases)
 ![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
 
 ### Characters
@@ -115,6 +124,11 @@ Use "Travel Triggers" install option
 ![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
 
 ### Gameplay
+
+- [Saradas Magic](https://forums.beamdog.com/discussion/23861/bg-ee-mod-saradas-magic-released-v-1-1)
+![ahungry](https://img.shields.io/badge/ahungry---red?style=plastic)
+Blocked EET installation with an "invalid spell id -1" error on my testing.
+
 ### System Revisions
 ### Tactics
 ### Tweaks
