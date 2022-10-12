@@ -3,6 +3,37 @@
 Curated list of BG:EET Infinity Engine mods (maybe some non-EET ones
 as well).
 
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
+
+- [Awesome BGMods (Baldur's Gate Mods)](#awesome-bgmods-baldurs-gate-mods)
+- [Sites](#sites)
+    - [Community](#community)
+    - [Author/Personal/Repo Indexes](#authorpersonalrepo-indexes)
+- [Mods](#mods)
+    - [Pre-EET](#pre-eet)
+        - [Sundry/Miscellaneous](#sundrymiscellaneous)
+        - [UI Enhancement](#ui-enhancement)
+        - [Item Packs](#item-packs)
+        - [Quests/Story](#questsstory)
+        - [Characters](#characters)
+        - [Gameplay](#gameplay)
+        - [System Revisions](#system-revisions)
+        - [Tactics](#tactics)
+        - [Tweaks](#tweaks)
+    - [Post-EET](#post-eet)
+        - [Sundry/Miscellaneous](#sundrymiscellaneous-1)
+        - [UI Enhancement](#ui-enhancement-1)
+        - [Item Packs](#item-packs-1)
+        - [Quests/Story](#questsstory-1)
+        - [Characters](#characters-1)
+        - [Gameplay](#gameplay-1)
+        - [System Revisions](#system-revisions-1)
+        - [Tactics](#tactics-1)
+        - [Tweaks](#tweaks-1)
+
+<!-- markdown-toc end -->
+
 <details>
 <summary>Note about the purpose of this</summary>
 
