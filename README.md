@@ -228,10 +228,110 @@ Adds lots of Icewind Dale spells and items (and spell effects) to the game.
 ![conflicts](https://img.shields.io/badge/conflicts-TipunGUI-yellow?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
+- [EEUITweaks](https://github.com/r-e-d/EEUITweaks/releases/tag/v4.0.1)
+![xcon](https://img.shields.io/badge/xcon-LeUI-blue?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Has some cross-content with other UI mods, includes an auto-roller.
+
+- [Recolored Buttons](https://github.com/Argent77/A7-recoloredbuttons/releases)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 ### Item Packs
-### Characters
+
+- [TeamBG's Armor Pack](https://forums.beamdog.com/discussion/13314/mod-teambgs-armor-pack-for-bg-ee-bg2ee-bgt-amp-tutu/p1)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Thalantyr Item Upgrades](https://github.com/CrevsDaak/thalan/releases)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Boards O' Magick Item Pack](https://sorcerers.net/community/resources/boards-o-magick-item-pack.85/)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Arcane Treasure](https://github.com/Alexander12-creator/Arcane-Treasury-mod)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [The Sword of Noober](https://github.com/SpellholdStudios/TheSwordofNoober/releases)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Unofficial Item Pack](https://forums.beamdog.com/discussion/56567/mod-bgii-ee-unofficial-item-pack)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Freedoms Reign of Virtue](https://forums.beamdog.com/discussion/34075/freedoms-reign-reign-of-virtue-now-enhanced)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Pocket Plane Group Item Upgrades](https://github.com/Pocket-Plane-Group/Item_Upgrade/releases)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Rolles Safyer](https://github.com/SpellholdStudios/Rolles/releases)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Ruad](https://github.com/SpellholdStudios/RuadRofhessaItemUpgrade/releases)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [SoD to BG2EE Item Upgrades](https://github.com/Gibberlings3/SoD-to-BG2EE-Item-Upgrade/releases)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Under Represented Items](https://github.com/Pocket-Plane-Group/Under-Respresented_Items/releases)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
 ### Quests/Story
+
+- [BG1 NPC in SoA](https://forums.beamdog.com/discussion/82463/mod-bg1-npcs-for-soa-tob)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Banter Pack](https://github.com/Pocket-Plane-Group/Banter_Pack/releases)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Romantic Encounters (BG2)](https://www.gibberlings3.net/files/file/931-romantic-encounters-bg2/)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Romantic Encounters (BG)](https://www.gibberlings3.net/mods/npcs/bg-romantic-encounters/)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Almateria's Restoration Project](http://www.shsforums.net/files/file/1053-almaterias-restoration-project/)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [BG2 Fix Pack](https://www.gibberlings3.net/files/file/696-bg2-fixpack/)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [BGQE (BG Quests and Encounters)](https://github.com/Gibberlings3/BG_Quests_And_Encounters/releases)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Unfinished Business](https://github.com/Pocket-Plane-Group/UnfinishedBusiness/releases)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Imoen Forever](https://www.gibberlings3.net/files/file/1013-imoen-4-ever/)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Endless BG1](https://www.gibberlings3.net/files/file/1019-endless-bg1/)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Allows revisiting of BG1 areas after finishing the campaign.
+
+- [Transitions](https://www.gibberlings3.net/files/file/1021-transitions/)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Changes how the BG1->SOD->BG2 campaigns conclude/transition into each other.
+
+- [Another Fine Hell](https://www.gibberlings3.net/files/file/1034-another-fine-hell/)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+SOD mod
+
+- [The Boareskyr Bridge Scene](https://www.gibberlings3.net/files/file/1033-the-boareskyr-bridge-scene/)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+SOD mod
+
+- [PPG Quest Pack](https://www.pocketplane.net/quest-pack/)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Gorgon](https://github.com/TotalMilk90/gorgon/releases/tag/v2.0)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Thieves guild in Beregost, including quests for all but the Lawful Good.
+
+- [Weasels!](https://downloads.weaselmods.net/download/weasels/)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+Adds many weasel themed elements to game (fun balanced items, a few
+new spells).
+
+### Characters
 ### Gameplay
 ### System Revisions
 ### Tactics
