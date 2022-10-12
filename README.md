@@ -134,29 +134,21 @@ none
 
 ### Quests/Story
 
-#### [Drizzt Saga](https://forums.beamdog.com/discussion/29969/drizzt-saga-v3-released-now-bgee-compatible)
-
+- [Drizzt Saga](https://forums.beamdog.com/discussion/29969/drizzt-saga-v3-released-now-bgee-compatible)
 ![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
-
 Use "Travel Triggers" install option.  High level campaign with 5
 custom npcs ranging in level from 9 to 15.  R.A. Salvatore based
 theme, up to +4 weapons can be found - about 5 hours of content.
-
-
-#### [Dark Horizons](https://forums.beamdog.com/discussion/18833/bg-ee-dark-horizons-released)
-
+- [Dark Horizons](https://forums.beamdog.com/discussion/18833/bg-ee-dark-horizons-released)
 ![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
-
 Many new ambushes and integration of mod throughout entire BG1
 campaign.  Drops are powerful - one known issue with end of campaign
 Oversight HQ.
-
 - [The Stone of Askavar](https://forums.beamdog.com/discussion/42168/mod-the-stone-of-askavar-for-totsc-tutu-bgt-and-bg-ee)
 ![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
-
 - [bg1ub - Unfinished Business](https://github.com/Pocket-Plane-Group/bg1ub/releases)
 ![dist](https://img.shields.io/badge/dist-ppg-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
