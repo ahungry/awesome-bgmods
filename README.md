@@ -72,19 +72,19 @@ will manage to include them.
 ### Characters
 
 - [bg1npc](https://github.com/Gibberlings3/BG1NPC/releases/tag/v30)
-![ahungry](https://img.shields.io/badge/ahungry-played-green?style=plastic)
+![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
 - [bg1npcmusic](https://www.gibberlings3.net/files/file/692-bg1-npc-project-music-pack/)
-![ahungry](https://img.shields.io/badge/ahungry-played-green?style=plastic)
+![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
 
 ### Quests/Story
 
 - [Drizzt Saga](https://forums.beamdog.com/discussion/29969/drizzt-saga-v3-released-now-bgee-compatible)
-![ahungry](https://img.shields.io/badge/ahungry-played-green?style=plastic)
+![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
 Use "Travel Triggers" install option
 - [Dark Horizons](https://forums.beamdog.com/discussion/18833/bg-ee-dark-horizons-released)
-![ahungry](https://img.shields.io/badge/ahungry-played-green?style=plastic)
+![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
 - [The Stone of Askavar](https://forums.beamdog.com/discussion/42168/mod-the-stone-of-askavar-for-totsc-tutu-bgt-and-bg-ee)
-![ahungry](https://img.shields.io/badge/ahungry-played-green?style=plastic)
+![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
 
 ### Gameplay
 ### System Revisions
