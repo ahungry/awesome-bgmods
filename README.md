@@ -121,12 +121,12 @@ Use "Travel Triggers" install option
 ![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
 
 - [Margarita](https://forums.beamdog.com/discussion/15867/mod-npc-margarita-zelleod)
-![ahungry](https://img.shields.io/badge/ahungry-+-green?style=plastic)
+![ahungry](https://img.shields.io/badge/ahungry-green?style=plastic)
 
 ### Gameplay
 
 - [Saradas Magic](https://forums.beamdog.com/discussion/23861/bg-ee-mod-saradas-magic-released-v-1-1)
-![ahungry](https://img.shields.io/badge/ahungry---red?style=plastic)
+![ahungry](https://img.shields.io/badge/ahungry-red?style=plastic)
 Blocked EET installation with an "invalid spell id -1" error on my testing.
 
 ### System Revisions
