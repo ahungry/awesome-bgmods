@@ -160,27 +160,22 @@ Lots of fun little quests (some part of original BG1 but cut for reasons).
 ![dist](https://img.shields.io/badge/dist-bgw-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 New side quests and banters with Garrick.
-
 - [Drake](https://artisans-corner.com/drake-npc-for-bgee/)
 ![dist](https://img.shields.io/badge/dist-artisans-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Good cleric with an attitude.
-
 - [Sirene](https://artisans-corner.com/sirene-npc-for-bgee-and-bgsod/)
 ![dist](https://img.shields.io/badge/dist-artisans-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Good paladin.
-
 - [White](https://downloads.weaselmods.net/download/white-npc/)
 ![dist](https://img.shields.io/badge/dist-weaselmods-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Angry barbarian.
-
 - [Verrsza](https://downloads.weaselmods.net/download/verrsza-bg1ee/)
 ![dist](https://img.shields.io/badge/dist-weaselmods-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Evil Rakshasa.
-
 - [Margarita](https://forums.beamdog.com/discussion/15867/mod-npc-margarita-zelleod)
 ![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
