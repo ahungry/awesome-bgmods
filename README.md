@@ -69,20 +69,25 @@ direct download links, but you may find some of one or the other atm).
 
 ## Pre-EET
 
-<details>
-<summary>Pre-EET Mods</summary>
-
 Install/setup before EET.  Many of these lack an awareness of an EET
 setup, but will work with a BG:EE setup, and the EET merge process
 will manage to include them.
 
+<details>
+<summary>Pre-EET Mods (show/hide)</summary>
+
 ### Sundry/Miscellaneous
+
+<details>
+<summary>show/hide</summary>
 
 - [bg1npc](https://github.com/Gibberlings3/BG1NPC/releases/tag/v30)
 ![ahungry](https://img.shields.io/badge/ahungry-green?style=plastic)
 
 - [bg1npcmusic](https://www.gibberlings3.net/files/file/692-bg1-npc-project-music-pack/)
 ![ahungry](https://img.shields.io/badge/ahungry-green?style=plastic)
+
+</details>
 
 ### UI Enhancement
 
@@ -94,6 +99,9 @@ none
 
 
 ### Quests/Story
+
+<details>
+<summary>show/hide</summary>
 
 - [Drizzt Saga](https://forums.beamdog.com/discussion/29969/drizzt-saga-v3-released-now-bgee-compatible)
 ![ahungry](https://img.shields.io/badge/ahungry-green?style=plastic)
@@ -108,7 +116,12 @@ Use "Travel Triggers" install option
 - [bg1ub - Unfinished Business](https://github.com/Pocket-Plane-Group/bg1ub/releases)
 ![ahungry](https://img.shields.io/badge/ahungry-green?style=plastic)
 
+</details>
+
 ### Characters
+
+<details>
+<summary>show/hide</summary>
 
 - [Garrick Tales of a Troubador](https://mirandir.baldursgateworld.fr/garrick-tt/)
 ![ahungry](https://img.shields.io/badge/ahungry-green?style=plastic)
@@ -128,11 +141,18 @@ Use "Travel Triggers" install option
 - [Margarita](https://forums.beamdog.com/discussion/15867/mod-npc-margarita-zelleod)
 ![ahungry](https://img.shields.io/badge/ahungry-green?style=plastic)
 
+</details>
+
 ### Gameplay
+
+<details>
+<summary>show/hide</summary>
 
 - [Saradas Magic](https://forums.beamdog.com/discussion/23861/bg-ee-mod-saradas-magic-released-v-1-1)
 ![ahungry](https://img.shields.io/badge/ahungry-red?style=plastic)
 Blocked EET installation with an "invalid spell id -1" error on my testing.
+
+</details>
 
 ### System Revisions
 ### Tactics
