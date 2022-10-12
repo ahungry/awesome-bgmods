@@ -335,66 +335,85 @@ new spells).
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Sellswords](https://github.com/Pocket-Plane-Group/Sellswords/releases)
+![dist](https://img.shields.io/badge/site-ppg-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Ascalon's Quest](https://github.com/Gitjas/Ascalons_Questpack/releases)
+![dist](https://img.shields.io/badge/site-jastey-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Ascalon's Breagar](https://github.com/Gitjas/Ascalons_Breagar/releases)
+![dist](https://img.shields.io/badge/site-jastey-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Bridges Block](https://downloads.weaselmods.net/download/bridges-block/)
+![dist](https://img.shields.io/badge/site-weaselmods-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Southern Edge](https://downloads.weaselmods.net/download/southern-edge/)
+![dist](https://img.shields.io/badge/site-weaselmods-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Tangled Oak Isle](https://downloads.weaselmods.net/download/tangled-oak-isle/)
+![dist](https://img.shields.io/badge/site-weaselmods-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Tales of the Deep Gardens](https://downloads.weaselmods.net/download/tales-of-the-deep-gardens/)
+![dist](https://img.shields.io/badge/site-weaselmods-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Innershade](https://downloads.weaselmods.net/download/innershade/)
+![dist](https://img.shields.io/badge/site-weaselmods-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [White Queen](https://downloads.weaselmods.net/download/the-white-queen/)
+![dist](https://img.shields.io/badge/site-weaselmods-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [I Shall Never Forget](https://downloads.weaselmods.net/download/i-shall-never-forget/)
+![dist](https://img.shields.io/badge/site-weaselmods-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Willowisp](https://downloads.weaselmods.net/download/will-of-the-wisps/)
+![dist](https://img.shields.io/badge/site-weaselmods-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Yvette Romance](https://downloads.weaselmods.net/download/yvette-romance/)
+![dist](https://img.shields.io/badge/site-weaselmods-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Shades of the Sword Coast](https://downloads.weaselmods.net/download/shades-of-the-sword-coast/)
+![dist](https://img.shields.io/badge/site-weaselmods-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Fishing for Trouble](http://www.shsforums.net/files/file/1084-fishing-for-trouble/)
+![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Region of Terror](https://github.com/SpellholdStudios/Region_of_Terror/releases)
+![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Tower of Deception](https://github.com/InfinityMods/TowerOfDeception/releases)
+![dist](https://img.shields.io/badge/dist-infinitymods-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Shadows over Soubar](http://www.shsforums.net/files/file/63-shadows-over-soubar/)
+![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Check the Bodies](http://www.shsforums.net/files/file/58-check-the-bodies/)
+![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 There are some split off mods that compartmentalize this one, but the
 "main" one appears to be the all-in-one, so that's linked here.
 
 - [Adalon's Blood Silberdrachenblut](https://www.baldurs-gate.de/index.php?resources/adalons-blood-silberdrachenblutmod.5/)
+![dist](https://img.shields.io/badge/dist-bg.de-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Imnesvale Invasion](https://github.com/SpellholdStudios/Duality_Odd_Quest_Mod/releases/tag/v2.1)
-![dist](https://img.shields.io/badge/dist-SHS-purple?style=plastic)
+![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [All Things Mazzy](https://forums.beamdog.com/discussion/71473/playable-clara-all-things-mazzy-version-1-037/p1?new=1)
@@ -402,16 +421,16 @@ There are some split off mods that compartmentalize this one, but the
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [BG1 Aerie](https://forums.beamdog.com/discussion/38824/aerie-in-bg-ee-v1-1)
-![dist](https://img.shields.io/badge/dist-BD-purple?style=plastic)
+![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Minor encounters with Aerie near the carnival in Nashkel.
 
 - [Skie Cost of one Girl's Soul](https://downloads.weaselmods.net/download/skie-the-cost-of-one-girls-soul/)
-![dist](https://img.shields.io/badge/dist-WM-purple?style=plastic)
+![dist](https://img.shields.io/badge/dist-weaselmods-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [The Vanishing of Skie Silvershield](https://downloads.weaselmods.net/download/the-vanishing-of-skie-silvershield/)
-![dist](https://img.shields.io/badge/dist-WM-purple?style=plastic)
+![dist](https://img.shields.io/badge/site-weaselmods-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 ### Characters
