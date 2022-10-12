@@ -171,7 +171,7 @@ Install/setup after EET
 ### Sundry/Miscellaneous
 
 - [EET](https://github.com/Gibberlings3/EET)
-![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 A bit self-referential in this section, but this lets BG:EE and BG2:EE
 merge into one big campaign (BG:SOD as well!)
 
