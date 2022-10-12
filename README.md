@@ -1,10 +1,10 @@
 # Awesome BGMods (Baldur's Gate Mods)
 
-Curated list of Infinity Engine mods (should this be limited to mods
-that have been successfully integrated with the EE?).
+Curated list of BG:EET Infinity Engine mods (maybe some non-EET ones
+as well).
 
-## Note
-
+<details>
+<summary>Note about the purpose of this</summary>
 I hope to maintain a healthy list/index of mods, including homepage
 and direct download links, as well as any quick
 comments/findings/known issues with incompatabilites.
@@ -18,6 +18,7 @@ least, myself) a quick reference.
 The target audience of this document will already have some
 familiarity with installing IE mods (Weidu/weinstall), although I will
 include links to some non-Weidu based tooling as well.
+</details>
 
 # Sites
 
@@ -38,6 +39,8 @@ Popular personal modding sites/repository indexes (community mod sites
 are in the prior section).
 
 - [Ahungry](https://github.com/ahungry?tab=repositories&q=%22dele%22+OR+%22bg%22&type=&language=&sort=)
+![ahungry](https://img.shields.io/badge/ahungry-played-olive?style=plastic)
+
 - [ArtemiusI](https://github.com/ArtemiusI?tab=repositories)
 
 # Mods
@@ -54,7 +57,7 @@ the mods in the Post-EET section may be good
 Install/setup before EET
 
 ### Sundry/Miscellaneous
-[ahungry](https://img.shields.io/badge/ahungry-played-olive?style=plastic)
+
 
 ### UI Enhancement
 ### Item Packs
