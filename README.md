@@ -56,7 +56,7 @@ Badge looks like this, and is not an endorsement or review on the
 quality of the mod - just that it was successfully installed and
 didn't have any obvious game breaking errors in tandem with other mods:
 
-![ahungry](https://img.shields.io/badge/testers-ahungry-green?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 If you don't want to use EET, the mods in the first section (Pre-EET)
 should be good for a BG:EE game, but not for a BG2:EE, however some of
@@ -76,10 +76,10 @@ will manage to include them.
 ### Sundry/Miscellaneous
 
 - [bg1npc](https://github.com/Gibberlings3/BG1NPC/releases/tag/v30)
-![ahungry](https://img.shields.io/badge/testers-ahungry-green?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [bg1npcmusic](https://www.gibberlings3.net/files/file/692-bg1-npc-project-music-pack/)
-![ahungry](https://img.shields.io/badge/testers-ahungry-green?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 ### UI Enhancement
 
@@ -93,42 +93,42 @@ none
 ### Quests/Story
 
 - [Drizzt Saga](https://forums.beamdog.com/discussion/29969/drizzt-saga-v3-released-now-bgee-compatible)
-![ahungry](https://img.shields.io/badge/testers-ahungry-green?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 Use "Travel Triggers" install option
 - [Dark Horizons](https://forums.beamdog.com/discussion/18833/bg-ee-dark-horizons-released)
-![ahungry](https://img.shields.io/badge/testers-ahungry-green?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [The Stone of Askavar](https://forums.beamdog.com/discussion/42168/mod-the-stone-of-askavar-for-totsc-tutu-bgt-and-bg-ee)
-![ahungry](https://img.shields.io/badge/testers-ahungry-green?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [bg1ub - Unfinished Business](https://github.com/Pocket-Plane-Group/bg1ub/releases)
-![ahungry](https://img.shields.io/badge/testers-ahungry-green?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 ### Characters
 
 - [Garrick Tales of a Troubador](https://mirandir.baldursgateworld.fr/garrick-tt/)
-![ahungry](https://img.shields.io/badge/testers-ahungry-green?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Drake](https://artisans-corner.com/drake-npc-for-bgee/)
-![ahungry](https://img.shields.io/badge/testers-ahungry-green?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Sirene](https://artisans-corner.com/sirene-npc-for-bgee-and-bgsod/)
-![ahungry](https://img.shields.io/badge/testers-ahungry-green?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [White](https://downloads.weaselmods.net/download/white-npc/)
-![ahungry](https://img.shields.io/badge/testers-ahungry-green?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Verrsza](https://downloads.weaselmods.net/download/verrsza-bg1ee/)
-![ahungry](https://img.shields.io/badge/testers-ahungry-green?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Margarita](https://forums.beamdog.com/discussion/15867/mod-npc-margarita-zelleod)
-![ahungry](https://img.shields.io/badge/testers-ahungry,foo,bar-green?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 ### Gameplay
 
 - [Saradas Magic](https://forums.beamdog.com/discussion/23861/bg-ee-mod-saradas-magic-released-v-1-1)
-![ahungry](https://img.shields.io/badge/ahungry-red?style=plastic)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
 Blocked EET installation with an "invalid spell id -1" error on my testing.
 
 ### System Revisions
