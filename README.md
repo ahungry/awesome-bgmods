@@ -146,7 +146,7 @@ Use "Travel Triggers" install option
 ### Gameplay
 
 <details>
-<summary>![toggle](https://img.shields.io/badge/toggle-blue?style=plastic)</summary>
+<summary><img src="https://img.shields.io/badge/toggle-blue?style=plastic"></summary>
 
 - [Saradas Magic](https://forums.beamdog.com/discussion/23861/bg-ee-mod-saradas-magic-released-v-1-1)
 ![ahungry](https://img.shields.io/badge/ahungry-red?style=plastic)
