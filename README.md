@@ -39,26 +39,63 @@ Popular personal modding sites/repository indexes (community mod sites
 are in the prior section).
 
 - [Ahungry](https://github.com/ahungry?tab=repositories&q=%22dele%22+OR+%22bg%22&type=&language=&sort=)
-![ahungry](https://img.shields.io/badge/ahungry-played-olive?style=plastic)
 
 - [ArtemiusI](https://github.com/ArtemiusI?tab=repositories)
 
 # Mods
 
 Mod categories are listed in the (generally) recommended mod install
-order for an EET (Enhanced Edition Trilogy) install.
+order for an EET (Enhanced Edition Trilogy) install, and the
+individual mods listed in each block are placed in the order I have
+personally tested/installed them - if future ones are inserted
+in-between ones I've personally tested by other contributors, it will
+be noted by a different badge.
 
-If you don't want to use EET, the mods in the first section (BG:EE)
+If you don't want to use EET, the mods in the first section (Pre-EET)
 should be good for a BG:EE game, but not for a BG2:EE, however some of
-the mods in the Post-EET section may be good
+the mods in the Post-EET section may be good for a BG:EE as well
+(refer to individual mod documentation).
+
+FIXME: In this early draft, I'm pasting links I've used for personal
+reference - I will want to update them to the proper homepages vs
+direct download links, but you may find some of one or the other atm).
 
 ## Pre-EET
+
+Install/setup before EET.  Many of these lack an awareness of an EET
+setup, but will work with a BG:EE setup, and the EET merge process
+will manage to include them.
+
+### Sundry/Miscellaneous
+### UI Enhancement
+### Item Packs
+### Characters
+
+- [bg1npc](https://github.com/Gibberlings3/BG1NPC/releases/tag/v30)
+![ahungry](https://img.shields.io/badge/ahungry-played-green?style=plastic)
+- [bg1npcmusic](https://www.gibberlings3.net/files/file/692-bg1-npc-project-music-pack/)
+![ahungry](https://img.shields.io/badge/ahungry-played-green?style=plastic)
+
+### Quests/Story
+
+- [Drizzt Saga](https://forums.beamdog.com/discussion/29969/drizzt-saga-v3-released-now-bgee-compatible)
+![ahungry](https://img.shields.io/badge/ahungry-played-green?style=plastic)
+Use "Travel Triggers" install option
+- [Dark Horizons](https://forums.beamdog.com/discussion/18833/bg-ee-dark-horizons-released)
+![ahungry](https://img.shields.io/badge/ahungry-played-green?style=plastic)
+- [The Stone of Askavar](https://forums.beamdog.com/discussion/42168/mod-the-stone-of-askavar-for-totsc-tutu-bgt-and-bg-ee)
+![ahungry](https://img.shields.io/badge/ahungry-played-green?style=plastic)
+
+### Gameplay
+### System Revisions
+### Tactics
+### Tweaks
+
+## Post-EET
 
 Install/setup before EET
 
 ### Sundry/Miscellaneous
-
-
 ### UI Enhancement
 ### Item Packs
 ### Characters
