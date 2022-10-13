@@ -1097,8 +1097,8 @@ FIXME: Add the link
     }
   }
   const header = document.getElementById('header')
-  header.append('search by tag: <input type="text" id="modsearch" onchange="dosearch(e)" />')
+  header.innerHTML+='<li class="fork">tags: <input type="text" id="modsearch" onchange="dosearch(e)" /></li>'
 
-alert('1')
+alert('2')
 </script>
 </details>
