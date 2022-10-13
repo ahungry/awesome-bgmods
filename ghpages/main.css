@@ -1,14 +1,47 @@
 .bottom-search-bar {
   position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
   background: rgba(250, 255, 200, 1);
   color: #000;
-  font-family: monospace;
   padding: 0.8rem;
   font-size: 0.7rem;
   border-top: 2px solid navy;
+}
+
+.overflower {
+  display: block;
+  max-height: 100px;
+  overflow: scroll;
+}
+.bottom-search-bar input { display: inline-block; }
+.help { display: inline-block; }
+
+/* If width is less than 600 do this stuff */
+@media (min-width: 600px)
+{
+  .bottom-search-bar {
+    top: 0;
+    right: 0;
+    width: 250px;
+    height: 100%;
+  }
+}
+
+/* If width is less than 600 do this stuff */
+@media (max-width: 600px)
+{
+  .bottom-search-bar {
+    bottom: 0;
+    left: 0;
+    height: 50px;
+    width: 100%;
+  }
+  .overflower {
+    clear: *;
+  }
+  .dists { display: none; }
+  .cmps { display: none; }
+  .nays { display: none; }
+  .bottom-search-bar h6 { display: none; }
 }
 
 .spacer {
@@ -17,6 +50,9 @@
 
 .barbutton {
   cursor: pointer;
-  margin: 2px;
-  padding: 2px;
+  margin: 1px;
+}
+
+.help:hover {
+  height: auto;
 }
