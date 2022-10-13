@@ -140,19 +140,23 @@ none
 Use "Travel Triggers" install option.  High level campaign with 5
 custom npcs ranging in level from 9 to 15.  R.A. Salvatore based
 theme, up to +4 weapons can be found - about 5 hours of content.
+
 - [Dark Horizons](https://forums.beamdog.com/discussion/18833/bg-ee-dark-horizons-released)
 ![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Many new ambushes and integration of mod throughout entire BG1
 campaign.  Drops are powerful - one known issue with end of campaign
 Oversight HQ.
+
 - [The Stone of Askavar](https://forums.beamdog.com/discussion/42168/mod-the-stone-of-askavar-for-totsc-tutu-bgt-and-bg-ee)
 ![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
 - [bg1ub - Unfinished Business](https://github.com/Pocket-Plane-Group/bg1ub/releases)
 ![dist](https://img.shields.io/badge/dist-ppg-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Lots of fun little quests (some part of original BG1 but cut for reasons).
+
 
 ### Characters
 
@@ -160,22 +164,27 @@ Lots of fun little quests (some part of original BG1 but cut for reasons).
 ![dist](https://img.shields.io/badge/dist-bgw-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 New side quests and banters with Garrick.
+
 - [Drake](https://artisans-corner.com/drake-npc-for-bgee/)
 ![dist](https://img.shields.io/badge/dist-artisans-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Good cleric with an attitude.
+
 - [Sirene](https://artisans-corner.com/sirene-npc-for-bgee-and-bgsod/)
 ![dist](https://img.shields.io/badge/dist-artisans-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Good paladin.
+
 - [White](https://downloads.weaselmods.net/download/white-npc/)
 ![dist](https://img.shields.io/badge/dist-weaselmods-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Angry barbarian.
+
 - [Verrsza](https://downloads.weaselmods.net/download/verrsza-bg1ee/)
 ![dist](https://img.shields.io/badge/dist-weaselmods-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 Evil Rakshasa.
+
 - [Margarita](https://forums.beamdog.com/discussion/15867/mod-npc-margarita-zelleod)
 ![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
@@ -511,6 +520,85 @@ Minor encounters with Aerie near the carnival in Nashkel.
 - [The Vanishing of Skie Silvershield](https://downloads.weaselmods.net/download/the-vanishing-of-skie-silvershield/)
 ![dist](https://img.shields.io/badge/dist-weaselmods-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Extra Expanded Enhanced Encounters](https://forums.beamdog.com/discussion/73749/extra-expanded-enhanced-encounters-module-download)
+![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+Failed to install with an error about AR4501.are not found (is it a
+Pre-EET item?)
+
+- [Every Mod and Dog](https://www.gibberlings3.net/files/file/707-every-mod-and-dog/)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+
+- [Gibberlings3 Anniversary](https://www.gibberlings3.net/files/file/932-gibberlings-three-anniversary-mod/)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+
+- [Assassinations](https://github.com/Pocket-Plane-Group/Assassinations/releases)
+![dist](https://img.shields.io/badge/dist-ppg-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+
+- [Alternatives](https://www.gibberlings3.net/files/file/682-alternatives/)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+
+- [Back to Brynnlaw](https://github.com/Pocket-Plane-Group/Back_to_Brynnlaw/releases)
+![dist](https://img.shields.io/badge/dist-ppg-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+
+- [Balduran's Seatower](https://github.com/Gibberlings3/BS_Baldurans_Seatower/releases)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+
+- [Cowled Menace](https://www.gibberlings3.net/mods/quests/the-cowled-menace/)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+
+- [Heroes Thieves and Moneylenders](https://github.com/Austin-BG/HTaM/releases)
+![dist](https://img.shields.io/badge/dist-austinbg-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+
+- [Dungeon Crawl](https://www.gibberlings3.net/forums/topic/30155-ppg-dungeon-crawl-v11-with-eet-compatibility-and-minor-fixes/)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+
+- [Test Your Mettle](https://github.com/Argent77/A7-TestYourMettle/releases)
+![dist](https://img.shields.io/badge/dist-argent77-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+
+- [Secret of Bonehill](http://www.shsforums.net/forum/194-secret-of-bonehill/)
+![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+
+- [The Vault](https://github.com/ahungry/awesome-bgmods)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+FIXME I need to find this url
+
+- [Magic Store of Vergadin](https://github.com/Argent77/A7-MagicStore/releases)
+![dist](https://img.shields.io/badge/dist-argent77-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+
+- [Sirines Call](https://github.com/ahungry/awesome-bgmods)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+FIXME I need to find this url
+
+- [Dark Side of the Sword Coast](http://www.shsforums.net/files/file/66-dark-side-of-the-sword-coast/)
+![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+
+- [Northern Tales of the Sword Coast](http://www.shsforums.net/files/file/71-northern-tales-of-the-sword-coast/)
+![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+
+- [The Minotaur and Lilarcor](https://github.com/SpellholdStudios/The_Minotaur_and_Lilacor/releases)
+![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+
+- [Trials of the Luremaster](https://github.com/Argent77/A7-TotLM-BG2EE/releases/tag/v3.0)
+![dist](https://img.shields.io/badge/dist-argent77-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+
 
 ### Characters
 ### Gameplay
