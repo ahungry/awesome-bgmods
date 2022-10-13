@@ -15,8 +15,8 @@
 .bottom-search-bar input { display: inline-block; }
 .help { display: inline-block; }
 
-/* If width is less than 600 do this stuff */
-@media (min-width: 700px)
+/* If width is less than 800 do this stuff */
+@media (min-width: 800px)
 {
   .bottom-search-bar {
     top: 0;
@@ -26,8 +26,8 @@
   }
 }
 
-/* If width is less than 600 do this stuff */
-@media (max-width: 700px)
+/* If width is less than 800 do this stuff */
+@media (max-width: 800px)
 {
   .bottom-search-bar {
     bottom: 0;
