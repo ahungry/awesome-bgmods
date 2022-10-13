@@ -77,9 +77,8 @@ are in the prior section).
 Mod categories are listed in the (generally) recommended mod install
 order for an EET (Enhanced Edition Trilogy) install, and the
 individual mods listed in each block are placed in the order I have
-personally tested/installed them - if future ones are inserted
-in-between ones I've personally tested by other contributors, it will
-be noted by a different badge.
+personally tested/installed them in the past (for mods I've tried
+out).
 
 Badges look like this, and it is not an endorsement or review on the
 quality of the mod - just that it was successfully installed and
@@ -1080,14 +1079,16 @@ FIXME: Add the link
   bottom: 0;
   left: 0;
   width: 100%;
-  background: rgba(0, 0, 0, 0.8);
-  color: #fff;
+  background: rgba(250, 255, 200, 1);
+  color: #000;
   font-family: monospace;
   padding: 0.8rem;
+  font-size: 0.7rem;
+  border-top: 2px solid navy;
 }
 </style>
 <script>
-  function dosearch(e)
+  function dosearch()
   {
     const filter = document.getElementById('modsearch').value
     const xs = document.querySelectorAll('ul li')
@@ -1098,13 +1099,17 @@ FIXME: Add the link
         xs[i].style.display='none'
     }
   }
-  document.body.innerHTML+='<div class="bottom-search-bar">tags: <input type="text" id="modsearch" onkeydown="dosearch()" /></div>'
+
+  document.body.innerHTML+=`<div class="bottom-search-bar">tags:
+  <input type="text" id="modsearch" /> <br />(ex: 'tag-audio' finds
+  matches w/that tag, 'drizzt' finds any mods that mention him, 'cmp-ahungry' finds mods that ahungry used in tandem, 'dist-g3'
+  finds mods from gibberlings3)</div>`
+
+  setInterval(dosearch, 100)
 
   const links = document.querySelectorAll('a')
   for (let i = 0; i < links.length; i++)
     if (links[i].href.indexOf('#') === -1)
     links[i].target='_blank'
-
-alert('10')
 </script>
 </details>
