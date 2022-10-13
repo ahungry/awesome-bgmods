@@ -51,19 +51,23 @@ mention him, 'cmp-ahungry001' finds mods that ahungry used in tandem, 'dist-g3'
 finds mods from gibberlings3
 `)
 }
+function reset() {
+  document.getElementById('modsearch').value = ''
+}
 
 function appendsearch() {
   document.body.innerHTML+=`<div class="spacer">&nbsp;</div>
 <div class="bottom-search-bar">
 <input type="text" id="modsearch" />
+<button class="reset" onclick='reset()'>reset</button>
 <button class="help" onclick='help()'>help</button>
-<h6>tags</h6>
+<h5>tags</h5>
 <div class="tags overflower"></div>
-<h6>dists</h6>
+<h5>dists</h5>
 <div class="dists overflower"></div>
-<h6>cmps</h6>
+<h5>cmps</h5>
 <div class="cmps overflower"></div>
-<h6>nays</h6>
+<h5>nays</h5>
 <div class="nays overflower"></div>
 </div>
 </div>

@@ -41,7 +41,7 @@
   .dists { display: none; }
   .cmps { display: none; }
   .nays { display: none; }
-  .bottom-search-bar h6 { display: none; }
+  .bottom-search-bar h5 { display: none; }
 }
 
 .spacer {
@@ -55,4 +55,11 @@
 
 .help:hover {
   height: auto;
+}
+
+button {
+  background: teal;
+  border-radius: 2px;
+  color: #fff;
+  border: 0;
 }
