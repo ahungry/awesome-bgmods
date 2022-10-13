@@ -529,75 +529,75 @@ Pre-EET item?)
 
 - [Every Mod and Dog](https://www.gibberlings3.net/files/file/707-every-mod-and-dog/)
 ![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
-![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Gibberlings3 Anniversary](https://www.gibberlings3.net/files/file/932-gibberlings-three-anniversary-mod/)
 ![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
-![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Assassinations](https://github.com/Pocket-Plane-Group/Assassinations/releases)
 ![dist](https://img.shields.io/badge/dist-ppg-purple?style=plastic)
-![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Alternatives](https://www.gibberlings3.net/files/file/682-alternatives/)
 ![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
-![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Back to Brynnlaw](https://github.com/Pocket-Plane-Group/Back_to_Brynnlaw/releases)
 ![dist](https://img.shields.io/badge/dist-ppg-purple?style=plastic)
-![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Balduran's Seatower](https://github.com/Gibberlings3/BS_Baldurans_Seatower/releases)
 ![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
-![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Cowled Menace](https://www.gibberlings3.net/mods/quests/the-cowled-menace/)
 ![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
-![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Heroes Thieves and Moneylenders](https://github.com/Austin-BG/HTaM/releases)
 ![dist](https://img.shields.io/badge/dist-austinbg-purple?style=plastic)
-![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Dungeon Crawl](https://www.gibberlings3.net/forums/topic/30155-ppg-dungeon-crawl-v11-with-eet-compatibility-and-minor-fixes/)
 ![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
-![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Test Your Mettle](https://github.com/Argent77/A7-TestYourMettle/releases)
 ![dist](https://img.shields.io/badge/dist-argent77-purple?style=plastic)
-![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Secret of Bonehill](http://www.shsforums.net/forum/194-secret-of-bonehill/)
 ![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
-![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [The Vault](https://github.com/ahungry/awesome-bgmods)
-![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 FIXME I need to find this url
 
 - [Magic Store of Vergadin](https://github.com/Argent77/A7-MagicStore/releases)
 ![dist](https://img.shields.io/badge/dist-argent77-purple?style=plastic)
-![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Sirines Call](https://github.com/ahungry/awesome-bgmods)
-![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 FIXME I need to find this url
 
 - [Dark Side of the Sword Coast](http://www.shsforums.net/files/file/66-dark-side-of-the-sword-coast/)
 ![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
-![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Northern Tales of the Sword Coast](http://www.shsforums.net/files/file/71-northern-tales-of-the-sword-coast/)
 ![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
-![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [The Minotaur and Lilarcor](https://github.com/SpellholdStudios/The_Minotaur_and_Lilacor/releases)
 ![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
-![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 - [Trials of the Luremaster](https://github.com/Argent77/A7-TotLM-BG2EE/releases/tag/v3.0)
 ![dist](https://img.shields.io/badge/dist-argent77-purple?style=plastic)
-![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
 
 ### Characters
