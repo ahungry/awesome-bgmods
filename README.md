@@ -1097,12 +1097,12 @@ FIXME: Add the link
         xs[i].style.display='none'
     }
   }
-  document.body.innerHTML+='<div class='bottom-search-bar'>tags: <input type="text" id="modsearch" onchange="dosearch()" /></div>'
+  document.body.innerHTML+='<div class="bottom-search-bar">tags: <input type="text" id="modsearch" onchange="dosearch()" /></div>'
 
   const links = document.querySelectorAll('a')
   for (let i = 0; i < links.length; i++)
     links[i].target='_blank'
 
-alert('8')
+alert('9')
 </script>
 </details>
