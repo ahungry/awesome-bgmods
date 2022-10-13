@@ -1087,7 +1087,7 @@ FIXME: Add the link
 <script>
   function dosearch(e)
   {
-    const filter = e.target.value
+    const filter = document.getElementById('modsearch').value
     const xs = document.querySelectorAll('ul li')
     for (let i = i; i < xs; i++) {
       if (xs[i].innerText.indexOf(filter) > -1)
@@ -1097,12 +1097,12 @@ FIXME: Add the link
     }
   }
   const header = document.getElementById('header')
-  header.innerHTML+='<li class="fork">tags: <input type="text" id="modsearch" onchange="dosearch(e)" /></li>'
+  header.innerHTML+='<li class="fork">tags: <input type="text" id="modsearch" onchange="dosearch()" /></li>'
 
   const links = document.querySelectorAll('a')
   for (let i = 0; i < links.length; i++)
     links[i].target='_blank'
 
-alert('3')
+alert('5')
 </script>
 </details>
