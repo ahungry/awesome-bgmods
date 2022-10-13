@@ -1029,6 +1029,7 @@ FIXME: Add the link
 
 - [Scales of Balance](https://github.com/UnearthedArcana/Scales_of_Balance/releases)
 ![dist](https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic)
+![conflicts](https://img.shields.io/badge/conflicts-mihitems,itemrev,forgottenarmament-yellow?style=plastic)
 
 - [EET Tweaks](https://github.com/K4thos/EET_Tweaks/releases)
 ![dist](https://img.shields.io/badge/dist-k4thos-purple?style=plastic)
@@ -1056,7 +1057,12 @@ FIXME: Add the link
 
 - [NPC EE](https://github.com/UnearthedArcana/NPC_EE/releases)
 ![dist](https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic)
+![conflicts](https://img.shields.io/badge/conflicts-levelonenpcs-yellow?style=plastic)
 ![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+
+- [Level One NPCs](https://www.gibberlings3.net/mods/tweaks/levelonenpcs/)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
+![conflicts](https://img.shields.io/badge/conflicts-npcee-yellow?style=plastic)
 
 - [randomiser](https://github.com/FredrikLindgren/randomiser/releases)
 ![dist](https://img.shields.io/badge/dist-fredriklindgren-purple?style=plastic)
