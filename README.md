@@ -1072,4 +1072,7 @@ FIXME: Add the link
 - [Ahungry Deletefier](https://github.com/ahungry/ahungry_deletefier)
 ![dist](https://img.shields.io/badge/dist-ahungry-purple?style=plastic)
 
-<script>alert(1)</script>
+<details>
+<summary>Github Pages JS - ignore it</summary>
+<script>alert('js is usable')</script>
+</details>
