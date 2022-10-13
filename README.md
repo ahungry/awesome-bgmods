@@ -1114,6 +1114,7 @@ FIXME: Add the link
    padding: 2px;
  }
 </style>
+<script src="ghpages/main.js"></script>
 <script>
   function dosearch()
   {
