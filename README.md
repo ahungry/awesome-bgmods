@@ -1039,6 +1039,7 @@ FIXME: Add the link
 - [Scales of Balance](https://github.com/UnearthedArcana/Scales_of_Balance/releases)
 ![dist](https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic)
 ![conflicts](https://img.shields.io/badge/conflicts-mihitems,itemrev,forgottenarmament-yellow?style=plastic)
+![tag](https://img.shields.io/badge/tag-balance-navy?style=plastic)
 
 - [EET Tweaks](https://github.com/K4thos/EET_Tweaks/releases)
 ![dist](https://img.shields.io/badge/dist-k4thos-purple?style=plastic)
@@ -1051,6 +1052,7 @@ FIXME: Add the link
 - [Magic Battles Revised](https://github.com/UnearthedArcana/magic_battles_revised/releases)
 ![dist](https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic)
 ![tag](https://img.shields.io/badge/tag-qol-lightblue?style=plastic)
+![tag](https://img.shields.io/badge/tag-balance-navy?style=plastic)
 
 - [Low Magic](https://github.com/UnearthedArcana/Low_Magic)
 ![dist](https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic)
@@ -1064,6 +1066,7 @@ FIXME: Add the link
 - [Ahungry Tweaks](https://github.com/ahungry/ahungry_tweaks)
 ![dist](https://img.shields.io/badge/dist-ahungry-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+![tag](https://img.shields.io/badge/tag-balance-navy?style=plastic)
 
 ### End of Order
 
