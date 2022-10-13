@@ -1023,9 +1023,9 @@ FIXME: Add the link
 ![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
 FIXME: Add the link
 
-- aTweaks (Your PnP Tweak Pack)
+- [aTweaks](http://www.spellholdstudios.net/ie/atweaks)
+![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
-FIXME: Add the link
 
 - [Scales of Balance](https://github.com/UnearthedArcana/Scales_of_Balance/releases)
 ![dist](https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic)
