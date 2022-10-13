@@ -1,3 +1,5 @@
+console.log('js 1 loaded')
+
 function dosearch()
 {
   const filter = document.getElementById('modsearch').value
@@ -29,8 +31,8 @@ function snagtags(){
   })
 }
 
-document.body.innerHTML+=`
-<div class="spacer">&nbsp;</div>
+function appendsearch() {
+  document.body.innerHTML+=`<div class="spacer">&nbsp;</div>
 <div class="bottom-search-bar">tags:
 <input type="text" id="modsearch" />
 <br />
@@ -38,6 +40,7 @@ document.body.innerHTML+=`
 mention him, 'cmp-ahungry001' finds mods that ahungry used in tandem, 'dist-g3'
 finds mods from gibberlings3)<br />
 </div>`
+}
 
 setInterval(dosearch, 100)
 
@@ -46,4 +49,7 @@ for (let i = 0; i < links.length; i++)
   if (links[i].href.indexOf('#') === -1)
     links[i].target='_blank'
 
-window.onload=snagtags
+window.onload=() => {
+  appendsearch()
+  snagtags()
+}

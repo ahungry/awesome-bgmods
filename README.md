@@ -1093,5 +1093,5 @@ FIXME: Add the link
 <details>
 <summary>Github Pages Stuff - ignore it</summary>
 <link href="ghpages/main.css" rel="stylesheet" />
-<script src="ghpages/main.js"></script>
+<script src="ghpages/main.js?v=1"></script>
 </details>
