@@ -125,6 +125,7 @@ Adds WAY more banter/conversations with original BG1 npcs.
 ![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
 ![dependson](https://img.shields.io/badge/dependson-bg1npc-orange?style=plastic)
 ![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+![tag](https://img.shields.io/badge/tag-audio-pink?style=plastic)
 Background music to go with the banters (it'll play as the banter initiates).
 
 ### Quests/Story
@@ -869,30 +870,37 @@ FIXME Find the url
 - [Planescape Torment Voice Pack](https://github.com/GraionDilach/Planescape-Torment-Voice-Pack-for-EE-2.6/releases/tag/version-1.1.2)
 ![dist](https://img.shields.io/badge/dist-graion-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+![tag](https://img.shields.io/badge/tag-audio-pink?style=plastic)
 
 - [IWD Voices](https://github.com/GraionDilach/Icewind-Dale-Voice-Pack-For-EE-2.6/releases/tag/version-1.0.0)
 ![dist](https://img.shields.io/badge/dist-graion-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+![tag](https://img.shields.io/badge/tag-audio-pink?style=plastic)
 
 - [IWD2 Voices](https://github.com/GraionDilach/Icewind-Dale-II-Voice-Pack-For-EE-2.6/releases/tag/version-1.0.3)
 ![dist](https://img.shields.io/badge/dist-graion-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+![tag](https://img.shields.io/badge/tag-audio-pink?style=plastic)
 
 - [BG1 Voices](https://github.com/GraionDilach/Baldurs-Gate-Voice-Pack-for-EE-2.6/releases/tag/version-1.0.0)
 ![dist](https://img.shields.io/badge/dist-graion-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+![tag](https://img.shields.io/badge/tag-audio-pink?style=plastic)
 
 - [BG2 Voices](https://github.com/GraionDilach/Baldurs-Gate-II-Voice-Pack-for-EE-2.6/releases/tag/version-1.0.0)
 ![dist](https://img.shields.io/badge/dist-graion-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+![tag](https://img.shields.io/badge/tag-audio-pink?style=plastic)
 
 - [BGNPC Voices](https://github.com/GraionDilach/Baldurs-Gate-NPC-Voice-Pack-for-EE-2.6/releases/tag/version-0.2.2)
 ![dist](https://img.shields.io/badge/dist-graion-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+![tag](https://img.shields.io/badge/tag-audio-pink?style=plastic)
 
 - [NWN Voices](https://github.com/GraionDilach/Neverwinter-Nights-Voice-Pack-for-EE-2.6/releases/tag/version-0.3.1)
 ![dist](https://img.shields.io/badge/dist-graion-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+![tag](https://img.shields.io/badge/tag-audio-pink?style=plastic)
 
 
 ### Gameplay
