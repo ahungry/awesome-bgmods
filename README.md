@@ -1076,7 +1076,7 @@ FIXME: Add the link
 <summary>Github Pages Stuff - ignore it</summary>
 <style>
 .bottom-search-bar {
-  position: absolute;
+  position: fixed;
   bottom: 0;
   left: 0;
   width: 100%;
@@ -1084,10 +1084,20 @@ FIXME: Add the link
   color: #fff;
 }
 </style>
-<div class="bottom-search-bar">
-    <input type="text" />
-</div>
 <script>
-alert('js is usable')
+  function dosearch(e)
+  {
+    const filter = e.target.value
+    const xs = document.querySelectorAll('ul li')
+    for (let i = i; i < xs; i++) {
+      if (xs[i].innerText.indexOf(filter) > -1)
+        xs[i].style.display='block'
+      else
+        xs[i].style.display='none
+    }
+  }
+  const header = document.getElementById('header')
+  header.append('<input type="text" id="modsearch" onchange="dosearch(e)" />')
+
 </script>
 </details>
