@@ -1121,7 +1121,9 @@ FIXME: Add the link
 
   document.body.innerHTML+=`<div class="bottom-search-bar">tags:
   <input type="text" id="modsearch" /> <br />(ex: 'tag-audio' finds
-  matches w/that tag, 'drizzt' finds any mods that mention him, 'cmp-ahungry' finds mods that ahungry used in tandem, 'dist-g3'
+  audio tags, 'tag-hard' finds difficulty increasing matches,
+  'tag-qol' finds quality of life mods.<br />
+  'drizzt' finds any mods that mention him, 'cmp-ahungry001' finds mods that ahungry used in tandem, 'dist-g3'
   finds mods from gibberlings3)</div>`
 
   setInterval(dosearch, 100)
