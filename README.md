@@ -1108,6 +1108,11 @@ FIXME: Add the link
 .spacer {
   min-height: 300px;
 }
+ .barbutton {
+   cursor: pointer;
+   margin: 2px;
+   padding: 2px;
+ }
 </style>
 <script>
   function dosearch()
