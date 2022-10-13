@@ -1,0 +1,22 @@
+.bottom-search-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: rgba(250, 255, 200, 1);
+  color: #000;
+  font-family: monospace;
+  padding: 0.8rem;
+  font-size: 0.7rem;
+  border-top: 2px solid navy;
+}
+
+.spacer {
+  min-height: 300px;
+}
+
+.barbutton {
+  cursor: pointer;
+  margin: 2px;
+  padding: 2px;
+}
