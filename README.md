@@ -1099,6 +1099,10 @@ FIXME: Add the link
   const header = document.getElementById('header')
   header.innerHTML+='<li class="fork">tags: <input type="text" id="modsearch" onchange="dosearch(e)" /></li>'
 
-alert('2')
+  const links = document.querySelectorAll('a')
+  for (let i = 0; i < links.length; i++)
+    links[i].target='_blank'
+
+alert('3')
 </script>
 </details>
