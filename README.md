@@ -1105,6 +1105,9 @@ FIXME: Add the link
   font-size: 0.7rem;
   border-top: 2px solid navy;
 }
+.spacer {
+  min-height: 300px;
+}
 </style>
 <script>
   function dosearch()
@@ -1119,7 +1122,7 @@ FIXME: Add the link
     }
   }
 
-  document.body.innerHTML+=`<div class="bottom-search-bar">tags:
+  document.body.innerHTML+=`<div class="spacer">&nbsp;</div><div class="bottom-search-bar">tags:
   <input type="text" id="modsearch" /> <br />(ex: 'tag-audio' finds
   audio tags, 'tag-hard' finds difficulty increasing matches,
   'tag-qol' finds quality of life mods.<br />
