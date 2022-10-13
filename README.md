@@ -1073,6 +1073,21 @@ FIXME: Add the link
 ![dist](https://img.shields.io/badge/dist-ahungry-purple?style=plastic)
 
 <details>
-<summary>Github Pages JS - ignore it</summary>
-<script>alert('js is usable')</script>
+<summary>Github Pages Stuff - ignore it</summary>
+<style>
+.bottom-search-bar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+}
+</style>
+<div class="bottom-search-bar">
+    <input type="text" />
+</div>
+<script>
+alert('js is usable')
+</script>
 </details>
