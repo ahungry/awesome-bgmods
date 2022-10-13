@@ -1080,9 +1080,10 @@ FIXME: Add the link
   bottom: 0;
   left: 0;
   width: 100%;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.8);
   color: #fff;
-  font-family: italic;
+  font-family: monospace;
+  padding: 0.8rem;
 }
 </style>
 <script>
@@ -1090,19 +1091,20 @@ FIXME: Add the link
   {
     const filter = document.getElementById('modsearch').value
     const xs = document.querySelectorAll('ul li')
-    for (let i = 1; i < xs; i++) {
-      if (xs[i].innerText.indexOf(filter) > -1)
+    for (let i = 1; i < xs.length; i++) {
+      if (xs[i].innerHTML.toLowerCase().indexOf(filter) > -1)
         xs[i].style.display='block'
       else
         xs[i].style.display='none'
     }
   }
-  document.body.innerHTML+='<div class="bottom-search-bar">tags: <input type="text" id="modsearch" onchange="dosearch()" /></div>'
+  document.body.innerHTML+='<div class="bottom-search-bar">tags: <input type="text" id="modsearch" onkeydown="dosearch()" /></div>'
 
   const links = document.querySelectorAll('a')
   for (let i = 0; i < links.length; i++)
+    if (links[i].href.indexOf('#') === -1)
     links[i].target='_blank'
 
-alert('9')
+alert('10')
 </script>
 </details>
