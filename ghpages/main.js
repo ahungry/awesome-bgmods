@@ -21,16 +21,31 @@ function snagtags(){
   const m = {}
   for (let i = 0; i < tags.length; i++) {
     const match = tags[i].src.match(/.*((tag|dist|cmp|nay)-.*?)-/)
+
     if (match) {
+      const anchor = document.createElement('a')
+      anchor.href = '#' + match[1]
+      tags[i].parentElement.append(anchor)
+
       const el = document.createElement('img')
       el.src = tags[i].src
       el.className = 'barbutton'
-      el.onclick = () => { document.getElementById('modsearch').value = match[1] }
+      el.onclick = () => {
+        document.getElementById('modsearch').value = match[1]
+        window.scrollTo(0, 0)
+        setTimeout(
+          () => {
+            document.querySelector('a[href="#' + match[1] + '"]')
+              .scrollIntoView(true)
+            setTimeout(() => { window.scrollBy(0, -100) }, 100)
+          },
+          100
+        )
+      }
       m[match[1]] = el
     }
   }
   Object.keys(m).forEach(k => {
-    console.log(k)
     if (/^tag/.test(k))
       tagbar.append(m[k])
 
@@ -79,8 +94,21 @@ for (let i = 0; i < links.length; i++)
   if (links[i].href.indexOf('#') === -1)
     links[i].target='_blank'
 
+function searchToggle(){
+  if (window.innerWidth < 800) {
+    document.querySelector('.bottom-search-bar').style.display='block'
+    return
+  }
+  if (window.scrollY > 600) {
+    document.querySelector('.bottom-search-bar').style.display='block'
+  } else {
+    document.querySelector('.bottom-search-bar').style.display='none'
+  }
+}
+
 window.onload=() => {
   appendsearch()
   snagtags()
   setInterval(dosearch, 100)
+  // setInterval(searchToggle, 300)
 }
