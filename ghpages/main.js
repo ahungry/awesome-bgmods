@@ -1,4 +1,4 @@
-console.log('js 1 loaded')
+console.log('js 2 loaded')
 
 function dosearch()
 {
@@ -42,8 +42,6 @@ finds mods from gibberlings3)<br />
 </div>`
 }
 
-setInterval(dosearch, 100)
-
 const links = document.querySelectorAll('a')
 for (let i = 0; i < links.length; i++)
   if (links[i].href.indexOf('#') === -1)
@@ -52,4 +50,5 @@ for (let i = 0; i < links.length; i++)
 window.onload=() => {
   appendsearch()
   snagtags()
+  setInterval(dosearch, 100)
 }
