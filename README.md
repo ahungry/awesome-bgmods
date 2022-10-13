@@ -92,6 +92,10 @@ didn't have any obvious game breaking errors in tandem with other mods.
 This implies that all items with this badge were able to play nicely
 while installed in tandem with each other, without hitting any conflicts.
 
+If you see
+![conflicts](https://img.shields.io/badge/conflicts-LeUI-yellow?style=plastic)
+then that means choose one or the other, not both.
+
 If you don't want to use EET, the mods in the first section (Pre-EET)
 should be good for a BG:EE game, but not for a BG2:EE, however some of
 the mods in the Post-EET section may be good for a BG:EE as well
@@ -260,7 +264,6 @@ Adds lots of Icewind Dale spells and items (and spell effects) to the game.
 - [Tipun GUI](https://github.com/tipun81/tipun_gui_mod/releases)
 ![dist](https://img.shields.io/badge/dist-tipun-purple?style=plastic)
 ![conflicts](https://img.shields.io/badge/conflicts-LeUI-yellow?style=plastic)
-![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
 
 - [LeUI](https://github.com/r-e-d/LeUI/releases)
 ![dist](https://img.shields.io/badge/dist-lefreut-purple?style=plastic)
@@ -898,26 +901,169 @@ FIXME Find the url
 ### Gameplay
 
 - Made In Heaven Item Pack
-![conflicts](https://img.shields.io/badge/conflicts-itemrev-yellow?style=plastic)
 ![dist](https://img.shields.io/badge/dist-angel-purple?style=plastic)
+![conflicts](https://img.shields.io/badge/conflicts-itemrev,forgottenarmament,scalesofbalance-yellow?style=plastic)
 FIXME Get url
 
 - Made in Heaven Spell Pack
-![conflicts](https://img.shields.io/badge/conflicts-spellrev-yellow?style=plastic)
 ![dist](https://img.shields.io/badge/dist-angel-purple?style=plastic)
+![conflicts](https://img.shields.io/badge/conflicts-spellrev-yellow?style=plastic)
 FIXME Get url
 
 - Made in Heaven EQ
-![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
 ![dist](https://img.shields.io/badge/dist-angel-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/nay-ahungry-red?style=plastic)
 FIXME Get url // In a large install, some of the revamped Ramizeth
 tower and Ulcaster ruins encounters triggered segfaults/game crash
 when installed.
 
+- Made in Heaven Tweaks
+![dist](https://img.shields.io/badge/dist-angel-purple?style=plastic)
+FIXME Get url
+
+- [Item Revisions](https://github.com/Gibberlings3/ItemRevisions/releases)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+![conflicts](https://img.shields.io/badge/conflicts-mihitems,forgottenarmament,scalesofbalance-yellow?style=plastic)
+Lots of great revamps to items.
+
+- [Item Revisions Revised](https://github.com/BartyMae/IR_Revised/releases)
+![dist](https://img.shields.io/badge/dist-bartymae-purple?style=plastic)
+![dependson](https://img.shields.io/badge/dependson-itemrevisions-orange?style=plastic)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+Even more great revamps!
+
+- [Forgotten Armament](https://github.com/Gibberlings3/Forgotten-Armament/releases/tag/1.0)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
+![conflicts](https://img.shields.io/badge/conflicts-itemrev,mihitems,scalesofbalance-yellow?style=plastic)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+Includes some fun new items and some item tweaks to make them more NWN-like.
+
+- [Spell Revisions](https://github.com/Gibberlings3/SpellRevisions/releases)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
+![conflicts](https://img.shields.io/badge/conflicts-mihspells-yellow?style=plastic)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+
+- [Spell Revisions Revised](https://github.com/BartyMae/SR_Revised/releases)
+![dist](https://img.shields.io/badge/dist-bartymae-purple?style=plastic)
+![dependson](https://img.shields.io/badge/dependson-spellrevisions-orange?style=plastic)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+
+- [Monastic Orders of Faerun](https://github.com/aquadrizzt/MonasticOrders/releases)
+![dist](https://img.shields.io/badge/dist-aquadrizzt-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+Revamps the monk class to be comprised via thief kits.
+
+- [Artisans Kitpack](https://artisans-corner.com/the-artisans-kitpack/)
+![dist](https://img.shields.io/badge/dist-artisans-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+
+- [Warlock](https://github.com/ArtemiusI/Warlock/releases)
+![dist](https://img.shields.io/badge/dist-artisans-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+
+- [Bardic Wonders](https://github.com/ArtemiusI/Bardic-Wonders/releases)
+![dist](https://img.shields.io/badge/dist-artisans-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+
+- [Shadow Adept](https://github.com/ArtemiusI/Shadow-Magic/releases)
+![dist](https://img.shields.io/badge/dist-artisans-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+
+- [Divine Remix](https://github.com/Gibberlings3/Divine_Remix/releases)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+
+- [Tome and Blood](https://github.com/subtledoctor/TomeAndBlood/releases)
+![dist](https://img.shields.io/badge/dist-subtledoctor-purple?style=plastic)
+
+- [Faiths and Powers](https://github.com/UnearthedArcana/Faiths_and_Powers/releases)
+![dist](https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic)
+
+- [Will to Power](https://github.com/UnearthedArcana/Will_to_Power/releases/tag/2.2.1)
+![dist](https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic)
+
+- [Might and Guile](https://github.com/UnearthedArcana/Might_and_Guile/releases)
+![dist](https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic)
+
 ### System Revisions
+
+- EET End
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+No link - this is just the end step after EET
+
 ### Tactics
+
+- [Sword Coast Stratagems](https://www.gibberlings3.net/mods/tweaks/scs/)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+
+- Enhanced Powergaming Scripts
+FIXME: Add link to this here
+
 ### Tweaks
 
-These tend to be miscellaneous tweaks and adjustments to a game
+- [Tweaks Anthology (cdtweaks)](https://github.com/Gibberlings3/Tweaks-Anthology/releases)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+Some of the best tweaks around - look at all the options.  I love rest
+anywhere and some of the proficiency changes.
 
-- [ahungry tweaks](https://github.com/ahungry/ahungry_tweaks)
+- House Tweaks
+![dist](https://img.shields.io/badge/dist-artemis-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+FIXME: Add the link //  Nice tweaks that aren't often seen in the
+other tweak packages
+
+- Tweaks and Tricks (TNT)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+FIXME: Add the link
+
+- Klatu Tweaks and Fixes
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+FIXME: Add the link
+
+- aTweaks (Your PnP Tweak Pack)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+FIXME: Add the link
+
+- [Scales of Balance](https://github.com/UnearthedArcana/Scales_of_Balance/releases)
+![dist](https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic)
+
+- [EET Tweaks](https://github.com/K4thos/EET_Tweaks/releases)
+![dist](https://img.shields.io/badge/dist-k4thos-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+
+- [Subrace](https://github.com/tipun81/Subrace-mod/releases)
+![dist](https://img.shields.io/badge/dist-tipun-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+
+- [Magic Battles Revised](https://github.com/UnearthedArcana/magic_battles_revised/releases)
+![dist](https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic)
+
+- [Low Magic](https://github.com/UnearthedArcana/Low_Magic)
+![dist](https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic)
+
+- [Bart Tweaks](https://github.com/BartyMae/Bart_Tweaks)
+![dist](https://img.shields.io/badge/dist-bartymae-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+
+- [Ahungry Tweaks](https://github.com/ahungry/ahungry_tweaks)
+![dist](https://img.shields.io/badge/dist-ahungry-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+
+### End of Order
+
+- [NPC EE](https://github.com/UnearthedArcana/NPC_EE/releases)
+![dist](https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+
+- [randomiser](https://github.com/FredrikLindgren/randomiser/releases)
+![dist](https://img.shields.io/badge/dist-fredriklindgren-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+
+- [BG Enemy Randomizer](https://github.com/GuardianAnubite/bg_enemy_randomizer/releases)
+![dist](https://img.shields.io/badge/dist-guardiananubite-purple?style=plastic)
+
+- [Ahungry Deletefier](https://github.com/ahungry/ahungry_deletefier)
+![dist](https://img.shields.io/badge/dist-ahungry-purple?style=plastic)
