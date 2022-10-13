@@ -1097,7 +1097,7 @@ FIXME: Add the link
     }
   }
   const header = document.getElementById('header')
-  header.append('<input type="text" id="modsearch" onchange="dosearch(e)" />')
+  header.append('search by tag: <input type="text" id="modsearch" onchange="dosearch(e)" />')
 
 </script>
 </details>
