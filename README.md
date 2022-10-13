@@ -1002,6 +1002,7 @@ No link - this is just the end step after EET
 - [Sword Coast Stratagems](https://www.gibberlings3.net/mods/tweaks/scs/)
 ![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+![tag](https://img.shields.io/badge/tag-hard-maroon?style=plastic)
 
 - Enhanced Powergaming Scripts
 FIXME: Add link to this here
@@ -1011,6 +1012,7 @@ FIXME: Add link to this here
 - [Tweaks Anthology (cdtweaks)](https://github.com/Gibberlings3/Tweaks-Anthology/releases)
 ![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+![tag](https://img.shields.io/badge/tag-qol-lightblue?style=plastic)
 Some of the best tweaks around - look at all the options.  I love rest
 anywhere and some of the proficiency changes.
 
@@ -1026,11 +1028,13 @@ FIXME: Add the link
 
 - Klatu Tweaks and Fixes
 ![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+![tag](https://img.shields.io/badge/tag-qol-lightblue?style=plastic)
 FIXME: Add the link
 
 - [aTweaks](http://www.spellholdstudios.net/ie/atweaks)
 ![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+![tag](https://img.shields.io/badge/tag-hard-maroon?style=plastic)
 
 - [Scales of Balance](https://github.com/UnearthedArcana/Scales_of_Balance/releases)
 ![dist](https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic)
@@ -1046,13 +1050,16 @@ FIXME: Add the link
 
 - [Magic Battles Revised](https://github.com/UnearthedArcana/magic_battles_revised/releases)
 ![dist](https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic)
+![tag](https://img.shields.io/badge/tag-qol-lightblue?style=plastic)
 
 - [Low Magic](https://github.com/UnearthedArcana/Low_Magic)
 ![dist](https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic)
+![tag](https://img.shields.io/badge/tag-hard-maroon?style=plastic)
 
 - [Bart Tweaks](https://github.com/BartyMae/Bart_Tweaks)
 ![dist](https://img.shields.io/badge/dist-bartymae-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+![tag](https://img.shields.io/badge/tag-qol-lightblue?style=plastic)
 
 - [Ahungry Tweaks](https://github.com/ahungry/ahungry_tweaks)
 ![dist](https://img.shields.io/badge/dist-ahungry-purple?style=plastic)
@@ -1072,12 +1079,16 @@ FIXME: Add the link
 - [randomiser](https://github.com/FredrikLindgren/randomiser/releases)
 ![dist](https://img.shields.io/badge/dist-fredriklindgren-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/cmp-ahungry001-teal?style=plastic)
+![tag](https://img.shields.io/badge/tag-rand-olive?style=plastic)
 
 - [BG Enemy Randomizer](https://github.com/GuardianAnubite/bg_enemy_randomizer/releases)
 ![dist](https://img.shields.io/badge/dist-guardiananubite-purple?style=plastic)
+![tag](https://img.shields.io/badge/tag-rand-olive?style=plastic)
 
 - [Ahungry Deletefier](https://github.com/ahungry/ahungry_deletefier)
 ![dist](https://img.shields.io/badge/dist-ahungry-purple?style=plastic)
+![tag](https://img.shields.io/badge/tag-rand-olive?style=plastic)
+![tag](https://img.shields.io/badge/tag-hard-maroon?style=plastic)
 
 <details>
 <summary>Github Pages Stuff - ignore it</summary>
