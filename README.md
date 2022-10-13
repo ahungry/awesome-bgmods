@@ -1093,11 +1093,12 @@ FIXME: Add the link
       if (xs[i].innerText.indexOf(filter) > -1)
         xs[i].style.display='block'
       else
-        xs[i].style.display='none
+        xs[i].style.display='none'
     }
   }
   const header = document.getElementById('header')
   header.append('search by tag: <input type="text" id="modsearch" onchange="dosearch(e)" />')
 
+alert('1')
 </script>
 </details>
