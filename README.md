@@ -571,7 +571,7 @@ Pre-EET item?)
 ![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
-- [The Vault](https://github.com/ahungry/awesome-bgmods)
+- The Vault
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 FIXME I need to find this url
 
@@ -579,7 +579,7 @@ FIXME I need to find this url
 ![dist](https://img.shields.io/badge/dist-argent77-purple?style=plastic)
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 
-- [Sirines Call](https://github.com/ahungry/awesome-bgmods)
+- Sirines Call
 ![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
 FIXME I need to find this url
 
@@ -601,6 +601,243 @@ FIXME I need to find this url
 
 
 ### Characters
+
+- [Tenya Thermidor](https://forums.beamdog.com/discussion/33291/tenya-thermidor-v1-5)
+![dist](https://img.shields.io/badge/dist-beamdog-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Kivan and Deheriana](https://github.com/Gibberlings3/Kivan_and_Deheriana/releases)
+![dist](https://img.shields.io/badge/dist-g3-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Fhaugy](https://downloads.weaselmods.net/download/fhaugy/)
+![dist](https://img.shields.io/badge/dist-weaselmods-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Khalid BG2](https://downloads.weaselmods.net/download/khalid-bg2/)
+![dist](https://img.shields.io/badge/dist-weaselmods-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Faldorn BG2](https://downloads.weaselmods.net/download/faldorn-bg2ee/)
+![dist](https://img.shields.io/badge/dist-weaselmods-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Petsy](https://downloads.weaselmods.net/download/petsy/)
+![dist](https://img.shields.io/badge/dist-weaselmods-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Iylos](http://www.shsforums.net/files/file/539-iylos/)
+![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Ninde](http://www.shsforums.net/files/file/714-ninde/)
+![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- [Xulaye](http://www.shsforums.net/files/file/710-xulaye/)
+![dist](https://img.shields.io/badge/dist-shs-purple?style=plastic)
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+
+- Kido
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- [Alora BG2](https://github.com/GwendolyneFreddy/Alora-NPC-for-BG2/releases)
+
+- Yasraena
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Ajoc Mod
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Tyris Flare
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Kindrek
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Ariena
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Valen
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Star
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Uldar
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Holly Elf
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Maltese
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Melynda
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Velvet
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Saerileth
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Kitanya
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Fade
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Paina
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Arath
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Bristlelick
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Valerie
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Gavin
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Isra
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Eilistraee
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Saradas Magic 2
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Glam NPC Pack
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Adrian
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Sirene BG2
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- The Calling
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Finch NPC
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Tsujatha
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Kelsey
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Indi NPC
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Angelo
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Chloe
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Kim the Pirate
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Vampire Tales
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Travellers
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- The Rune
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Lens Hunt
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Corwin EET
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Tamoko
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Safana
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Ehlastra
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Sime NPC
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Deep Gnomes
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Sheena
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- The Grey Clan
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Skitia NPCs
+![ahungry](https://img.shields.io/badge/yay-ahungry-green?style=plastic)
+FIXME Need link
+
+- Vienxay
+![ahungry](https://img.shields.io/badge/unknown-ahungry-orange?style=plastic)
+FIXME Need link (didn't get to install this one yet)
+
+
+
 ### Gameplay
 ### System Revisions
 ### Tactics
