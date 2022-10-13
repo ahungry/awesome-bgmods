@@ -1097,12 +1097,12 @@ FIXME: Add the link
     }
   }
   const header = document.getElementById('header')
-  header.innerHTML+='<li class="fork">tags: <input type="text" id="modsearch" onchange="dosearch()" /></li>'
+  header.innerHTML+='<div>tags: <input type="text" id="modsearch" onchange="dosearch()" /></div>'
 
   const links = document.querySelectorAll('a')
   for (let i = 0; i < links.length; i++)
     links[i].target='_blank'
 
-alert('5')
+alert('6')
 </script>
 </details>
