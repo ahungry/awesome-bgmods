@@ -22,8 +22,9 @@
 ![dist](https://img.shields.io/badge/dist-%s-purple?style=plastic)
 %s%s
 
-![pic](https://ahungry.github.io/awesome-bgmods/ghpages/images/%s)
-" name home dist (tags->md tags) desc name))
+<img src=\"https://ahungry.github.io/awesome-bgmods/ghpages/images/%s.png\" alt=\"pic\" />
+ "
+          name home dist (tags->md tags) desc name))
 
 (defn yaml->md [yaml]
   (clojure.string/join (map entry->md yaml)))
@@ -31,7 +32,7 @@
 (defn generate []
   (let [yaml (slurp-yaml)
         preamble (slurp "../PREAMBLE.md")]
-    (spit "/tmp/x.md"
+    (spit "../README.md"
           (format "
 %s
 
