@@ -117,6 +117,7 @@ will manage to include them.
 
 
 ### Sundry/Miscellaneous
+<div class="container">
 
 <div class="mod-entry">
   <p><a href="https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-steam-gog-sod-dlc-or-custom-dlcs-with-the-main-game">modmerge</a></p>
@@ -148,8 +149,10 @@ will manage to include them.
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/bg1npcmusic.png" alt="pic" />
 </div>
  
+</div>
 
 ### Quests/Story
+<div class="container">
 
 <div class="mod-entry">
   <p><a href="https://forums.beamdog.com/discussion/29969/drizzt-saga-v3-released-now-bgee-compatible">Drizzt Saga</a></p>
@@ -191,8 +194,10 @@ will manage to include them.
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/bg1ub - Unfinished Business.png" alt="pic" />
 </div>
  
+</div>
 
 ### Characters
+<div class="container">
 
 <div class="mod-entry">
   <p><a href="https://mirandir.baldursgateworld.fr/garrick-tt/">Garrick Tales of a Troubador</a></p>
@@ -254,8 +259,10 @@ will manage to include them.
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Margarita.png" alt="pic" />
 </div>
  
+</div>
 
 ### Gameplay
+<div class="container">
 
 <div class="mod-entry">
   <p><a href="https://forums.beamdog.com/discussion/23861/bg-ee-mod-saradas-magic-released-v-1-1">Saradas Magic</a></p>
@@ -267,12 +274,14 @@ will manage to include them.
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Saradas Magic.png" alt="pic" />
 </div>
  
+</div>
 
 ## Post-EET
 
 Install/setup after EET
 
 ### Sundry/Miscellaneous
+<div class="container">
 
 <div class="mod-entry">
   <p><a href="https://github.com/Gibberlings3/EET">EET</a></p>
@@ -374,8 +383,10 @@ Install/setup after EET
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/IWDification.png" alt="pic" />
 </div>
  
+</div>
 
 ### UI Enhancement
+<div class="container">
 
 <div class="mod-entry">
   <p><a href="https://github.com/tipun81/tipun_gui_mod/releases">Tipun GUI</a></p>
@@ -417,8 +428,10 @@ Install/setup after EET
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Recolored Buttons.png" alt="pic" />
 </div>
  
+</div>
 
 ### Item Packs
+<div class="container">
 
 <div class="mod-entry">
   <p><a href="https://forums.beamdog.com/discussion/13314/mod-teambgs-armor-pack-for-bg-ee-bg2ee-bgt-amp-tutu/p1">TeamBG's Armor Pack</a></p>
@@ -540,8 +553,10 @@ Install/setup after EET
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Under Represented Items.png" alt="pic" />
 </div>
  
+</div>
 
 ### Quests/Story
+<div class="container">
 
 <div class="mod-entry">
   <p><a href="https://forums.beamdog.com/discussion/82463/mod-bg1-npcs-for-soa-tob">BG1 NPC in SoA</a></p>
@@ -1143,8 +1158,10 @@ Install/setup after EET
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Trials of the Luremaster.png" alt="pic" />
 </div>
  
+</div>
 
 ### Characters
+<div class="container">
 
 <div class="mod-entry">
   <p><a href="https://forums.beamdog.com/discussion/33291/tenya-thermidor-v1-5">Tenya Thermidor</a></p>
@@ -1786,12 +1803,14 @@ Install/setup after EET
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Shine on Caelar.png" alt="pic" />
 </div>
  
+</div>
 
 ### Position Dependent Quest/Megamod Portions
 
 This includes a few items that should be installed after
 quests/characters, but still not quite end of order.
 
+<div class="container">
 
 <div class="mod-entry">
   <p><a href="http://www.shsforums.net/files/file/308-bp-bgt-worldmap/">BP BGT Worldmap</a></p>
@@ -1833,8 +1852,10 @@ quests/characters, but still not quite end of order.
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Crossmod BG2.png" alt="pic" />
 </div>
  
+</div>
 
 ### Voice Packs/Portraits
+<div class="container">
 
 <div class="mod-entry">
   <p><a href="">Portraits, Portraits Everywhere (PPE)</a></p>
@@ -1916,8 +1937,10 @@ quests/characters, but still not quite end of order.
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/NWN Voices.png" alt="pic" />
 </div>
  
+</div>
 
 ### Gameplay
+<div class="container">
 
 <div class="mod-entry">
   <p><a href="">Made In Heaven Item Pack</a></p>
@@ -2109,8 +2132,10 @@ quests/characters, but still not quite end of order.
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Might and Guile.png" alt="pic" />
 </div>
  
+</div>
 
 ### System Revisions
+<div class="container">
 
 <div class="mod-entry">
   <p><a href="">EET End</a></p>
@@ -2122,8 +2147,10 @@ quests/characters, but still not quite end of order.
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/EET End.png" alt="pic" />
 </div>
  
+</div>
 
 ### Tactics
+<div class="container">
 
 <div class="mod-entry">
   <p><a href="https://www.gibberlings3.net/mods/tweaks/scs/">Sword Coast Stratagems</a></p>
@@ -2145,8 +2172,10 @@ quests/characters, but still not quite end of order.
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Enhanced Powergaming Scripts.png" alt="pic" />
 </div>
  
+</div>
 
 ### Tweaks
+<div class="container">
 
 <div class="mod-entry">
   <p><a href="https://github.com/Gibberlings3/Tweaks-Anthology/releases">Tweaks Anthology (cdtweaks)</a></p>
@@ -2268,8 +2297,10 @@ quests/characters, but still not quite end of order.
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Ahungry Tweaks.png" alt="pic" />
 </div>
  
+</div>
 
 ### End of Order
+<div class="container">
 
 <div class="mod-entry">
   <p><a href="https://github.com/UnearthedArcana/NPC_EE/releases">NPC EE</a></p>
@@ -2321,4 +2352,5 @@ quests/characters, but still not quite end of order.
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Ahungry Deletefier.png" alt="pic" />
 </div>
  
+</div>
 

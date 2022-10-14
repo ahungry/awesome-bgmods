@@ -43,60 +43,92 @@
 %s
 
 ### Sundry/Miscellaneous
+<div class=\"container\">
 %s
+</div>
 
 ### Quests/Story
+<div class=\"container\">
 %s
+</div>
 
 ### Characters
+<div class=\"container\">
 %s
+</div>
 
 ### Gameplay
+<div class=\"container\">
 %s
+</div>
 
 ## Post-EET
 
 Install/setup after EET
 
 ### Sundry/Miscellaneous
+<div class=\"container\">
 %s
+</div>
 
 ### UI Enhancement
+<div class=\"container\">
 %s
+</div>
 
 ### Item Packs
+<div class=\"container\">
 %s
+</div>
 
 ### Quests/Story
+<div class=\"container\">
 %s
+</div>
 
 ### Characters
+<div class=\"container\">
 %s
+</div>
 
 ### Position Dependent Quest/Megamod Portions
 
 This includes a few items that should be installed after
 quests/characters, but still not quite end of order.
 
+<div class=\"container\">
 %s
+</div>
 
 ### Voice Packs/Portraits
+<div class=\"container\">
 %s
+</div>
 
 ### Gameplay
+<div class=\"container\">
 %s
+</div>
 
 ### System Revisions
+<div class=\"container\">
 %s
+</div>
 
 ### Tactics
+<div class=\"container\">
 %s
+</div>
 
 ### Tweaks
+<div class=\"container\">
 %s
+</div>
 
 ### End of Order
+<div class=\"container\">
 %s
+</div>
 
 "
                   preamble
