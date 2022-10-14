@@ -13,21 +13,22 @@
 (defn tags->md [tags]
   (clojure.string/join
    (map (fn [tag]
-          (format "![tag](https://img.shields.io/badge/tag-%s-purple?style=plastic)\n" tag))
+          (format
+           "<img src=\"https://img.shields.io/badge/tag-%s-purple?style=plastic\" alt=\"%s\"/>"
+           tag tag))
         tags)))
 
 (defn entry->md [{:keys [name home dist desc tags]}]
   (format "
-- [%s](%s)
-
-![dist](https://img.shields.io/badge/dist-%s-purple?style=plastic)
-%s
-
-%s
-
+<div class=\"mod-entry\">
+<a href=\"%s\">%s</a>
+<img src=\"https://img.shields.io/badge/dist-%s-purple?style=plastic\" alt=\"dist\" />
+<div class=\"tags\">%s</p>
+<p class=\"desc\">%s</p>
 <img src=\"https://ahungry.github.io/awesome-bgmods/ghpages/images/%s.png\" alt=\"pic\" />
+</div>
  "
-          name home dist (tags->md tags) desc name))
+          home name dist (tags->md tags) desc name))
 
 (defn yaml->md [yaml]
   (clojure.string/join (map entry->md yaml)))

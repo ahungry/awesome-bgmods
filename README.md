@@ -121,8 +121,7 @@ will manage to include them.
 <div class="mod-entry">
 <a href="https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-steam-gog-sod-dlc-or-custom-dlcs-with-the-main-game">modmerge</a>
 <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-<div class="tags">![tag](https://img.shields.io/badge/tag-required-purple?style=plastic)
-</p>
+<div class="tags"><img src="https://img.shields.io/badge/tag-required-purple?style=plastic" alt="required"/></p>
 <p class="desc">Necessary if you want to include BG:SOD in your BG:EET setup - less of a weidu mod and more of a mandatory tool to execute.</p>
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/modmerge.png" alt="pic" />
 </div>
@@ -138,8 +137,7 @@ will manage to include them.
 <div class="mod-entry">
 <a href="https://www.gibberlings3.net/subpages/bg1npc/bg1music/">bg1npcmusic</a>
 <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-<div class="tags">![tag](https://img.shields.io/badge/tag-audio-purple?style=plastic)
-</p>
+<div class="tags"><img src="https://img.shields.io/badge/tag-audio-purple?style=plastic" alt="audio"/></p>
 <p class="desc">Background music to go with the banters (it'll play as the banter initiates).</p>
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/bg1npcmusic.png" alt="pic" />
 </div>
@@ -150,8 +148,7 @@ will manage to include them.
 <div class="mod-entry">
 <a href="https://forums.beamdog.com/discussion/29969/drizzt-saga-v3-released-now-bgee-compatible">Drizzt Saga</a>
 <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-<div class="tags">![tag](https://img.shields.io/badge/tag-combat-purple?style=plastic)
-</p>
+<div class="tags"><img src="https://img.shields.io/badge/tag-combat-purple?style=plastic" alt="combat"/></p>
 <p class="desc">Use "Travel Triggers" install option.  High level campaign with 5 custom npcs ranging in level from 9 to 15.  R.A. Salvatore based theme, up to +4 weapons can be found - about 5 hours of content.</p>
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Drizzt Saga.png" alt="pic" />
 </div>
@@ -159,9 +156,7 @@ will manage to include them.
 <div class="mod-entry">
 <a href="https://forums.beamdog.com/discussion/18833/bg-ee-dark-horizons-released">Dark Horizons</a>
 <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-<div class="tags">![tag](https://img.shields.io/badge/tag-combat-purple?style=plastic)
-![tag](https://img.shields.io/badge/tag-story-purple?style=plastic)
-</p>
+<div class="tags"><img src="https://img.shields.io/badge/tag-combat-purple?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-story-purple?style=plastic" alt="story"/></p>
 <p class="desc">Many new ambushes and integration of mod throughout entire BG1 campaign.  Drops are powerful - one known issue with end of campaign Oversight HQ.</p>
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Dark Horizons.png" alt="pic" />
 </div>
@@ -169,8 +164,7 @@ will manage to include them.
 <div class="mod-entry">
 <a href="https://forums.beamdog.com/discussion/42168/mod-the-stone-of-askavar-for-totsc-tutu-bgt-and-bg-ee">The Stone of Askavar</a>
 <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-<div class="tags">![tag](https://img.shields.io/badge/tag-combat-purple?style=plastic)
-</p>
+<div class="tags"><img src="https://img.shields.io/badge/tag-combat-purple?style=plastic" alt="combat"/></p>
 <p class="desc">Use "Travel Triggers" install option.  High level campaign with 5 custom npcs ranging in level from 9 to 15.  R.A. Salvatore based theme, up to +4 weapons can be found - about 5 hours of content.</p>
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/The Stone of Askavar.png" alt="pic" />
 </div>
@@ -178,8 +172,7 @@ will manage to include them.
 <div class="mod-entry">
 <a href="https://github.com/Pocket-Plane-Group/bg1ub/releases">bg1ub - Unfinished Business</a>
 <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
-<div class="tags">![tag](https://img.shields.io/badge/tag-story-purple?style=plastic)
-</p>
+<div class="tags"><img src="https://img.shields.io/badge/tag-story-purple?style=plastic" alt="story"/></p>
 <p class="desc">Lots of fun little quests (some part of original BG1 but cut for reasons).</p>
 <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/bg1ub - Unfinished Business.png" alt="pic" />
 </div>
