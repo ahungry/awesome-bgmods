@@ -22,15 +22,15 @@
   (format "
 <div class=\"mod-entry\">
   <p><a href=\"%s\">%s</a></p>
+  <img src=\"https://ahungry.github.io/awesome-bgmods/ghpages/images/%s.png\" alt=\"pic\" />
   <p class=\"tags\">
     <img src=\"https://img.shields.io/badge/dist-%s-purple?style=plastic\" alt=\"dist\" />
     %s
   </p>
 <p class=\"desc\">%s</p>
-<img src=\"https://ahungry.github.io/awesome-bgmods/ghpages/images/%s.png\" alt=\"pic\" />
 </div>
  "
-          home name dist (tags->md tags) desc name))
+          home name name dist (tags->md tags) desc))
 
 (defn yaml->md [yaml]
   (clojure.string/join (map entry->md yaml)))

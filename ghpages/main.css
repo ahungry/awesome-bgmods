@@ -4,6 +4,7 @@
 }
 
 .bottom-search-bar {
+  border-left: 2px solid #999;
   position: fixed;
   background: rgba(250, 255, 200, 1);
   color: #000;
@@ -11,6 +12,10 @@
   font-size: 0.7rem;
   border-top: 2px solid navy;
   /* animation: 0.5s linear fade; */
+}
+
+.bottom-search-bar h5 {
+  padding-left: 40px;
 }
 
 .overflower {
@@ -81,10 +86,20 @@ h3 {
 }
 
 .mod-entry {
-  border: 1px solid lime;
+  border: 1px solid #000;
+  font-size: 0.6rem;
   display: inline-block;
-  width: 200px;
+  width: 150px;
+  margin: 3px;
+  padding: 4px;
 }
+
+.mod-entry img[alt="pic"] {
+  vertical-align: bottom;
+  valign: bottom;
+  width: 90px;
+}
+
 .mod-entry p {
   margin: 2px;
 }
