@@ -86,20 +86,40 @@ h3 {
 }
 
 .mod-entry {
-  border: 1px solid #000;
-  font-size: 0.6rem;
+  font-size: 0.7rem;
   display: inline-block;
-  width: 150px;
-  margin: 3px;
+  width: 170px;
+  margin: 20px;
+  margin-top: 40px;
   padding: 4px;
+  position: relative;
 }
 
 .mod-entry img[alt="pic"] {
   vertical-align: bottom;
   valign: bottom;
-  width: 90px;
+  height: 40px;
+  max-height: auto;
+  position: absolute;
+  top: -40px;
+  left: -30px;
+  box-shadow: 3px 3px 4px #000;
+  transform: rotate(-15deg);
+  -ms-transition: 0.4s ease-in-out;
+  -webkit-transition: 0.4s ease-in-out;
+  transition: 0.4s ease-in-out;
+  z-index: 2;
+}
+
+.mod-entry img[alt="pic"]:hover {
+  height: auto;
+  transform: rotate(0);
+  top: -70px;
+  left: -30px;
+  z-index: 3;
 }
 
 .mod-entry p {
   margin: 2px;
+  text-align: justify;
 }

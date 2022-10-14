@@ -3,10 +3,10 @@ console.log('js 2 loaded')
 function dosearch()
 {
   const filter = document.getElementById('modsearch').value
-  const xs = document.querySelectorAll('ul li')
-  for (let i = 1; i < xs.length; i++) {
+  const xs = document.querySelectorAll('.mod-entry')
+  for (let i = 0; i < xs.length; i++) {
     if (xs[i].innerHTML.toLowerCase().indexOf(filter) > -1)
-      xs[i].style.display='block'
+      xs[i].style.display='inline-block'
     else
       xs[i].style.display='none'
   }
