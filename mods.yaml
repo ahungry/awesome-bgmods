@@ -1,0 +1,89 @@
+sundry1:
+
+  - name: modmerge
+    home: https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-steam-gog-sod-dlc-or-custom-dlcs-with-the-main-game
+    down: ~
+    dist: beamdog
+    desc:
+      Necessary if you want to include BG:SOD in your BG:EET setup - less of
+      a weidu mod and more of a mandatory tool to execute.
+    tags:
+      - required
+
+  - name: bg1npc
+    home: https://www.gibberlings3.net/mods/npcs/bg1npc/
+    down: https://github.com/Gibberlings3/BG1NPC/releases/tag/v30
+    dist: g3
+    desc:
+      Adds WAY more banter/conversations with original BG1 npcs.
+    tags:
+
+  - name: bg1npcmusic
+    home: https://www.gibberlings3.net/subpages/bg1npc/bg1music/
+    down: https://www.gibberlings3.net/files/file/692-bg1-npc-project-music-pack/
+    dist: g3
+    desc:
+      Background music to go with the banters (it'll play as the banter initiates).
+    tags:
+      - audio
+
+quests1:
+
+  - name: Drizzt Saga
+    home: https://forums.beamdog.com/discussion/29969/drizzt-saga-v3-released-now-bgee-compatible
+    down: ~
+    dist: beamdog
+    desc:
+      Use "Travel Triggers" install option.  High level campaign with 5
+      custom npcs ranging in level from 9 to 15.  R.A. Salvatore based
+      theme, up to +4 weapons can be found - about 5 hours of content.
+    tags:
+      - combat
+
+  - name: Dark Horizons
+    home: https://forums.beamdog.com/discussion/18833/bg-ee-dark-horizons-released
+    down: ~
+    dist: beamdog
+    desc:
+      Many new ambushes and integration of mod throughout entire BG1
+      campaign.  Drops are powerful - one known issue with end of campaign
+      Oversight HQ.
+    tags:
+      - combat
+      - story
+
+  - name: The Stone of Askavar
+    home: https://forums.beamdog.com/discussion/42168/mod-the-stone-of-askavar-for-totsc-tutu-bgt-and-bg-ee
+    down: ~
+    dist: beamdog
+    desc:
+      Use "Travel Triggers" install option.  High level campaign with 5
+      custom npcs ranging in level from 9 to 15.  R.A. Salvatore based
+      theme, up to +4 weapons can be found - about 5 hours of content.
+    tags:
+      - combat
+
+  - name: bg1ub - Unfinished Business
+    home: https://github.com/Pocket-Plane-Group/bg1ub/releases
+    down: ~
+    dist: ppg
+    desc:
+      Lots of fun little quests (some part of original BG1 but cut for reasons).
+    tags:
+      - story
+
+
+characters1:
+gameplay1:
+sundry2:
+ui2:
+items2:
+quests2:
+characters2:
+pos2:
+voice2:
+gameplay2:
+sys2:
+tactics2:
+tweaks2:
+end2:

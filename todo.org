@@ -1,0 +1,13 @@
+* Store the data in a data format
+If we store in a data storage format, we can generate the markdown
+from there, including an easier way to model tags, as well as do
+something like generate periodic thumbnails via:
+
+#+begin_src js
+npx pageres-cli http://ahungry.com 800x600 --filename=x --scale=0.25 --overwrite
+#+end_src
+
+and include the thumbnails inline with the entries.
+
+This may give it more of a "gallery" feel rather than a giant list of
+text.

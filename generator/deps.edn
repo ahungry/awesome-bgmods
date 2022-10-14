@@ -1,0 +1,27 @@
+{:paths ["src" "resources"]
+ :deps {
+        org.clojure/clojure {:mvn/version "1.11.1"}
+        clj-commons/clj-yaml {:mvn/version "1.0.26"}
+        }
+ :aliases
+ {:run-m {:main-opts ["-m" "ahungry.generator"]}
+  :run-x {:ns-default ahungry.generator
+          :exec-fn greet
+          :exec-args {:name "Clojure"}}
+  :build {:deps {io.github.seancorfield/build-clj
+                 {:git/tag "v0.8.2" :git/sha "0ffdb4c"
+                  ;; since we're building an app uberjar, we do not
+                  ;; need deps-deploy for clojars.org deployment:
+                  :deps/root "slim"}}
+          :ns-default build}
+
+  :env/dev {:extra-paths ["dev"]
+            ;; This is a nice option to auto-load things in clj or cljs
+            ;; Similar to init-ns in lein, but in Emacs I have a custom CIDER hook
+            :main-opts ["-e" "(do (require 'user) (in-ns 'user))" "-r"]
+            }
+
+  :test {:extra-paths ["test"]
+         :extra-deps {org.clojure/test.check {:mvn/version "1.1.1"}
+                      io.github.cognitect-labs/test-runner
+                      {:git/tag "v0.5.0" :git/sha "48c3c67"}}}}}
