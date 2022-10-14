@@ -23,7 +23,7 @@
 <div class=\"mod-entry\">
 <a href=\"%s\">%s</a>
 <img src=\"https://img.shields.io/badge/dist-%s-purple?style=plastic\" alt=\"dist\" />
-<div class=\"tags\">%s</p>
+<p class=\"tags\">%s</p>
 <p class=\"desc\">%s</p>
 <img src=\"https://ahungry.github.io/awesome-bgmods/ghpages/images/%s.png\" alt=\"pic\" />
 </div>
