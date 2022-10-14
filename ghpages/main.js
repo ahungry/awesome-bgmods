@@ -89,10 +89,12 @@ function appendsearch() {
 `
 }
 
-const links = document.querySelectorAll('a')
-for (let i = 0; i < links.length; i++)
-  if (links[i].href.indexOf('#') === -1)
-    links[i].target='_blank'
+function linkify() {
+  const links = document.querySelectorAll('a')
+  for (let i = 0; i < links.length; i++)
+    if (links[i].href.indexOf('#') === -1)
+      links[i].target='_blank'
+}
 
 function searchToggle(){
   if (window.innerWidth < 800) {
@@ -109,6 +111,7 @@ function searchToggle(){
 window.onload=() => {
   appendsearch()
   snagtags()
+  linkify()
   setInterval(dosearch, 100)
   // setInterval(searchToggle, 300)
 }

@@ -11,6 +11,7 @@
   padding: 0.8rem;
   font-size: 0.7rem;
   border-top: 2px solid navy;
+  z-index: 5;
   /* animation: 0.5s linear fade; */
 }
 
