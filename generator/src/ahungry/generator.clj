@@ -1,7 +1,9 @@
 (ns ahungry.generator
   (:require
    [clojure.string]
-   [clj-yaml.core :as yaml])
+   [clj-yaml.core :as yaml]
+   [ahungry.generator.crawler :as crawl]
+   )
   (:gen-class))
 
 (defn slurp-yaml []
@@ -19,7 +21,9 @@
 - [%s](%s)
 ![dist](https://img.shields.io/badge/dist-%s-purple?style=plastic)
 %s%s
-" name home dist (tags->md tags) desc))
+
+![pic](https://ahungry.github.io/awesome-bgmods/ghpages/images/%s)
+" name home dist (tags->md tags) desc name))
 
 (defn yaml->md [yaml]
   (clojure.string/join (map entry->md yaml)))
@@ -119,3 +123,23 @@ quests/characters, but still not quite end of order.
   "I don't do a whole lot ... yet."
   [& args]
   (greet {:name (first args)}))
+
+(defn testit []
+  (let [yaml (slurp-yaml)]
+    (-> (flatten [(:sundry1 yaml)
+                  (:quests1 yaml)
+                  (:characters1 yaml)
+                  (:gameplay1 yaml)
+                  (:sundry2 yaml)
+                  (:ui2 yaml)
+                  (:items2 yaml)
+                  (:quests2 yaml)
+                  (:characters2 yaml)
+                  (:pos2 yaml)
+                  (:voice2 yaml)
+                  (:gameplay2 yaml)
+                  (:sys2 yaml)
+                  (:tactics2 yaml)
+                  (:tweaks2 yaml)
+                  (:end2 yaml)])
+        (crawl/take-screenshots))))

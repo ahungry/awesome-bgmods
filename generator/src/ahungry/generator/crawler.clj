@@ -41,7 +41,7 @@
       (spit-bytes (str "/tmp/" name "-wip.png") img)
       (-> (mikera/load-image (str "/tmp/" name "-wip.png"))
           (mikera/resize 200)
-          (mikera/save (str "/tmp/" name ".png"))))
+          (mikera/save (str "../ghpages/images/" name ".png"))))
     (catch Exception e (prn (str "failure on: " url)))))
 
 (defn take-screenshots [urls]
