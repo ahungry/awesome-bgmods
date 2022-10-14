@@ -21,9 +21,11 @@
 (defn entry->md [{:keys [name home dist desc tags]}]
   (format "
 <div class=\"mod-entry\">
-<a href=\"%s\">%s</a>
-<img src=\"https://img.shields.io/badge/dist-%s-purple?style=plastic\" alt=\"dist\" />
-<p class=\"tags\">%s</p>
+  <p><a href=\"%s\">%s</a></p>
+  <p class=\"tags\">
+    <img src=\"https://img.shields.io/badge/dist-%s-purple?style=plastic\" alt=\"dist\" />
+    %s
+  </p>
 <p class=\"desc\">%s</p>
 <img src=\"https://ahungry.github.io/awesome-bgmods/ghpages/images/%s.png\" alt=\"pic\" />
 </div>
