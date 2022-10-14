@@ -37,7 +37,7 @@ function snagtags(){
           () => {
             document.querySelector('a[href="#' + match[1] + '"]')
               .scrollIntoView(true)
-            setTimeout(() => { window.scrollBy(0, -100) }, 100)
+            setTimeout(() => { window.scrollBy(0, -200) }, 100)
           },
           100
         )

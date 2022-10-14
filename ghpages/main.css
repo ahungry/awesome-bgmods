@@ -70,3 +70,48 @@ button {
   color: #fff;
   border: 0;
 }
+
+html, body {
+  margin-right: 100px;
+}
+
+ul li {
+  box-shadow: 3px 3px 6px #000;
+  font-size: 0.8rem;
+  padding: 12px;
+  width: 150px;
+  margin: 4px;
+  position: relative;
+}
+
+h3 {
+  clear: both;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+ul li p {
+  display: block;
+  margin-top: 20px;
+  text-align: justify;
+}
+
+ul li a {
+  display: block;
+}
+
+ul li img[alt="pic"] {
+  border: 1px solid #000;
+  width: 50px;
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+ul li img[alt="pic"]:hover {
+  width: auto;
+}
