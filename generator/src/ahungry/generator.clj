@@ -48,17 +48,45 @@
 Install/setup after EET
 
 ### Sundry/Miscellaneous
+%s
+
 ### UI Enhancement
+%s
+
 ### Item Packs
+%s
+
 ### Quests/Story
+%s
+
 ### Characters
+%s
+
 ### Position Dependent Quest/Megamod Portions
+
+This includes a few items that should be installed after
+quests/characters, but still not quite end of order.
+
+%s
+
 ### Voice Packs/Portraits
+%s
+
 ### Gameplay
+%s
+
 ### System Revisions
+%s
+
 ### Tactics
+%s
+
 ### Tweaks
+%s
+
 ### End of Order
+%s
+
 "
                   preamble
 

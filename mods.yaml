@@ -72,18 +72,1495 @@ quests1:
     tags:
       - story
 
-
 characters1:
+
+  - name: Garrick Tales of a Troubador
+    home: https://mirandir.baldursgateworld.fr/garrick-tt/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Drake
+    home: https://artisans-corner.com/drake-npc-for-bgee/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Sirene
+    home: https://artisans-corner.com/sirene-npc-for-bgee-and-bgsod/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: White
+    home: https://downloads.weaselmods.net/download/white-npc/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Verrsza
+    home: https://downloads.weaselmods.net/download/verrsza-bg1ee/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Margarita
+    home: https://forums.beamdog.com/discussion/15867/mod-npc-margarita-zelleod
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
 gameplay1:
+
+  - name: Saradas Magic
+    home: https://forums.beamdog.com/discussion/23861/bg-ee-mod-saradas-magic-released-v-1-1
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
 sundry2:
+
+  - name: EET
+    home: https://github.com/Gibberlings3/EET
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Ascension
+    home: https://github.com/InfinityMods/Ascension/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Longer Road
+    home: https://forums.beamdog.com/discussion/37579/longer-road-working-in-bg2ee
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: BlackPits in BG
+    home: https://github.com/UnearthedArcana/BP_in_BG/releases/tag/0.6.1
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Rogue Revisions
+    home: http://www.spellholdstudios.net/ie/rr
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Lore from Learning
+    home: https://www.gibberlings3.net/mods/tweaks/lore/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Bubb Remove Stoneskin color
+    home: https://forums.beamdog.com/discussion/comment/1174034#Comment_1174034
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: A7 Achievements
+    home: https://github.com/Argent77/A7-Achievements/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Skip Chateau Irenicus
+    home: https://github.com/Argent77/A7-SkipChateauIrenicus/releases/tag/v3.2
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: IWDification
+    home: https://www.gibberlings3.net/mods/spells/iwdification/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
 ui2:
+
+  - name: Tipun GUI
+    home: https://github.com/tipun81/tipun_gui_mod/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: LeUI
+    home: https://github.com/r-e-d/LeUI/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: EEUITweaks
+    home: https://github.com/r-e-d/EEUITweaks/releases/tag/v4.0.1
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Recolored Buttons
+    home: https://github.com/Argent77/A7-recoloredbuttons/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+
 items2:
+
+  - name: "TeamBG's Armor Pack"
+    home: https://forums.beamdog.com/discussion/13314/mod-teambgs-armor-pack-for-bg-ee-bg2ee-bgt-amp-tutu/p1
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Thalantyr Item Upgrades
+    home: https://github.com/CrevsDaak/thalan/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: "Boards O' Magick Item Pack"
+    home: https://sorcerers.net/community/resources/boards-o-magick-item-pack.85/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Arcane Treasure
+    home: https://github.com/Alexander12-creator/Arcane-Treasury-mod
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: The Sword of Noober
+    home: https://github.com/SpellholdStudios/TheSwordofNoober/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Unofficial Item Pack
+    home: https://forums.beamdog.com/discussion/56567/mod-bgii-ee-unofficial-item-pack
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Freedoms Reign of Virtue
+    home: https://forums.beamdog.com/discussion/34075/freedoms-reign-reign-of-virtue-now-enhanced
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Pocket Plane Group Item Upgrades
+    home: https://github.com/Pocket-Plane-Group/Item_Upgrade/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Rolles Safyer
+    home: https://github.com/SpellholdStudios/Rolles/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Ruad
+    home: https://github.com/SpellholdStudios/RuadRofhessaItemUpgrade/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: SoD to BG2EE Item Upgrades
+    home: https://github.com/Gibberlings3/SoD-to-BG2EE-Item-Upgrade/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Under Represented Items
+    home: https://github.com/Pocket-Plane-Group/Under-Respresented_Items/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+
 quests2:
+
+  - name: BG1 NPC in SoA
+    home: https://forums.beamdog.com/discussion/82463/mod-bg1-npcs-for-soa-tob
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Banter Pack
+    home: https://github.com/Pocket-Plane-Group/Banter_Pack/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Romantic Encounters (BG2)
+    home: https://www.gibberlings3.net/files/file/931-romantic-encounters-bg2/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Romantic Encounters (BG)
+    home: https://www.gibberlings3.net/mods/npcs/bg-romantic-encounters/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: "Almateria's Restoration Project"
+    home: http://www.shsforums.net/files/file/1053-almaterias-restoration-project/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: BG2 Fix Pack
+    home: https://www.gibberlings3.net/files/file/696-bg2-fixpack/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: BGQE (BG Quests and Encounters)
+    home: https://github.com/Gibberlings3/BG_Quests_And_Encounters/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Unfinished Business
+    home: https://github.com/Pocket-Plane-Group/UnfinishedBusiness/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Imoen Forever
+    home: https://www.gibberlings3.net/files/file/1013-imoen-4-ever/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Endless BG1
+    home: https://www.gibberlings3.net/files/file/1019-endless-bg1/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Transitions
+    home: https://www.gibberlings3.net/files/file/1021-transitions/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Another Fine Hell
+    home: https://www.gibberlings3.net/files/file/1034-another-fine-hell/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: The Boareskyr Bridge Scene
+    home: https://www.gibberlings3.net/files/file/1033-the-boareskyr-bridge-scene/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: PPG Quest Pack
+    home: https://www.pocketplane.net/quest-pack/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Gorgon
+    home: https://github.com/TotalMilk90/gorgon/releases/tag/v2.0
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Weasels!
+    home: https://downloads.weaselmods.net/download/weasels/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Imoen Romance
+    home: http://imoen.blindmonkey.org/downloads.php
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Sellswords
+    home: https://github.com/Pocket-Plane-Group/Sellswords/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: "Ascalon's Quest"
+    home: https://github.com/Gitjas/Ascalons_Questpack/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: "Ascalon's Breagar"
+    home: https://github.com/Gitjas/Ascalons_Breagar/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Bridges Block
+    home: https://downloads.weaselmods.net/download/bridges-block/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Southern Edge
+    home: https://downloads.weaselmods.net/download/southern-edge/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Tangled Oak Isle
+    home: https://downloads.weaselmods.net/download/tangled-oak-isle/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Tales of the Deep Gardens
+    home: https://downloads.weaselmods.net/download/tales-of-the-deep-gardens/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Innershade
+    home: https://downloads.weaselmods.net/download/innershade/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: White Queen
+    home: https://downloads.weaselmods.net/download/the-white-queen/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: I Shall Never Forget
+    home: https://downloads.weaselmods.net/download/i-shall-never-forget/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Willowisp
+    home: https://downloads.weaselmods.net/download/will-of-the-wisps/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Yvette Romance
+    home: https://downloads.weaselmods.net/download/yvette-romance/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Shades of the Sword Coast
+    home: https://downloads.weaselmods.net/download/shades-of-the-sword-coast/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Fishing for Trouble
+    home: http://www.shsforums.net/files/file/1084-fishing-for-trouble/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Region of Terror
+    home: https://github.com/SpellholdStudios/Region_of_Terror/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Tower of Deception
+    home: https://github.com/InfinityMods/TowerOfDeception/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Shadows over Soubar
+    home: http://www.shsforums.net/files/file/63-shadows-over-soubar/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Check the Bodies
+    home: http://www.shsforums.net/files/file/58-check-the-bodies/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: "Adalon's Blood Silberdrachenblut"
+    home: https://www.baldurs-gate.de/index.php?resources/adalons-blood-silberdrachenblutmod.5/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Imnesvale Invasion
+    home: https://github.com/SpellholdStudios/Duality_Odd_Quest_Mod/releases/tag/v2.1
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: All Things Mazzy
+    home: https://forums.beamdog.com/discussion/71473/playable-clara-all-things-mazzy-version-1-037/p1?new=1
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: BG1 Aerie
+    home: https://forums.beamdog.com/discussion/38824/aerie-in-bg-ee-v1-1
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: "Skie Cost of one Girl's Soul"
+    home: https://downloads.weaselmods.net/download/skie-the-cost-of-one-girls-soul/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: The Vanishing of Skie Silvershield
+    home: https://downloads.weaselmods.net/download/the-vanishing-of-skie-silvershield/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Extra Expanded Enhanced Encounters
+    home: https://forums.beamdog.com/discussion/73749/extra-expanded-enhanced-encounters-module-download
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Every Mod and Dog
+    home: https://www.gibberlings3.net/files/file/707-every-mod-and-dog/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Gibberlings3 Anniversary
+    home: https://www.gibberlings3.net/files/file/932-gibberlings-three-anniversary-mod/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Assassinations
+    home: https://github.com/Pocket-Plane-Group/Assassinations/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Alternatives
+    home: https://www.gibberlings3.net/files/file/682-alternatives/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Back to Brynnlaw
+    home: https://github.com/Pocket-Plane-Group/Back_to_Brynnlaw/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: "Balduran's Seatower"
+    home: https://github.com/Gibberlings3/BS_Baldurans_Seatower/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Cowled Menace
+    home: https://www.gibberlings3.net/mods/quests/the-cowled-menace/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Heroes Thieves and Moneylenders
+    home: https://github.com/Austin-BG/HTaM/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Dungeon Crawl
+    home: https://www.gibberlings3.net/forums/topic/30155-ppg-dungeon-crawl-v11-with-eet-compatibility-and-minor-fixes/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Test Your Mettle
+    home: https://github.com/Argent77/A7-TestYourMettle/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Secret of Bonehill
+    home: http://www.shsforums.net/forum/194-secret-of-bonehill/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: The Vault
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Magic Store of Vergadin
+    home: https://github.com/Argent77/A7-MagicStore/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Sirines Call
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Dark Side of the Sword Coast
+    home: http://www.shsforums.net/files/file/66-dark-side-of-the-sword-coast/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Northern Tales of the Sword Coast
+    home: http://www.shsforums.net/files/file/71-northern-tales-of-the-sword-coast/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: The Minotaur and Lilarcor
+    home: https://github.com/SpellholdStudios/The_Minotaur_and_Lilacor/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Trials of the Luremaster
+    home: https://github.com/Argent77/A7-TotLM-BG2EE/releases/tag/v3.0
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+
 characters2:
+
+  - name: Tenya Thermidor
+    home: https://forums.beamdog.com/discussion/33291/tenya-thermidor-v1-5
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Kivan and Deheriana
+    home: https://github.com/Gibberlings3/Kivan_and_Deheriana/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Fhaugy
+    home: https://downloads.weaselmods.net/download/fhaugy/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Khalid BG2
+    home: https://downloads.weaselmods.net/download/khalid-bg2/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Faldorn BG2
+    home: https://downloads.weaselmods.net/download/faldorn-bg2ee/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Petsy
+    home: https://downloads.weaselmods.net/download/petsy/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Iylos
+    home: http://www.shsforums.net/files/file/539-iylos/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Ninde
+    home: http://www.shsforums.net/files/file/714-ninde/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Xulaye
+    home: http://www.shsforums.net/files/file/710-xulaye/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Kido
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Alora BG2
+    home: https://github.com/GwendolyneFreddy/Alora-NPC-for-BG2/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Yasraena
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Ajoc Mod
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Tyris Flare
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Kindrek
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Ariena
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Valen
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Star
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Uldar
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Holly Elf
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Maltese
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Melynda
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Velvet
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Saerileth
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Kitanya
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Fade
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Paina
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Arath
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Bristlelick
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Valerie
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Gavin
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Isra
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Eilistraee
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Saradas Magic 2
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Glam NPC Pack
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Adrian
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Sirene BG2
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: The Calling
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Finch NPC
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Tsujatha
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Kelsey
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Indi NPC
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Angelo
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Chloe
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Kim the Pirate
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Vampire Tales
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Travellers
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: The Rune
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Lens Hunt
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Corwin EET
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Tamoko
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Safana
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Ehlastra
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Sime NPC
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Deep Gnomes
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Sheena
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: The Grey Clan
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Skitia NPCs
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Vienxay
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: The Beaurin Legacy
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Aura BG1
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Dace EET
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Foundling
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Shine on Caelar
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+
 pos2:
+
+  - name: BP BGT Worldmap
+    home: http://www.shsforums.net/files/file/308-bp-bgt-worldmap/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: The Darkest Day + TDDz
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: SoD Banter
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Crossmod BG2
+    home: https://www.gibberlings3.net/mods/npcs/crossmod/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+
 voice2:
+
+  - name: Portraits, Portraits Everywhere (PPE)
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+
+  - name: Planescape Torment Voice Pack
+    home: https://github.com/GraionDilach/Planescape-Torment-Voice-Pack-for-EE-2.6/releases/tag/version-1.1.2
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: IWD Voices
+    home: https://github.com/GraionDilach/Icewind-Dale-Voice-Pack-For-EE-2.6/releases/tag/version-1.0.0
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: IWD2 Voices
+    home: https://github.com/GraionDilach/Icewind-Dale-II-Voice-Pack-For-EE-2.6/releases/tag/version-1.0.3
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: BG1 Voices
+    home: https://github.com/GraionDilach/Baldurs-Gate-Voice-Pack-for-EE-2.6/releases/tag/version-1.0.0
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: BG2 Voices
+    home: https://github.com/GraionDilach/Baldurs-Gate-II-Voice-Pack-for-EE-2.6/releases/tag/version-1.0.0
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: BGNPC Voices
+    home: https://github.com/GraionDilach/Baldurs-Gate-NPC-Voice-Pack-for-EE-2.6/releases/tag/version-0.2.2
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: NWN Voices
+    home: https://github.com/GraionDilach/Neverwinter-Nights-Voice-Pack-for-EE-2.6/releases/tag/version-0.3.1
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
 gameplay2:
+
+  - name: Made In Heaven Item Pack
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Made in Heaven Spell Pack
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Made in Heaven EQ
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Made in Heaven Tweaks
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Item Revisions
+    home: https://github.com/Gibberlings3/ItemRevisions/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Item Revisions Revised
+    home: https://github.com/BartyMae/IR_Revised/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Forgotten Armament
+    home: https://github.com/Gibberlings3/Forgotten-Armament/releases/tag/1.0
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Spell Revisions
+    home: https://github.com/Gibberlings3/SpellRevisions/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Spell Revisions Revised
+    home: https://github.com/BartyMae/SR_Revised/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Monastic Orders of Faerun
+    home: https://github.com/aquadrizzt/MonasticOrders/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Artisans Kitpack
+    home: https://artisans-corner.com/the-artisans-kitpack/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Warlock
+    home: https://github.com/ArtemiusI/Warlock/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Bardic Wonders
+    home: https://github.com/ArtemiusI/Bardic-Wonders/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Shadow Adept
+    home: https://github.com/ArtemiusI/Shadow-Magic/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Divine Remix
+    home: https://github.com/Gibberlings3/Divine_Remix/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Tome and Blood
+    home: https://github.com/subtledoctor/TomeAndBlood/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Faiths and Powers
+    home: https://github.com/UnearthedArcana/Faiths_and_Powers/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Will to Power
+    home: https://github.com/UnearthedArcana/Will_to_Power/releases/tag/2.2.1
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Might and Guile
+    home: https://github.com/UnearthedArcana/Might_and_Guile/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
 sys2:
+
+  - name: EET End
+    home: ""
+    down: ~
+    dist: xxx
+    desc: No link - this is just the end step after EET
+    tags:
+
+
 tactics2:
+
+  - name: Sword Coast Stratagems
+    home: https://www.gibberlings3.net/mods/tweaks/scs/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Enhanced Powergaming Scripts
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+
 tweaks2:
+
+  - name: Tweaks Anthology (cdtweaks)
+    home: https://github.com/Gibberlings3/Tweaks-Anthology/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: House Tweaks
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Tweaks and Tricks (TNT)
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Klatu Tweaks and Fixes
+    home: ""
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: aTweaks
+    home: http://www.spellholdstudios.net/ie/atweaks
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Scales of Balance
+    home: https://github.com/UnearthedArcana/Scales_of_Balance/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: EET Tweaks
+    home: https://github.com/K4thos/EET_Tweaks/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Subrace
+    home: https://github.com/tipun81/Subrace-mod/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Magic Battles Revised
+    home: https://github.com/UnearthedArcana/magic_battles_revised/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Low Magic
+    home: https://github.com/UnearthedArcana/Low_Magic
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Bart Tweaks
+    home: https://github.com/BartyMae/Bart_Tweaks
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Ahungry Tweaks
+    home: https://github.com/ahungry/ahungry_tweaks
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+
 end2:
+
+  - name: NPC EE
+    home: https://github.com/UnearthedArcana/NPC_EE/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Level One NPCs
+    home: https://www.gibberlings3.net/mods/tweaks/levelonenpcs/
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: randomiser
+    home: https://github.com/FredrikLindgren/randomiser/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: BG Enemy Randomizer
+    home: https://github.com/GuardianAnubite/bg_enemy_randomizer/releases
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:
+
+  - name: Ahungry Deletefier
+    home: https://github.com/ahungry/ahungry_deletefier
+    down: ~
+    dist: xxx
+    desc: ""
+    tags:

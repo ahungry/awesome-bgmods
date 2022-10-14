@@ -2,6 +2,10 @@
  :deps {
         org.clojure/clojure {:mvn/version "1.11.1"}
         clj-commons/clj-yaml {:mvn/version "1.0.26"}
+        org.jline/jline {:mvn/version "3.21.0"}
+        org.seleniumhq.selenium.client-drivers/selenium-java-client-driver {:mvn/version "1.0.2"}
+        org.seleniumhq.selenium/selenium-server {:mvn/version "3.141.59"}
+        net.mikera/imagez {:mvn/version "0.12.0"}
         }
  :aliases
  {:run-m {:main-opts ["-m" "ahungry.generator"]}

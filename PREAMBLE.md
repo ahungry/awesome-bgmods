@@ -50,6 +50,12 @@ familiarity with installing IE mods (Weidu/weinstall), although I will
 include links to some non-Weidu based tooling as well.
 </details>
 
+<details>
+<summary>Github Pages Stuff - ignore it</summary>
+<link href="ghpages/main.css?v=3" rel="stylesheet" />
+<script src="ghpages/main.js?v=3"></script>
+</details>
+
 # Sites
 
 All links are in alphabetical order by label.
