@@ -21,7 +21,6 @@
 - [%s](%s)
 ![dist](https://img.shields.io/badge/dist-%s-purple?style=plastic)
 %s%s
-
 <img src=\"https://ahungry.github.io/awesome-bgmods/ghpages/images/%s.png\" alt=\"pic\" />
  "
           name home dist (tags->md tags) desc name))
