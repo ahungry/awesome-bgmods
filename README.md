@@ -89,7 +89,7 @@ will manage to include them.
 
 <table>
 
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/modmerge.png" alt="pic" />
   </td>
@@ -106,7 +106,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/bg1npc.png" alt="pic" />
   </td>
@@ -123,7 +123,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/bg1npcmusic.png" alt="pic" />
   </td>
@@ -141,7 +141,7 @@ will manage to include them.
 </tr>
  
 
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Drizzt Saga.png" alt="pic" />
   </td>
@@ -158,7 +158,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Dark Horizons.png" alt="pic" />
   </td>
@@ -175,7 +175,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/The Stone of Askavar.png" alt="pic" />
   </td>
@@ -192,7 +192,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/bg1ub - Unfinished Business.png" alt="pic" />
   </td>
@@ -210,7 +210,7 @@ will manage to include them.
 </tr>
  
 
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Garrick Tales of a Troubador.png" alt="pic" />
   </td>
@@ -227,7 +227,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Drake.png" alt="pic" />
   </td>
@@ -244,7 +244,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Sirene.png" alt="pic" />
   </td>
@@ -261,7 +261,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/White.png" alt="pic" />
   </td>
@@ -278,7 +278,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Verrsza.png" alt="pic" />
   </td>
@@ -295,7 +295,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Margarita.png" alt="pic" />
   </td>
@@ -313,7 +313,7 @@ will manage to include them.
 </tr>
  
 
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Saradas Magic.png" alt="pic" />
   </td>
@@ -331,7 +331,7 @@ will manage to include them.
 </tr>
  
 
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/EET.png" alt="pic" />
   </td>
@@ -348,7 +348,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Ascension.png" alt="pic" />
   </td>
@@ -365,7 +365,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Longer Road.png" alt="pic" />
   </td>
@@ -382,7 +382,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/BlackPits in BG.png" alt="pic" />
   </td>
@@ -399,7 +399,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Rogue Revisions.png" alt="pic" />
   </td>
@@ -416,7 +416,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Lore from Learning.png" alt="pic" />
   </td>
@@ -433,7 +433,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Bubb Remove Stoneskin color.png" alt="pic" />
   </td>
@@ -450,7 +450,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/A7 Achievements.png" alt="pic" />
   </td>
@@ -467,7 +467,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Skip Chateau Irenicus.png" alt="pic" />
   </td>
@@ -484,7 +484,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/IWDification.png" alt="pic" />
   </td>
@@ -502,7 +502,7 @@ will manage to include them.
 </tr>
  
 
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Tipun GUI.png" alt="pic" />
   </td>
@@ -519,7 +519,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/LeUI.png" alt="pic" />
   </td>
@@ -536,7 +536,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/EEUITweaks.png" alt="pic" />
   </td>
@@ -553,7 +553,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Recolored Buttons.png" alt="pic" />
   </td>
@@ -571,7 +571,7 @@ will manage to include them.
 </tr>
  
 
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/TeamBG's Armor Pack.png" alt="pic" />
   </td>
@@ -588,7 +588,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Thalantyr Item Upgrades.png" alt="pic" />
   </td>
@@ -605,7 +605,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Boards O' Magick Item Pack.png" alt="pic" />
   </td>
@@ -622,7 +622,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Arcane Treasure.png" alt="pic" />
   </td>
@@ -639,7 +639,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/The Sword of Noober.png" alt="pic" />
   </td>
@@ -656,7 +656,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Unofficial Item Pack.png" alt="pic" />
   </td>
@@ -673,7 +673,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Freedoms Reign of Virtue.png" alt="pic" />
   </td>
@@ -690,7 +690,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Pocket Plane Group Item Upgrades.png" alt="pic" />
   </td>
@@ -707,7 +707,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Rolles Safyer.png" alt="pic" />
   </td>
@@ -724,7 +724,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Ruad.png" alt="pic" />
   </td>
@@ -741,7 +741,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/SoD to BG2EE Item Upgrades.png" alt="pic" />
   </td>
@@ -758,7 +758,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Under Represented Items.png" alt="pic" />
   </td>
@@ -776,7 +776,7 @@ will manage to include them.
 </tr>
  
 
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/BG1 NPC in SoA.png" alt="pic" />
   </td>
@@ -793,7 +793,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Banter Pack.png" alt="pic" />
   </td>
@@ -810,7 +810,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Romantic Encounters (BG2).png" alt="pic" />
   </td>
@@ -827,7 +827,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Romantic Encounters (BG).png" alt="pic" />
   </td>
@@ -844,7 +844,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Almateria's Restoration Project.png" alt="pic" />
   </td>
@@ -861,7 +861,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/BG2 Fix Pack.png" alt="pic" />
   </td>
@@ -878,7 +878,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/BGQE (BG Quests and Encounters).png" alt="pic" />
   </td>
@@ -895,7 +895,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Unfinished Business.png" alt="pic" />
   </td>
@@ -912,7 +912,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Imoen Forever.png" alt="pic" />
   </td>
@@ -929,7 +929,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Endless BG1.png" alt="pic" />
   </td>
@@ -946,7 +946,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Transitions.png" alt="pic" />
   </td>
@@ -963,7 +963,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Another Fine Hell.png" alt="pic" />
   </td>
@@ -980,7 +980,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/The Boareskyr Bridge Scene.png" alt="pic" />
   </td>
@@ -997,7 +997,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/PPG Quest Pack.png" alt="pic" />
   </td>
@@ -1014,7 +1014,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Gorgon.png" alt="pic" />
   </td>
@@ -1031,7 +1031,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Weasels!.png" alt="pic" />
   </td>
@@ -1048,7 +1048,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Imoen Romance.png" alt="pic" />
   </td>
@@ -1065,7 +1065,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Sellswords.png" alt="pic" />
   </td>
@@ -1082,7 +1082,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Ascalon's Quest.png" alt="pic" />
   </td>
@@ -1099,7 +1099,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Ascalon's Breagar.png" alt="pic" />
   </td>
@@ -1116,7 +1116,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Bridges Block.png" alt="pic" />
   </td>
@@ -1133,7 +1133,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Southern Edge.png" alt="pic" />
   </td>
@@ -1150,7 +1150,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Tangled Oak Isle.png" alt="pic" />
   </td>
@@ -1167,7 +1167,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Tales of the Deep Gardens.png" alt="pic" />
   </td>
@@ -1184,7 +1184,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Innershade.png" alt="pic" />
   </td>
@@ -1201,7 +1201,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/White Queen.png" alt="pic" />
   </td>
@@ -1218,7 +1218,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/I Shall Never Forget.png" alt="pic" />
   </td>
@@ -1235,7 +1235,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Willowisp.png" alt="pic" />
   </td>
@@ -1252,7 +1252,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Yvette Romance.png" alt="pic" />
   </td>
@@ -1269,7 +1269,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Shades of the Sword Coast.png" alt="pic" />
   </td>
@@ -1286,7 +1286,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Fishing for Trouble.png" alt="pic" />
   </td>
@@ -1303,7 +1303,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Region of Terror.png" alt="pic" />
   </td>
@@ -1320,7 +1320,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Tower of Deception.png" alt="pic" />
   </td>
@@ -1337,7 +1337,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Shadows over Soubar.png" alt="pic" />
   </td>
@@ -1354,7 +1354,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Check the Bodies.png" alt="pic" />
   </td>
@@ -1371,7 +1371,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Adalon's Blood Silberdrachenblut.png" alt="pic" />
   </td>
@@ -1388,7 +1388,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Imnesvale Invasion.png" alt="pic" />
   </td>
@@ -1405,7 +1405,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/All Things Mazzy.png" alt="pic" />
   </td>
@@ -1422,7 +1422,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/BG1 Aerie.png" alt="pic" />
   </td>
@@ -1439,7 +1439,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Skie Cost of one Girl's Soul.png" alt="pic" />
   </td>
@@ -1456,7 +1456,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/The Vanishing of Skie Silvershield.png" alt="pic" />
   </td>
@@ -1473,7 +1473,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Extra Expanded Enhanced Encounters.png" alt="pic" />
   </td>
@@ -1490,7 +1490,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Every Mod and Dog.png" alt="pic" />
   </td>
@@ -1507,7 +1507,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Gibberlings3 Anniversary.png" alt="pic" />
   </td>
@@ -1524,7 +1524,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Assassinations.png" alt="pic" />
   </td>
@@ -1541,7 +1541,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Alternatives.png" alt="pic" />
   </td>
@@ -1558,7 +1558,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Back to Brynnlaw.png" alt="pic" />
   </td>
@@ -1575,7 +1575,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Balduran's Seatower.png" alt="pic" />
   </td>
@@ -1592,7 +1592,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Cowled Menace.png" alt="pic" />
   </td>
@@ -1609,7 +1609,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Heroes Thieves and Moneylenders.png" alt="pic" />
   </td>
@@ -1626,7 +1626,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Dungeon Crawl.png" alt="pic" />
   </td>
@@ -1643,7 +1643,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Test Your Mettle.png" alt="pic" />
   </td>
@@ -1660,7 +1660,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Secret of Bonehill.png" alt="pic" />
   </td>
@@ -1677,7 +1677,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/The Vault.png" alt="pic" />
   </td>
@@ -1694,7 +1694,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Magic Store of Vergadin.png" alt="pic" />
   </td>
@@ -1711,7 +1711,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Sirines Call.png" alt="pic" />
   </td>
@@ -1728,7 +1728,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Dark Side of the Sword Coast.png" alt="pic" />
   </td>
@@ -1745,7 +1745,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Northern Tales of the Sword Coast.png" alt="pic" />
   </td>
@@ -1762,7 +1762,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/The Minotaur and Lilarcor.png" alt="pic" />
   </td>
@@ -1779,7 +1779,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Trials of the Luremaster.png" alt="pic" />
   </td>
@@ -1797,7 +1797,7 @@ will manage to include them.
 </tr>
  
 
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Tenya Thermidor.png" alt="pic" />
   </td>
@@ -1814,7 +1814,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Kivan and Deheriana.png" alt="pic" />
   </td>
@@ -1831,7 +1831,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Fhaugy.png" alt="pic" />
   </td>
@@ -1848,7 +1848,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Khalid BG2.png" alt="pic" />
   </td>
@@ -1865,7 +1865,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Faldorn BG2.png" alt="pic" />
   </td>
@@ -1882,7 +1882,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Petsy.png" alt="pic" />
   </td>
@@ -1899,7 +1899,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Iylos.png" alt="pic" />
   </td>
@@ -1916,7 +1916,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Ninde.png" alt="pic" />
   </td>
@@ -1933,7 +1933,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Xulaye.png" alt="pic" />
   </td>
@@ -1950,7 +1950,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Kido.png" alt="pic" />
   </td>
@@ -1967,7 +1967,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Alora BG2.png" alt="pic" />
   </td>
@@ -1984,7 +1984,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Yasraena.png" alt="pic" />
   </td>
@@ -2001,7 +2001,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Ajoc Mod.png" alt="pic" />
   </td>
@@ -2018,7 +2018,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Tyris Flare.png" alt="pic" />
   </td>
@@ -2035,7 +2035,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Kindrek.png" alt="pic" />
   </td>
@@ -2052,7 +2052,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Ariena.png" alt="pic" />
   </td>
@@ -2069,7 +2069,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Valen.png" alt="pic" />
   </td>
@@ -2086,7 +2086,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Star.png" alt="pic" />
   </td>
@@ -2103,7 +2103,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Uldar.png" alt="pic" />
   </td>
@@ -2120,7 +2120,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Holly Elf.png" alt="pic" />
   </td>
@@ -2137,7 +2137,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Maltese.png" alt="pic" />
   </td>
@@ -2154,7 +2154,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Melynda.png" alt="pic" />
   </td>
@@ -2171,7 +2171,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Velvet.png" alt="pic" />
   </td>
@@ -2188,7 +2188,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Saerileth.png" alt="pic" />
   </td>
@@ -2205,7 +2205,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Kitanya.png" alt="pic" />
   </td>
@@ -2222,7 +2222,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Fade.png" alt="pic" />
   </td>
@@ -2239,7 +2239,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Paina.png" alt="pic" />
   </td>
@@ -2256,7 +2256,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Arath.png" alt="pic" />
   </td>
@@ -2273,7 +2273,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Bristlelick.png" alt="pic" />
   </td>
@@ -2290,7 +2290,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Valerie.png" alt="pic" />
   </td>
@@ -2307,7 +2307,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Gavin.png" alt="pic" />
   </td>
@@ -2324,7 +2324,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Isra.png" alt="pic" />
   </td>
@@ -2341,7 +2341,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Eilistraee.png" alt="pic" />
   </td>
@@ -2358,7 +2358,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Saradas Magic 2.png" alt="pic" />
   </td>
@@ -2375,7 +2375,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Glam NPC Pack.png" alt="pic" />
   </td>
@@ -2392,7 +2392,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Adrian.png" alt="pic" />
   </td>
@@ -2409,7 +2409,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Sirene BG2.png" alt="pic" />
   </td>
@@ -2426,7 +2426,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/The Calling.png" alt="pic" />
   </td>
@@ -2443,7 +2443,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Finch NPC.png" alt="pic" />
   </td>
@@ -2460,7 +2460,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Tsujatha.png" alt="pic" />
   </td>
@@ -2477,7 +2477,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Kelsey.png" alt="pic" />
   </td>
@@ -2494,7 +2494,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Indi NPC.png" alt="pic" />
   </td>
@@ -2511,7 +2511,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Angelo.png" alt="pic" />
   </td>
@@ -2528,7 +2528,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Chloe.png" alt="pic" />
   </td>
@@ -2545,7 +2545,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Kim the Pirate.png" alt="pic" />
   </td>
@@ -2562,7 +2562,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Vampire Tales.png" alt="pic" />
   </td>
@@ -2579,7 +2579,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Travellers.png" alt="pic" />
   </td>
@@ -2596,7 +2596,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/The Rune.png" alt="pic" />
   </td>
@@ -2613,7 +2613,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Lens Hunt.png" alt="pic" />
   </td>
@@ -2630,7 +2630,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Corwin EET.png" alt="pic" />
   </td>
@@ -2647,7 +2647,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Tamoko.png" alt="pic" />
   </td>
@@ -2664,7 +2664,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Safana.png" alt="pic" />
   </td>
@@ -2681,7 +2681,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Ehlastra.png" alt="pic" />
   </td>
@@ -2698,7 +2698,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Sime NPC.png" alt="pic" />
   </td>
@@ -2715,7 +2715,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Deep Gnomes.png" alt="pic" />
   </td>
@@ -2732,7 +2732,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Sheena.png" alt="pic" />
   </td>
@@ -2749,7 +2749,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/The Grey Clan.png" alt="pic" />
   </td>
@@ -2766,7 +2766,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Skitia NPCs.png" alt="pic" />
   </td>
@@ -2783,7 +2783,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Vienxay.png" alt="pic" />
   </td>
@@ -2800,7 +2800,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/The Beaurin Legacy.png" alt="pic" />
   </td>
@@ -2817,7 +2817,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Aura BG1.png" alt="pic" />
   </td>
@@ -2834,7 +2834,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Dace EET.png" alt="pic" />
   </td>
@@ -2851,7 +2851,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Foundling.png" alt="pic" />
   </td>
@@ -2868,7 +2868,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Shine on Caelar.png" alt="pic" />
   </td>
@@ -2886,7 +2886,7 @@ will manage to include them.
 </tr>
  
 
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/BP BGT Worldmap.png" alt="pic" />
   </td>
@@ -2903,7 +2903,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/The Darkest Day + TDDz.png" alt="pic" />
   </td>
@@ -2920,7 +2920,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/SoD Banter.png" alt="pic" />
   </td>
@@ -2937,7 +2937,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Crossmod BG2.png" alt="pic" />
   </td>
@@ -2955,7 +2955,7 @@ will manage to include them.
 </tr>
  
 
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Portraits, Portraits Everywhere (PPE).png" alt="pic" />
   </td>
@@ -2972,7 +2972,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Planescape Torment Voice Pack.png" alt="pic" />
   </td>
@@ -2989,7 +2989,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/IWD Voices.png" alt="pic" />
   </td>
@@ -3006,7 +3006,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/IWD2 Voices.png" alt="pic" />
   </td>
@@ -3023,7 +3023,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/BG1 Voices.png" alt="pic" />
   </td>
@@ -3040,7 +3040,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/BG2 Voices.png" alt="pic" />
   </td>
@@ -3057,7 +3057,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/BGNPC Voices.png" alt="pic" />
   </td>
@@ -3074,7 +3074,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/NWN Voices.png" alt="pic" />
   </td>
@@ -3092,7 +3092,7 @@ will manage to include them.
 </tr>
  
 
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Made In Heaven Item Pack.png" alt="pic" />
   </td>
@@ -3109,7 +3109,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Made in Heaven Spell Pack.png" alt="pic" />
   </td>
@@ -3126,7 +3126,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Made in Heaven EQ.png" alt="pic" />
   </td>
@@ -3143,7 +3143,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Made in Heaven Tweaks.png" alt="pic" />
   </td>
@@ -3160,7 +3160,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Item Revisions.png" alt="pic" />
   </td>
@@ -3177,7 +3177,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Item Revisions Revised.png" alt="pic" />
   </td>
@@ -3194,7 +3194,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Forgotten Armament.png" alt="pic" />
   </td>
@@ -3211,7 +3211,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Spell Revisions.png" alt="pic" />
   </td>
@@ -3228,7 +3228,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Spell Revisions Revised.png" alt="pic" />
   </td>
@@ -3245,7 +3245,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Monastic Orders of Faerun.png" alt="pic" />
   </td>
@@ -3262,7 +3262,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Artisans Kitpack.png" alt="pic" />
   </td>
@@ -3279,7 +3279,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Warlock.png" alt="pic" />
   </td>
@@ -3296,7 +3296,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Bardic Wonders.png" alt="pic" />
   </td>
@@ -3313,7 +3313,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Shadow Adept.png" alt="pic" />
   </td>
@@ -3330,7 +3330,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Divine Remix.png" alt="pic" />
   </td>
@@ -3347,7 +3347,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Tome and Blood.png" alt="pic" />
   </td>
@@ -3364,7 +3364,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Faiths and Powers.png" alt="pic" />
   </td>
@@ -3381,7 +3381,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Will to Power.png" alt="pic" />
   </td>
@@ -3398,7 +3398,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Might and Guile.png" alt="pic" />
   </td>
@@ -3416,7 +3416,7 @@ will manage to include them.
 </tr>
  
 
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/EET End.png" alt="pic" />
   </td>
@@ -3434,7 +3434,7 @@ will manage to include them.
 </tr>
  
 
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Sword Coast Stratagems.png" alt="pic" />
   </td>
@@ -3451,7 +3451,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Enhanced Powergaming Scripts.png" alt="pic" />
   </td>
@@ -3469,7 +3469,7 @@ will manage to include them.
 </tr>
  
 
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Tweaks Anthology (cdtweaks).png" alt="pic" />
   </td>
@@ -3486,7 +3486,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/House Tweaks.png" alt="pic" />
   </td>
@@ -3503,7 +3503,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Tweaks and Tricks (TNT).png" alt="pic" />
   </td>
@@ -3520,7 +3520,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Klatu Tweaks and Fixes.png" alt="pic" />
   </td>
@@ -3537,7 +3537,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/aTweaks.png" alt="pic" />
   </td>
@@ -3554,7 +3554,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Scales of Balance.png" alt="pic" />
   </td>
@@ -3571,7 +3571,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/EET Tweaks.png" alt="pic" />
   </td>
@@ -3588,7 +3588,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Subrace.png" alt="pic" />
   </td>
@@ -3605,7 +3605,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Magic Battles Revised.png" alt="pic" />
   </td>
@@ -3622,7 +3622,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Low Magic.png" alt="pic" />
   </td>
@@ -3639,7 +3639,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Bart Tweaks.png" alt="pic" />
   </td>
@@ -3656,7 +3656,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Ahungry Tweaks.png" alt="pic" />
   </td>
@@ -3674,7 +3674,7 @@ will manage to include them.
 </tr>
  
 
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/NPC EE.png" alt="pic" />
   </td>
@@ -3691,7 +3691,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Level One NPCs.png" alt="pic" />
   </td>
@@ -3708,7 +3708,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/randomiser.png" alt="pic" />
   </td>
@@ -3725,7 +3725,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/BG Enemy Randomizer.png" alt="pic" />
   </td>
@@ -3742,7 +3742,7 @@ will manage to include them.
   </td>
 </tr>
  
-<tr>
+<tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Ahungry Deletefier.png" alt="pic" />
   </td>
