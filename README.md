@@ -272,7 +272,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:characters1-teal?style=plastic" alt="dist" />
     
   </td>
@@ -289,7 +289,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:characters1-teal?style=plastic" alt="dist" />
     
   </td>
@@ -306,7 +306,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:characters1-teal?style=plastic" alt="dist" />
     
   </td>
@@ -324,7 +324,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:gameplay1-teal?style=plastic" alt="dist" />
     
   </td>
@@ -359,7 +359,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-infinitymods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:sundry2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -376,7 +376,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:sundry2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -393,7 +393,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:sundry2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -410,7 +410,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:sundry2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -444,7 +444,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-bubb-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:sundry2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -461,7 +461,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-argent77-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:sundry2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -478,7 +478,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-argent77-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:sundry2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -513,7 +513,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-tipun-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:ui2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -530,7 +530,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-lefreut-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:ui2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -547,7 +547,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-lefreut-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:ui2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -564,7 +564,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-argent77-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:ui2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -582,7 +582,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-teambg-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -599,7 +599,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-crevsdaak-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -616,7 +616,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-sorcerers-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -633,7 +633,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-alexander12-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -650,7 +650,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -667,7 +667,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -684,7 +684,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -701,7 +701,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -718,7 +718,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -735,7 +735,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -769,7 +769,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -787,7 +787,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -804,7 +804,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -855,7 +855,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -906,7 +906,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1008,7 +1008,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1025,7 +1025,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1042,7 +1042,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1059,7 +1059,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-blindmonkey-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1076,7 +1076,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1093,7 +1093,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-jastey-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1110,7 +1110,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-jastey-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1127,7 +1127,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1144,7 +1144,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1161,7 +1161,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1178,7 +1178,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1195,7 +1195,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1212,7 +1212,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1229,7 +1229,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1246,7 +1246,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1263,7 +1263,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1280,7 +1280,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1297,7 +1297,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1314,7 +1314,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1331,7 +1331,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-infinitymods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1348,7 +1348,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1365,7 +1365,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1382,7 +1382,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-bg-de-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1399,7 +1399,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1416,7 +1416,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1433,7 +1433,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1450,7 +1450,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1467,7 +1467,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1484,7 +1484,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1535,7 +1535,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1569,7 +1569,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1620,7 +1620,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-austinbg-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1654,7 +1654,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-argent77-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1671,7 +1671,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1682,13 +1682,13 @@ the EET portion (type-:sundry2).
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/The Vault.png" alt="pic" />
   </td>
   <td>
-    <a href="">The Vault</a>
+    <a href="http://www.shsforums.net/topic/55129-the-vault-for-bgt-v72-released/">The Vault</a>
   </td>
   <td>
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1705,7 +1705,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-argent77-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1739,7 +1739,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1756,7 +1756,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1773,7 +1773,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1790,7 +1790,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-argent77-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1808,7 +1808,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:characters2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1842,7 +1842,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:characters2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1859,7 +1859,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:characters2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1876,7 +1876,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:characters2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1893,7 +1893,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:characters2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1910,7 +1910,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:characters2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1927,7 +1927,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:characters2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1944,7 +1944,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:characters2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -1978,7 +1978,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-gwendolyne-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:characters2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -2897,7 +2897,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:pos2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -2983,7 +2983,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-graion-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:voice2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3000,7 +3000,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-graion-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:voice2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3017,7 +3017,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-graion-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:voice2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3034,7 +3034,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-graion-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:voice2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3051,7 +3051,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-graion-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:voice2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3068,7 +3068,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-graion-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:voice2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3085,7 +3085,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-graion-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:voice2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3103,7 +3103,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-angel-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:gameplay2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3120,7 +3120,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-angel-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:gameplay2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3137,7 +3137,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-angel-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:gameplay2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3154,7 +3154,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-angel-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:gameplay2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3188,7 +3188,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-bartymae-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:gameplay2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3239,7 +3239,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-bartymae-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:gameplay2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3256,7 +3256,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-aquadrizzt-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:gameplay2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3358,7 +3358,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:gameplay2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3375,7 +3375,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:gameplay2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3392,7 +3392,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:gameplay2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3409,7 +3409,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:gameplay2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3427,7 +3427,7 @@ the EET portion (type-:sundry2).
     No link - this is just the end step after EET
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist--purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:sys2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3456,13 +3456,13 @@ the EET portion (type-:sundry2).
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Enhanced Powergaming Scripts.png" alt="pic" />
   </td>
   <td>
-    <a href="">Enhanced Powergaming Scripts</a>
+    <a href="https://www.gibberlings3.net/mods/other/enhanced-powergaming-scripts/">Enhanced Powergaming Scripts</a>
   </td>
   <td>
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:tactics2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3488,16 +3488,16 @@ the EET portion (type-:sundry2).
  
 <tr class="mod-entry">
   <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/House Tweaks.png" alt="pic" />
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/House Rules.png" alt="pic" />
   </td>
   <td>
-    <a href="">House Tweaks</a>
+    <a href="https://artisans-corner.com/house-rules/">House Rules</a>
   </td>
   <td>
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-artisans-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:tweaks2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3508,13 +3508,13 @@ the EET portion (type-:sundry2).
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Tweaks and Tricks (TNT).png" alt="pic" />
   </td>
   <td>
-    <a href="">Tweaks and Tricks (TNT)</a>
+    <a href="https://github.com/BGforgeNet/bg2-tweaks-and-tricks">Tweaks and Tricks (TNT)</a>
   </td>
   <td>
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-bgforge-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:tweaks2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3525,13 +3525,13 @@ the EET portion (type-:sundry2).
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Klatu Tweaks and Fixes.png" alt="pic" />
   </td>
   <td>
-    <a href="">Klatu Tweaks and Fixes</a>
+    <a href="http://www.shsforums.net/files/file/1109-klatu-tweaks-and-fixes/">Klatu Tweaks and Fixes</a>
   </td>
   <td>
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:tweaks2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3548,7 +3548,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:tweaks2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3565,7 +3565,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:tweaks2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3582,7 +3582,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-k4thos-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:tweaks2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3599,7 +3599,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-tipun-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:tweaks2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3616,7 +3616,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:tweaks2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3633,7 +3633,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:tweaks2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3650,7 +3650,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-bartymae-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:tweaks2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3685,7 +3685,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:end2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3719,7 +3719,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-fredriklindgren-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:end2-teal?style=plastic" alt="dist" />
     
   </td>
@@ -3736,7 +3736,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-guardiananubite-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:end2-teal?style=plastic" alt="dist" />
     
   </td>
