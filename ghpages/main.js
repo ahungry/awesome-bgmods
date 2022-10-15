@@ -55,9 +55,7 @@ function snagtags(){
         }
         document.getElementById('modsearch').value = modsearches.join(',')
 
-        if (modsearches.length > 0) {
-          window.location.href = '#' + modsearches.join(',')
-        }
+        window.history.replaceState({}, 'ignored', '#' + modsearches.join(','))
         // window.scrollTo(0, 0)
         // setTimeout(
         //   () => {
