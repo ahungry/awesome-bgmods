@@ -6,6 +6,11 @@
 <script src="ghpages/main.js?v=9"></script>
 </details>
 
+If you're reading this on Github, you may prefer the more interactive
+view at:
+
+https://ahungry.github.io/awesome-bgmods/
+
 ## Legend
 
 Mods are either "pre:eet" or "post:eet" type - this implies where the
