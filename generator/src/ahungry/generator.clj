@@ -78,23 +78,23 @@
 "
                   preamble
 
-                  (yaml->md :sundry1 (:sundry1 yaml))
-                  (yaml->md :quests1 (:quests1 yaml))
-                  (yaml->md :characters1 (:characters1 yaml))
-                  (yaml->md :gameplay1 (:gameplay1 yaml))
+                  (yaml->md "pre-eet" (:sundry1 yaml))
+                  (yaml->md "pre-eet" (:quests1 yaml))
+                  (yaml->md "pre-eet" (:characters1 yaml))
+                  (yaml->md "pre-eet" (:gameplay1 yaml))
 
-                  (yaml->md :sundry2 (:sundry2 yaml))
-                  (yaml->md :ui2 (:ui2 yaml))
-                  (yaml->md :items2 (:items2 yaml))
-                  (yaml->md :quests2 (:quests2 yaml))
-                  (yaml->md :characters2 (:characters2 yaml))
-                  (yaml->md :pos2 (:pos2 yaml))
-                  (yaml->md :voice2 (:voice2 yaml))
-                  (yaml->md :gameplay2 (:gameplay2 yaml))
-                  (yaml->md :sys2 (:sys2 yaml))
-                  (yaml->md :tactics2 (:tactics2 yaml))
-                  (yaml->md :tweaks2 (:tweaks2 yaml))
-                  (yaml->md :end2 (:end2 yaml))))))
+                  (yaml->md "post-eet" (:sundry2 yaml))
+                  (yaml->md "post-eet" (:ui2 yaml))
+                  (yaml->md "post-eet" (:items2 yaml))
+                  (yaml->md "post-eet" (:quests2 yaml))
+                  (yaml->md "post-eet" (:characters2 yaml))
+                  (yaml->md "post-eet" (:pos2 yaml))
+                  (yaml->md "post-eet" (:voice2 yaml))
+                  (yaml->md "post-eet" (:gameplay2 yaml))
+                  (yaml->md "post-eet" (:sys2 yaml))
+                  (yaml->md "post-eet" (:tactics2 yaml))
+                  (yaml->md "post-eet" (:tweaks2 yaml))
+                  (yaml->md "post-eet" (:end2 yaml))))))
 
 (defn greet
   "Callable entry point to the application."
