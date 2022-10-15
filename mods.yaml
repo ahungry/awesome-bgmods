@@ -15,16 +15,16 @@ sundry1:
     down: https://www.gibberlings3.net/files/file/908-bg1-npc-project/
     dist: g3
     desc:
-       This WeiDU mod adds a great deal of content by expanding 
-       the depth of character and levels of interaction of the 
-       NPCs in Baldur's Gate. It also provides some optional 
-       tweaks to the BG portion of the game. Available in 
-       English, Spanish, French, Polish, and German, this 
-       version ships with WeiDU v246. Banters, player-initiated 
-       dialogues, romances, quests, tweaks, and interjections 
-       enhance your BG experience when you add this mod to your 
-       Tutu, BGT, BGEE, or EET game. We suggest pairing the mod 
-       with the optional Music Pack. 
+       This WeiDU mod adds a great deal of content by expanding
+       the depth of character and levels of interaction of the
+       NPCs in Baldur's Gate. It also provides some optional
+       tweaks to the BG portion of the game. Available in
+       English, Spanish, French, Polish, and German, this
+       version ships with WeiDU v246. Banters, player-initiated
+       dialogues, romances, quests, tweaks, and interjections
+       enhance your BG experience when you add this mod to your
+       Tutu, BGT, BGEE, or EET game. We suggest pairing the mod
+       with the optional Music Pack.
     tags:
       - npc
       - banter
@@ -36,11 +36,11 @@ sundry1:
     down: https://www.gibberlings3.net/files/file/692-bg1-npc-project-music-pack/
     dist: g3
     desc:
-      This mod adds musical soundtracks to unvoiced dialog in 
-      BG1NPC. BG1NPC adds a great deal of content by expanding 
-      the depth of character and levels of interaction of the 
-      NPCs in Baldur's Gate. This package works on Tutu, BGT, 
-      and BG:EE. 
+      This mod adds musical soundtracks to unvoiced dialog in
+      BG1NPC. BG1NPC adds a great deal of content by expanding
+      the depth of character and levels of interaction of the
+      NPCs in Baldur's Gate. This package works on Tutu, BGT,
+      and BG:EE.
     tags:
       - audio
 
@@ -49,7 +49,7 @@ sundry1:
     down: https://www.gibberlings3.net/files/file/689-auren-aseph-original-soundtrack/
     dist: g3
     desc:
-      Auren Aseph original soundtrack. 
+      Auren Aseph original soundtrack.
     tags:
       - audio
 
@@ -58,10 +58,10 @@ sundry1:
     down: https://www.gibberlings3.net/files/file/877-sarah-npc-romance-mod-music-add-on/
     dist: g3
     desc:
-       This mod adds Sarah's original soundtrack. Sarah, a 
-       chaotic good ranger, is an NPC added to the game of 
-       Baldur's Gate II. Sarah has a romance available for 
-       female characters and a friendship for any PC. 
+       This mod adds Sarah's original soundtrack. Sarah, a
+       chaotic good ranger, is an NPC added to the game of
+       Baldur's Gate II. Sarah has a romance available for
+       female characters and a friendship for any PC.
     tags:
       - audio
 
@@ -183,8 +183,8 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/ajantis/
     down: https://www.gibberlings3.net/files/file/996-ajantis-bg-expansion/
     dist: g3
-    desc: 
-      This mod expands on the paladin of Helm Ajantis, the original BioWare NPC. 
+    desc:
+      This mod expands on the paladin of Helm Ajantis, the original BioWare NPC.
     tags:
       - npc
 
@@ -192,11 +192,11 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/ajantis-bg2/
     down: https://www.gibberlings3.net/files/file/989-ajantis-npc-for-bgii/
     dist: g3
-    desc: 
-      This modification introduces Ajantis, the known BG1 NPC, 
-      paladin of the Order of the Radiant Heart into the SoA and 
-      ToB part of the game. It is compatible with BGII, BGT, 
-      BGII:EE, and EET. 
+    desc:
+      This modification introduces Ajantis, the known BG1 NPC,
+      paladin of the Order of the Radiant Heart into the SoA and
+      ToB part of the game. It is compatible with BGII, BGT,
+      BGII:EE, and EET.
     tags:
       - npc
 
@@ -204,16 +204,16 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/amber/
     down: https://www.gibberlings3.net/files/file/685-amber/
     dist: g3
-    desc: 
-      Amber is a tiefling rogue of a chaotic good alignment, 
+    desc:
+      Amber is a tiefling rogue of a chaotic good alignment,
       possessed of a few special abilities. Despite being fairly
-      intelligent, she can at times be rather blunt when 
-      communicating with other people. This trait rarely earns 
+      intelligent, she can at times be rather blunt when
+      communicating with other people. This trait rarely earns
       her friends among the people she meets, and the feeling of
-      initial dislike is usually mutual. But underneath her 
-      prickly manners, she has a good heart and is prepared to 
-      go to great lengths to help those who she sees to be weak 
-      and in need of aid. 
+      initial dislike is usually mutual. But underneath her
+      prickly manners, she has a good heart and is prepared to
+      go to great lengths to help those who she sees to be weak
+      and in need of aid.
     tags:
       - npc
 
@@ -221,15 +221,15 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/angelo/
     down: https://www.gibberlings3.net/files/file/686-angelo/
     dist: g3
-    desc: 
-      This Baldur's Gate II mod adds Angelo Dosan, the 
-      fighter-turned-mage who served as your brother's henchman 
-      in Baldur's Gate. You may remember that he sentenced you 
-      to death and fought against you in the Undercity, and if 
-      you were lucky enough to mine the content, you may 
-      remember that he is Shar-Teel's father. Most likely he 
-      didn't survive your game, but people in this world seem to 
-      have a knack for not staying dead. 
+    desc:
+      This Baldur's Gate II mod adds Angelo Dosan, the
+      fighter-turned-mage who served as your brother's henchman
+      in Baldur's Gate. You may remember that he sentenced you
+      to death and fought against you in the Undercity, and if
+      you were lucky enough to mine the content, you may
+      remember that he is Shar-Teel's father. Most likely he
+      didn't survive your game, but people in this world seem to
+      have a knack for not staying dead.
     tags:
       - npc
 
@@ -237,10 +237,10 @@ characters1:
     home: https://gibberlings3.github.io/Documentation/readmes/readme_anishai_english.txt
     down: https://www.gibberlings3.net/files/file/687-anishai-one-day-npc/
     dist: g3
-    desc: 
-      This is my small contributin to JCompton's one-day NPC 
-      project. It makes Anishai, the monk from Mae'Var's 
-      guildhouse, a joinable NPC. 
+    desc:
+      This is my small contributin to JCompton's one-day NPC
+      project. It makes Anishai, the monk from Mae'Var's
+      guildhouse, a joinable NPC.
     tags:
       - npc
 
@@ -248,11 +248,11 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/auren/
     down: https://www.gibberlings3.net/files/file/688-auren-aseph/
     dist: g3
-    desc: 
-      This mod adds Auren Aseph, a female human fighter of neutral 
-      good alignment, to the cast of recruitable NPCs in Baldur's 
+    desc:
+      This mod adds Auren Aseph, a female human fighter of neutral
+      good alignment, to the cast of recruitable NPCs in Baldur's
       Gate II. Auren's original soundtrack is also available as a
-      separate download in a zip file. 
+      separate download in a zip file.
     tags:
       - npc
 
@@ -260,16 +260,16 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/beaurin/
     down: https://www.gibberlings3.net/files/file/998-beaurin-legacy/
     dist: g3
-    desc: 
-      The Beaurin Legacy introduces an elven Enchanter/Thief and 
-      a hidden NPC to BGII:SoA & ToB and BGII:EE. Minyae Beaurin 
-      can be found outside of the Crooked Crane in the City 
-      Gates. The mod includes custom portraits, a friendship 
+    desc:
+      The Beaurin Legacy introduces an elven Enchanter/Thief and
+      a hidden NPC to BGII:SoA & ToB and BGII:EE. Minyae Beaurin
+      can be found outside of the Crooked Crane in the City
+      Gates. The mod includes custom portraits, a friendship
       track for both Minyae and the Hidden NPC, numerous banters
-      and interjections, encounters and quest(s), voicing for 
-      both NPCs (However, Minyae is fully voiced), a romance 
+      and interjections, encounters and quest(s), voicing for
+      both NPCs (However, Minyae is fully voiced), a romance
       with a Bioware NPC, player-initiated dialogues, and custom
-      friendship track themes. 
+      friendship track themes.
     tags:
       - npc
 
@@ -277,10 +277,10 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/calin/
     down: https://www.gibberlings3.net/files/file/1010-calin/
     dist: g3
-    desc: 
-      This mod introduces Calin, a human Blade Master to BG II. 
-      Calin is neutral good and will romance a female who is 
-      Elf, Half-elf, Human and of non evil alignment. 
+    desc:
+      This mod introduces Calin, a human Blade Master to BG II.
+      Calin is neutral good and will romance a female who is
+      Elf, Half-elf, Human and of non evil alignment.
     tags:
       - npc
 
@@ -288,13 +288,13 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/coran/
     down: https://www.gibberlings3.net/files/file/703-corans-bg-extended-friendship-talks/
     dist: g3
-    desc: 
-      This mod expands Coran's Friendship talk sequence, adding 
-      up to eighteen (18) new banters with the protagonist (and 
-      one potential comment by Garrick)for a player character 
-      who is not in an active romance with him. If you have The 
-      BG1 NPC Project installed, they begin playing after the 
-      last regular friendship talk. 
+    desc:
+      This mod expands Coran's Friendship talk sequence, adding
+      up to eighteen (18) new banters with the protagonist (and
+      one potential comment by Garrick)for a player character
+      who is not in an active romance with him. If you have The
+      BG1 NPC Project installed, they begin playing after the
+      last regular friendship talk.
     tags:
       - npc
 
@@ -302,14 +302,14 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/corthala/
     down: https://www.gibberlings3.net/files/file/1001-corthala-romantique/
     dist: g3
-    desc: 
-      The Mod Corthala Romantique adds a romance for female PCs 
-      (no short races) of good or neutral alignment (no chaotic 
-      neutral) or female druids. To proceed with the romance, 
-      the reputation has to be above 13. The mod also adds 
-      friendship talks for the SoA part of the game for PCs that 
-      do not fulfill the romance criteria. For ToB, all 
-      dialogues added are for romance, only. 
+    desc:
+      The Mod Corthala Romantique adds a romance for female PCs
+      (no short races) of good or neutral alignment (no chaotic
+      neutral) or female druids. To proceed with the romance,
+      the reputation has to be above 13. The mod also adds
+      friendship talks for the SoA part of the game for PCs that
+      do not fulfill the romance criteria. For ToB, all
+      dialogues added are for romance, only.
     tags:
       - npc
 
@@ -317,11 +317,11 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/crossmod_iwd/
     down: https://www.gibberlings3.net/files/file/1018-crossmod-banter-pack-iwd/
     dist: g3
-    desc: 
-      This mod adds crossmod content - including banters, 
-      interjections and romance conflicts - to several NPC mods 
-      for Icewind Dale: Enhanced Edition, as well as serving as 
-      a hub for crossmod of future mods for IWD:EE. 
+    desc: |
+      This mod adds crossmod content - including banters,
+      interjections and romance conflicts - to several NPC mods
+      for Icewind Dale: Enhanced Edition, as well as serving as
+      a hub for crossmod of future mods for IWD:EE.
     tags:
       - npc
 
@@ -329,10 +329,10 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/crossmod/
     down: https://www.gibberlings3.net/files/file/704-crossmod-banter-pack-for-bg2/
     dist: g3
-    desc: 
-      The Crossmod Banter Pack is a collaborative effort to add 
-      banters between NPC's from mods that add content to 
-      Shadows of Amn and Throne of Bhaal. 
+    desc:
+      The Crossmod Banter Pack is a collaborative effort to add
+      banters between NPC's from mods that add content to
+      Shadows of Amn and Throne of Bhaal.
     tags:
       - npc
 
@@ -340,12 +340,12 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/evandra/
     down: https://www.gibberlings3.net/files/file/1008-evandra/
     dist: g3
-    desc: 
-      This Baldur's Gate 2 mod introduces Evandra, a True 
-      Neutral elven illusionist, and for those familiar with 
-      the Dragonlance setting, a Red Robed Wizard of High 
-      Sorcery. She comes with an extensive friendship track, and 
-      perhaps a little more. 
+    desc:
+      This Baldur's Gate 2 mod introduces Evandra, a True
+      Neutral elven illusionist, and for those familiar with
+      the Dragonlance setting, a Red Robed Wizard of High
+      Sorcery. She comes with an extensive friendship track, and
+      perhaps a little more.
     tags:
       - npc
 
@@ -353,16 +353,16 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/garrick/
     down: https://www.gibberlings3.net/files/file/899-garricks-infatuation/
     dist: g3
-    desc: 
-      Garrick's Infatuation for BGEE, EasyTutu, BG Tutu, or BGT 
-      allows Gorion's foster daughter to explore a closer 
-      acquaintance with her very first biographer through a 
-      series of 25 conversations. The flirtation is available to 
-      females of any race, class, or alignment and it begins 
-      shortly after Garrick is recruited. The mod is intended 
-      for the Baldur's Gate segment of the saga and is fully 
-      compatible with the BG1 NPC Project, though the latter is 
-      not required. 
+    desc:
+      Garrick's Infatuation for BGEE, EasyTutu, BG Tutu, or BGT
+      allows Gorion's foster daughter to explore a closer
+      acquaintance with her very first biographer through a
+      series of 25 conversations. The flirtation is available to
+      females of any race, class, or alignment and it begins
+      shortly after Garrick is recruited. The mod is intended
+      for the Baldur's Gate segment of the saga and is fully
+      compatible with the BG1 NPC Project, though the latter is
+      not required.
     tags:
       - npc
 
@@ -370,11 +370,11 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/gavin/
     down: https://www.gibberlings3.net/files/file/714-gavin-npc-for-bg/
     dist: g3
-    desc: 
-      Gavin is an NPC mod for Tutu, BG:EE, and the BG portion of 
-      BGT and EET. He is a Morninglord of Lathander and can be 
-      found outside the Song of the Morning Temple, near 
-      Beregost. 
+    desc:
+      Gavin is an NPC mod for Tutu, BG:EE, and the BG portion of
+      BGT and EET. He is a Morninglord of Lathander and can be
+      found outside the Song of the Morning Temple, near
+      Beregost.
     tags:
       - npc
 
@@ -382,11 +382,11 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/gavin-bg2/
     down: https://www.gibberlings3.net/files/file/715-gavin-npc-for-bg2/
     dist: g3
-    desc: 
-      Gavin is an NPC mod for Baldur's Gate II, the BG2 portion 
-      of BGT, BGII:EE, and (the BG2 portion of) EET. He is a 
-      Morninglord of Lathander and can be found in the Temple of 
-      Ilmater on the roof of the Copper Coronet in the Slums. 
+    desc:
+      Gavin is an NPC mod for Baldur's Gate II, the BG2 portion
+      of BGT, BGII:EE, and (the BG2 portion of) EET. He is a
+      Morninglord of Lathander and can be found in the Temple of
+      Ilmater on the roof of the Copper Coronet in the Slums.
     tags:
       - npc
 
@@ -394,12 +394,12 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/glam-npc-pack/
     down: https://www.gibberlings3.net/files/file/962-glams-npc-pack/
     dist: g3
-    desc: 
-      A drow, a dwarf, a halfling, a dragon(?) and a priest of 
-      Talos walk into a tavern. What's the punchline? Find out 
-      with Glam's NPC Pack, featuring the original "Vynd, Drow 
-      Assassin" and four brand-new party members for BGEE, Tutu, 
-      BGT, and EET.﻿ 
+    desc:
+      A drow, a dwarf, a halfling, a dragon(?) and a priest of
+      Talos walk into a tavern. What's the punchline? Find out
+      with Glam's NPC Pack, featuring the original "Vynd, Drow
+      Assassin" and four brand-new party members for BGEE, Tutu,
+      BGT, and EET.﻿
     tags:
       - npc
 
@@ -407,28 +407,28 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/grey-the-dog/
     down: https://www.gibberlings3.net/files/file/1014-grey-the-dog/
     dist: g3
-    desc: 
-      Grey is a full-fledged joinable NPC, but still a real dog. 
-      The only magic on him is his enchanted collar that gives 1 
-      AC bonus. He has sensible interjections (Woof!), NPC 
-      banters (mostly NPC dialogues about him with the PC), a 
-      click dialogue (PID) if the PC feels like playing fetch or 
-      just needs someone to talk to. There are dialogue options 
-      that reflect the game story and I'll promise: Grey will 
-      always listen to your PC's woes. Grey initiates no 
-      dialogues so there is no friendship track and - I am 
-      really sorry, but no romance. 
+    desc: |
+      Grey is a full-fledged joinable NPC, but still a real dog.
+      The only magic on him is his enchanted collar that gives 1
+      AC bonus. He has sensible interjections (Woof!), NPC
+      banters (mostly NPC dialogues about him with the PC), a
+      click dialogue (PID) if the PC feels like playing fetch or
+      just needs someone to talk to. There are dialogue options
+      that reflect the game story and I'll promise: Grey will
+      always listen to your PC's woes. Grey initiates no
+      dialogues so there is no friendship track and - I am
+      really sorry, but no romance.
     tags:
       - npc
 
-  - name: Haldamir NPC for BG2 
+  - name: Haldamir NPC for BG2
     home: https://www.gibberlings3.net/mods/npcs/haldamir/
     down: https://www.gibberlings3.net/files/file/718-haldamir-npc-for-bg2/
     dist: g3
-    desc: 
-      Haldamir is an NPC mod for Baldur's Gate II, BGT, or 
-      BGII:EE. He is an unkitted elven fighter and can be found 
-      in the Den of the Seven Vales in Waukeen's Promenade. 
+    desc:
+      Haldamir is an NPC mod for Baldur's Gate II, BGT, or
+      BGII:EE. He is an unkitted elven fighter and can be found
+      in the Den of the Seven Vales in Waukeen's Promenade.
     tags:
       - npc
 
@@ -436,12 +436,12 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/iwd2npc/
     down: https://www.gibberlings3.net/files/file/723-iwd2-npc-project/
     dist: g3
-    desc: 
-      The main goal of IWD2 NPC is to give an IWD2 player the 
-      opportunity to play with joinable NPCs that are not 
-      silent. The mod allows the player to use a pre-made party 
+    desc:
+      The main goal of IWD2 NPC is to give an IWD2 player the
+      opportunity to play with joinable NPCs that are not
+      silent. The mod allows the player to use a pre-made party
       or a custom character and five premade characters to allow
-      for interaction within the party. 
+      for interaction within the party.
     tags:
       - npc
 
@@ -449,9 +449,9 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/keldorn/
     down: https://www.gibberlings3.net/files/file/978-keldorn-romance/
     dist: g3
-    desc: 
-      berelinde's Keldorn Romance introduces a romance for the 
-      original BioWare NPC Keldorn. 
+    desc:
+      berelinde's Keldorn Romance introduces a romance for the
+      original BioWare NPC Keldorn.
     tags:
       - npc
 
@@ -459,12 +459,12 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/kivan/
     down: https://www.gibberlings3.net/files/file/732-kivan-and-deheriana-companions-for-bg2/
     dist: g3
-    desc: 
-      This WeiDU mod adds a joinable NPC from BG, Kivan, and, 
-      under certain circumstances, his elven wife Deheriana to 
-      the cast of BG2 actors. The soundset has been merged into 
-      the main download package and is no longer available 
-      separately. 
+    desc:
+      This WeiDU mod adds a joinable NPC from BG, Kivan, and,
+      under certain circumstances, his elven wife Deheriana to
+      the cast of BG2 actors. The soundset has been merged into
+      the main download package and is no longer available
+      separately.
     tags:
       - npc
 
@@ -472,25 +472,25 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/murneth/
     down: https://www.gibberlings3.net/files/file/784-murneth-npc-mod/
     dist: g3
-    desc: 
-      This WeiDU mod for BG:EE, Tutu or BGT-WeiDU contains 
-      Mur'Neth, a member of the race of ooze - like 
-      shapechangers who venerate Ghaunadaur, the evil deity of 
-      oozes, moulds and the like. 
+    desc:
+      This WeiDU mod for BG:EE, Tutu or BGT-WeiDU contains
+      Mur'Neth, a member of the race of ooze - like
+      shapechangers who venerate Ghaunadaur, the evil deity of
+      oozes, moulds and the like.
     tags:
       - npc
 
-  - name: Navarra 
+  - name: Navarra
     home: https://www.gibberlings3.net/mods/npcs/navarra/
     down: https://www.gibberlings3.net/files/file/1035-navarra/
     dist: g3
-    desc: 
-      Navarra is designed to work with Baldur's Gate II: Throne 
-      of Bhaal expansion pack and should be compatible with 
-      other WeiDU mods. This mod introduces Navarra, a human 
-      Barbarian to BG II. Navarra is chaotic good and will 
-      romance a male who is Elf, Half-elf, Human and of 
-      non-evil alignment. 
+    desc: |
+      Navarra is designed to work with Baldur's Gate II: Throne
+      of Bhaal expansion pack and should be compatible with
+      other WeiDU mods. This mod introduces Navarra, a human
+      Barbarian to BG II. Navarra is chaotic good and will
+      romance a male who is Elf, Half-elf, Human and of
+      non-evil alignment.
     tags:
       - npc
 
@@ -498,14 +498,14 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/bg-romantic-encounters/
     down: https://www.gibberlings3.net/files/file/956-romantic-encounters-bg/
     dist: g3
-    desc: 
-      The Baldur's Gate version of the popular Romantic 
-      Encounters mod, adding several encounters and quests all 
-      over the game. BG1RE aims at populating the game with 
-      romantic encounters, intense dialogues, unexpected private 
-      dinners, romantic traces of long lost times, and real 
-      quests that all deal with true love, fulfilled or 
-      unfulfilled. 
+    desc:
+      The Baldur's Gate version of the popular Romantic
+      Encounters mod, adding several encounters and quests all
+      over the game. BG1RE aims at populating the game with
+      romantic encounters, intense dialogues, unexpected private
+      dinners, romantic traces of long lost times, and real
+      quests that all deal with true love, fulfilled or
+      unfulfilled.
     tags:
       - npc
 
@@ -513,35 +513,35 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/romantic-encounters/
     down: https://www.gibberlings3.net/files/file/931-romantic-encounters-bg2/
     dist: g3
-    desc: 
-      The Romantic Encounters mod for Baldur's Gate II (RE for 
-      short) is an add-on for the game Baldur's Gate II. 
-      Romantic possibilities are endless. It could be a bit of 
-      flirting. Or several. Some innuendo. A lovers' quarrel. A 
-      one-night stand. Or even several nights together - with a 
-      'morning after' and without. A dream. Or something else? 
+    desc:
+      The Romantic Encounters mod for Baldur's Gate II (RE for
+      short) is an add-on for the game Baldur's Gate II.
+      Romantic possibilities are endless. It could be a bit of
+      flirting. Or several. Some innuendo. A lovers' quarrel. A
+      one-night stand. Or even several nights together - with a
+      'morning after' and without. A dream. Or something else?
     tags:
       - npc
 
-  - name: Sarah NPC Romance Mod for BG2: TOB
+  - name: "Sarah NPC Romance Mod for BG2: TOB"
     home: https://www.gibberlings3.net/mods/npcs/sarah/
     down: https://www.gibberlings3.net/files/file/898-sarah-npc-romance-mod-for-bg2-tob/
     dist: g3
-    desc: 
-      This mod adds Sarah, a chaotic good ranger, to the game of 
-      Baldur's Gate II. Sarah also has a romance available for 
-      female characters and a friendship for any PC. 
+    desc:
+      This mod adds Sarah, a chaotic good ranger, to the game of
+      Baldur's Gate II. Sarah also has a romance available for
+      female characters and a friendship for any PC.
     tags:
       - npc
 
   - name: Tyris Flare NPC
     home: https://www.gibberlings3.net/mods/npcs/tyris/
-    down: https://www.gibberlings3.net/files/file/906-tyris-flare-npc/ 
+    down: https://www.gibberlings3.net/files/file/906-tyris-flare-npc/
     dist: g3
-    desc: 
-      Tyris Flare is a red-haired amazon from ye olde Golden Axe 
-      computer games that were released on the Sega Mega Drive 
-      (or Genesis in America) and arcade machines in the 90s. 
+    desc:
+      Tyris Flare is a red-haired amazon from ye olde Golden Axe
+      computer games that were released on the Sega Mega Drive
+      (or Genesis in America) and arcade machines in the 90s.
     tags:
       - npc
 
@@ -549,16 +549,16 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/yoshimos-remorse/
     down: https://www.gibberlings3.net/files/file/1012-yoshimos-remorse/
     dist: g3
-    desc: 
-      Was that truly the ending to Yoshimo's adventures with the 
-      Bhaalspawn? Is there simply no way to redeem himself or 
-      explain his actions to the PC? Yoshimo's Remorse is a mod 
-      for BG2:ToB that makes Yoshimo a playable character in 
-      Throne of Bhaal. However, he is not what you expect him to 
-      be... So prepare yourself for some more adventures and 
-      talks with the infamous bounty hunter, a tormented soul 
-      that was left with nothing but regrets. Listen to him as 
-      this may be his last chance to find peace. 
+    desc:
+      Was that truly the ending to Yoshimo's adventures with the
+      Bhaalspawn? Is there simply no way to redeem himself or
+      explain his actions to the PC? Yoshimo's Remorse is a mod
+      for BG2:ToB that makes Yoshimo a playable character in
+      Throne of Bhaal. However, he is not what you expect him to
+      be... So prepare yourself for some more adventures and
+      talks with the infamous bounty hunter, a tormented soul
+      that was left with nothing but regrets. Listen to him as
+      this may be his last chance to find peace.
     tags:
       - npc
 
@@ -566,12 +566,12 @@ characters1:
     home: https://www.gibberlings3.net/mods/npcs/zakrion/
     down: https://www.gibberlings3.net/files/file/1020-zakrion/
     dist: g3
-    desc: 
-      The Zakrion NPC Mod introduces a human Duelist to BG:EE. 
-      Zakrion can be found near the ship wreckage on the Sword 
-      Coast. The mod includes custom portraits and voicing, a 
-      friendship track, numerous banters and interjections, and 
-      a "semi-romance" with the PC. 
+    desc:
+      The Zakrion NPC Mod introduces a human Duelist to BG:EE.
+      Zakrion can be found near the ship wreckage on the Sword
+      Coast. The mod includes custom portraits and voicing, a
+      friendship track, numerous banters and interjections, and
+      a "semi-romance" with the PC.
     tags:
       - npc
 

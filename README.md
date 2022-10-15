@@ -34,30 +34,64 @@ https://ahungry.github.io/awesome-bgmods/
  
 <tr class="mod-entry">
   <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/bg1npc.png" alt="pic" />
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/The BG1 NPC Project.png" alt="pic" />
   </td>
   <td>
-    <a href="https://www.gibberlings3.net/mods/npcs/bg1npc/">bg1npc</a>
+    <a href="https://www.gibberlings3.net/mods/npcs/bg1npc/">The BG1 NPC Project</a>
   </td>
   <td>
-    Adds WAY more banter/conversations with original BG1 npcs.
+    This WeiDU mod adds a great deal of content by expanding the depth of character and levels of interaction of the NPCs in Baldur's Gate. It also provides some optional tweaks to the BG portion of the game. Available in English, Spanish, French, Polish, and German, this version ships with WeiDU v246. Banters, player-initiated dialogues, romances, quests, tweaks, and interjections enhance your BG experience when you add this mod to your Tutu, BGT, BGEE, or EET game. We suggest pairing the mod with the optional Music Pack.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/>
   </td>
 </tr>
  
 <tr class="mod-entry">
   <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/bg1npcmusic.png" alt="pic" />
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/BG1 NPC Project Music Pack.png" alt="pic" />
   </td>
   <td>
-    <a href="https://www.gibberlings3.net/subpages/bg1npc/bg1music/">bg1npcmusic</a>
+    <a href="https://www.gibberlings3.net/subpages/bg1npc/bg1music/">BG1 NPC Project Music Pack</a>
   </td>
   <td>
-    Background music to go with the banters (it'll play as the banter initiates).
+    This mod adds musical soundtracks to unvoiced dialog in BG1NPC. BG1NPC adds a great deal of content by expanding the depth of character and levels of interaction of the NPCs in Baldur's Gate. This package works on Tutu, BGT, and BG:EE.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Auren Aseph Original Soundtrack.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/auren/">Auren Aseph Original Soundtrack</a>
+  </td>
+  <td>
+    Auren Aseph original soundtrack.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Sarah NPC Romance Mod Music Add-On.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/sarah/">Sarah NPC Romance Mod Music Add-On</a>
+  </td>
+  <td>
+    This mod adds Sarah's original soundtrack. Sarah, a chaotic good ranger, is an NPC added to the game of Baldur's Gate II. Sarah has a romance available for female characters and a friendship for any PC.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
@@ -166,7 +200,7 @@ https://ahungry.github.io/awesome-bgmods/
   <td>
     <img src="https://img.shields.io/badge/dist-artisans-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/>
   </td>
 </tr>
  
@@ -217,7 +251,7 @@ https://ahungry.github.io/awesome-bgmods/
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/>
   </td>
 </tr>
  
@@ -233,6 +267,536 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Ajantis BG Expansion.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/ajantis/">Ajantis BG Expansion</a>
+  </td>
+  <td>
+    This mod expands on the paladin of Helm Ajantis, the original BioWare NPC.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Ajantis NPC for BGII.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/ajantis-bg2/">Ajantis NPC for BGII</a>
+  </td>
+  <td>
+    This modification introduces Ajantis, the known BG1 NPC, paladin of the Order of the Radiant Heart into the SoA and ToB part of the game. It is compatible with BGII, BGT, BGII:EE, and EET.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Amber.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/amber/">Amber</a>
+  </td>
+  <td>
+    Amber is a tiefling rogue of a chaotic good alignment, possessed of a few special abilities. Despite being fairly intelligent, she can at times be rather blunt when communicating with other people. This trait rarely earns her friends among the people she meets, and the feeling of initial dislike is usually mutual. But underneath her prickly manners, she has a good heart and is prepared to go to great lengths to help those who she sees to be weak and in need of aid.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Angelo.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/angelo/">Angelo</a>
+  </td>
+  <td>
+    This Baldur's Gate II mod adds Angelo Dosan, the fighter-turned-mage who served as your brother's henchman in Baldur's Gate. You may remember that he sentenced you to death and fought against you in the Undercity, and if you were lucky enough to mine the content, you may remember that he is Shar-Teel's father. Most likely he didn't survive your game, but people in this world seem to have a knack for not staying dead.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Anishai One Day NPC.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://gibberlings3.github.io/Documentation/readmes/readme_anishai_english.txt">Anishai One Day NPC</a>
+  </td>
+  <td>
+    This is my small contributin to JCompton's one-day NPC project. It makes Anishai, the monk from Mae'Var's guildhouse, a joinable NPC.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Auren Aseph.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/auren/">Auren Aseph</a>
+  </td>
+  <td>
+    This mod adds Auren Aseph, a female human fighter of neutral good alignment, to the cast of recruitable NPCs in Baldur's Gate II. Auren's original soundtrack is also available as a separate download in a zip file.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Beaurin Legacy.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/beaurin/">Beaurin Legacy</a>
+  </td>
+  <td>
+    The Beaurin Legacy introduces an elven Enchanter/Thief and a hidden NPC to BGII:SoA & ToB and BGII:EE. Minyae Beaurin can be found outside of the Crooked Crane in the City Gates. The mod includes custom portraits, a friendship track for both Minyae and the Hidden NPC, numerous banters and interjections, encounters and quest(s), voicing for both NPCs (However, Minyae is fully voiced), a romance with a Bioware NPC, player-initiated dialogues, and custom friendship track themes.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Calin.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/calin/">Calin</a>
+  </td>
+  <td>
+    This mod introduces Calin, a human Blade Master to BG II. Calin is neutral good and will romance a female who is Elf, Half-elf, Human and of non evil alignment.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Coran's BG Extended Friendship Talks.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/coran/">Coran's BG Extended Friendship Talks</a>
+  </td>
+  <td>
+    This mod expands Coran's Friendship talk sequence, adding up to eighteen (18) new banters with the protagonist (and one potential comment by Garrick)for a player character who is not in an active romance with him. If you have The BG1 NPC Project installed, they begin playing after the last regular friendship talk.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Corthala Romantique.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/corthala/">Corthala Romantique</a>
+  </td>
+  <td>
+    The Mod Corthala Romantique adds a romance for female PCs (no short races) of good or neutral alignment (no chaotic neutral) or female druids. To proceed with the romance, the reputation has to be above 13. The mod also adds friendship talks for the SoA part of the game for PCs that do not fulfill the romance criteria. For ToB, all dialogues added are for romance, only.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Crossmod Banter Pack (IWD).png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/crossmod_iwd/">Crossmod Banter Pack (IWD)</a>
+  </td>
+  <td>
+    This mod adds crossmod content - including banters,
+interjections and romance conflicts - to several NPC mods
+for Icewind Dale: Enhanced Edition, as well as serving as
+a hub for crossmod of future mods for IWD:EE.
+
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Crossmod Banter Pack for BG2.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/crossmod/">Crossmod Banter Pack for BG2</a>
+  </td>
+  <td>
+    The Crossmod Banter Pack is a collaborative effort to add banters between NPC's from mods that add content to Shadows of Amn and Throne of Bhaal.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Evandra.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/evandra/">Evandra</a>
+  </td>
+  <td>
+    This Baldur's Gate 2 mod introduces Evandra, a True Neutral elven illusionist, and for those familiar with the Dragonlance setting, a Red Robed Wizard of High Sorcery. She comes with an extensive friendship track, and perhaps a little more.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Garrick's Infatuation.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/garrick/">Garrick's Infatuation</a>
+  </td>
+  <td>
+    Garrick's Infatuation for BGEE, EasyTutu, BG Tutu, or BGT allows Gorion's foster daughter to explore a closer acquaintance with her very first biographer through a series of 25 conversations. The flirtation is available to females of any race, class, or alignment and it begins shortly after Garrick is recruited. The mod is intended for the Baldur's Gate segment of the saga and is fully compatible with the BG1 NPC Project, though the latter is not required.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Gavin NPC for BG.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/gavin/">Gavin NPC for BG</a>
+  </td>
+  <td>
+    Gavin is an NPC mod for Tutu, BG:EE, and the BG portion of BGT and EET. He is a Morninglord of Lathander and can be found outside the Song of the Morning Temple, near Beregost.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Gavin NPC for BG2.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/gavin-bg2/">Gavin NPC for BG2</a>
+  </td>
+  <td>
+    Gavin is an NPC mod for Baldur's Gate II, the BG2 portion of BGT, BGII:EE, and (the BG2 portion of) EET. He is a Morninglord of Lathander and can be found in the Temple of Ilmater on the roof of the Copper Coronet in the Slums.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Glam's NPC Pack.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/glam-npc-pack/">Glam's NPC Pack</a>
+  </td>
+  <td>
+    A drow, a dwarf, a halfling, a dragon(?) and a priest of Talos walk into a tavern. What's the punchline? Find out with Glam's NPC Pack, featuring the original "Vynd, Drow Assassin" and four brand-new party members for BGEE, Tutu, BGT, and EET.﻿
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Grey the Dog.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/grey-the-dog/">Grey the Dog</a>
+  </td>
+  <td>
+    Grey is a full-fledged joinable NPC, but still a real dog.
+The only magic on him is his enchanted collar that gives 1
+AC bonus. He has sensible interjections (Woof!), NPC
+banters (mostly NPC dialogues about him with the PC), a
+click dialogue (PID) if the PC feels like playing fetch or
+just needs someone to talk to. There are dialogue options
+that reflect the game story and I'll promise: Grey will
+always listen to your PC's woes. Grey initiates no
+dialogues so there is no friendship track and - I am
+really sorry, but no romance.
+
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Haldamir NPC for BG2.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/haldamir/">Haldamir NPC for BG2</a>
+  </td>
+  <td>
+    Haldamir is an NPC mod for Baldur's Gate II, BGT, or BGII:EE. He is an unkitted elven fighter and can be found in the Den of the Seven Vales in Waukeen's Promenade.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/IWD2 NPC Project.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/iwd2npc/">IWD2 NPC Project</a>
+  </td>
+  <td>
+    The main goal of IWD2 NPC is to give an IWD2 player the opportunity to play with joinable NPCs that are not silent. The mod allows the player to use a pre-made party or a custom character and five premade characters to allow for interaction within the party.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Keldorn Romance.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/keldorn/">Keldorn Romance</a>
+  </td>
+  <td>
+    berelinde's Keldorn Romance introduces a romance for the original BioWare NPC Keldorn.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Kivan and Deheriana Companions for BG2.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/kivan/">Kivan and Deheriana Companions for BG2</a>
+  </td>
+  <td>
+    This WeiDU mod adds a joinable NPC from BG, Kivan, and, under certain circumstances, his elven wife Deheriana to the cast of BG2 actors. The soundset has been merged into the main download package and is no longer available separately.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Mur'Neth NPC Mod.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/murneth/">Mur'Neth NPC Mod</a>
+  </td>
+  <td>
+    This WeiDU mod for BG:EE, Tutu or BGT-WeiDU contains Mur'Neth, a member of the race of ooze - like shapechangers who venerate Ghaunadaur, the evil deity of oozes, moulds and the like.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Navarra.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/navarra/">Navarra</a>
+  </td>
+  <td>
+    Navarra is designed to work with Baldur's Gate II: Throne
+of Bhaal expansion pack and should be compatible with
+other WeiDU mods. This mod introduces Navarra, a human
+Barbarian to BG II. Navarra is chaotic good and will
+romance a male who is Elf, Half-elf, Human and of
+non-evil alignment.
+
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Romantic Encounters (BG).png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/bg-romantic-encounters/">Romantic Encounters (BG)</a>
+  </td>
+  <td>
+    The Baldur's Gate version of the popular Romantic Encounters mod, adding several encounters and quests all over the game. BG1RE aims at populating the game with romantic encounters, intense dialogues, unexpected private dinners, romantic traces of long lost times, and real quests that all deal with true love, fulfilled or unfulfilled.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Romantic Encounters (BG2).png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/romantic-encounters/">Romantic Encounters (BG2)</a>
+  </td>
+  <td>
+    The Romantic Encounters mod for Baldur's Gate II (RE for short) is an add-on for the game Baldur's Gate II. Romantic possibilities are endless. It could be a bit of flirting. Or several. Some innuendo. A lovers' quarrel. A one-night stand. Or even several nights together - with a 'morning after' and without. A dream. Or something else?
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Sarah NPC Romance Mod for BG2: TOB.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/sarah/">Sarah NPC Romance Mod for BG2: TOB</a>
+  </td>
+  <td>
+    This mod adds Sarah, a chaotic good ranger, to the game of Baldur's Gate II. Sarah also has a romance available for female characters and a friendship for any PC.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Tyris Flare NPC.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/tyris/">Tyris Flare NPC</a>
+  </td>
+  <td>
+    Tyris Flare is a red-haired amazon from ye olde Golden Axe computer games that were released on the Sega Mega Drive (or Genesis in America) and arcade machines in the 90s.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Yoshimo's Remorse.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/yoshimos-remorse/">Yoshimo's Remorse</a>
+  </td>
+  <td>
+    Was that truly the ending to Yoshimo's adventures with the Bhaalspawn? Is there simply no way to redeem himself or explain his actions to the PC? Yoshimo's Remorse is a mod for BG2:ToB that makes Yoshimo a playable character in Throne of Bhaal. However, he is not what you expect him to be... So prepare yourself for some more adventures and talks with the infamous bounty hunter, a tormented soul that was left with nothing but regrets. Listen to him as this may be his last chance to find peace.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Zakrion.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/npcs/zakrion/">Zakrion</a>
+  </td>
+  <td>
+    The Zakrion NPC Mod introduces a human Duelist to BG:EE. Zakrion can be found near the ship wreckage on the Sword Coast. The mod includes custom portraits and voicing, a friendship track, numerous banters and interjections, and a "semi-romance" with the PC.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
@@ -2246,7 +2810,7 @@ https://ahungry.github.io/awesome-bgmods/
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/>
   </td>
 </tr>
  
@@ -2263,7 +2827,7 @@ https://ahungry.github.io/awesome-bgmods/
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/>
   </td>
 </tr>
  
@@ -2756,7 +3320,7 @@ https://ahungry.github.io/awesome-bgmods/
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/>
   </td>
 </tr>
  

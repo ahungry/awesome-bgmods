@@ -121,9 +121,11 @@
                   (:end2 yaml)])
         (crawl/take-screenshots))))
 
+;; TODO: Swap based on cmd in makefile
 (defn -main
   "I don't do a whole lot ... yet."
   [& args]
   (greet {:name (first args)})
   (generate)
-  (testit))
+  ;; (testit)
+  )
