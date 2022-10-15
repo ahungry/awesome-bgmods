@@ -24,8 +24,8 @@ include links to some non-Weidu based tooling as well.
 
 <details>
 <summary>Github Pages Stuff - ignore it</summary>
-<link href="ghpages/main.css?v=6" rel="stylesheet" />
-<script src="ghpages/main.js?v=6"></script>
+<link href="ghpages/main.css?v=7" rel="stylesheet" />
+<script src="ghpages/main.js?v=7"></script>
 </details>
 
 # Sites
@@ -1382,7 +1382,7 @@ the EET portion (type-:sundry2).
     
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-bg-de-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-bgde-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests2-teal?style=plastic" alt="dist" />
     
   </td>

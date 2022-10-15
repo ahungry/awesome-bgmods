@@ -565,7 +565,7 @@ quests2:
   - name: "Adalon's Blood Silberdrachenblut"
     home: https://www.baldurs-gate.de/index.php?resources/adalons-blood-silberdrachenblutmod.5/
     down: ~
-    dist: bg-de
+    dist: bgde
     desc: ""
     tags:
 
