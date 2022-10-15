@@ -79,8 +79,8 @@ FIXME: In this early draft, I'm pasting links I've used for personal
 reference - I will want to update them to the proper homepages vs
 direct download links, but you may find some of one or the other atm).
 
-## Pre-EET
+## Legend
 
-Install/setup before EET.  Many of these lack an awareness of an EET
-setup, but will work with a BG:EE setup, and the EET merge process
-will manage to include them.
+Any of the "types" (type-:sundry1) implies it'd be part of a Pre-EET
+setup step.  Any of the "types" with a 2 at the end should come after
+the EET portion (type-:sundry2).
