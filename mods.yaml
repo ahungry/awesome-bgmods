@@ -1834,7 +1834,7 @@ end2:
     dist: ahungry
     desc:
       Deletes a percentage of all non-quest items with the
-      intent of giving player's a challenge via making gear rare
+      intent of giving players a challenge via making gear rare
       (player can specify what percentage).
     tags:
       - hard

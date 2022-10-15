@@ -53,7 +53,7 @@ table tr td:nth-child(4) img {
   .bottom-search-bar {
     bottom: 0;
     left: 0;
-    height: 50px;
+    height: 150px;
     width: 100%;
   }
   .overflower {
@@ -143,4 +143,8 @@ table tr td img {
 .active {
   box-shadow: 0px 0px 6px lime;
   opacity: 1;
+}
+
+details {
+  display: none;
 }
