@@ -2422,18 +2422,18 @@ https://ahungry.github.io/awesome-bgmods/
  
 <tr class="mod-entry">
   <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Indi NPC.png" alt="pic" />
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Indira.png" alt="pic" />
   </td>
   <td>
-    <a href="">Indi NPC</a>
+    <a href="https://www.pocketplane.net/bg1tutu-enhancements/">Indira</a>
   </td>
   <td>
-    
+    Indira is a half-elven, lawful good fighter/mage to be found in the Firewine Ruins. She has banters with almost all the BG1 NPCs, for a grand total of 20.
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -2680,15 +2680,15 @@ https://ahungry.github.io/awesome-bgmods/
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/The Grey Clan.png" alt="pic" />
   </td>
   <td>
-    <a href="">The Grey Clan</a>
+    <a href="https://www.pocketplane.net/bg1tutu-enhancements/">The Grey Clan</a>
   </td>
   <td>
-    
+    Adds about 2 hours of gameplay.
   </td>
   <td>
-    <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/>
   </td>
 </tr>
  

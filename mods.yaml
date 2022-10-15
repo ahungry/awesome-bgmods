@@ -788,7 +788,7 @@ quests2:
 
   - name: Sirines Call
     home: https://www.pocketplane.net/bg1tutu-enhancements/
-    down: ~
+    down: https://github.com/Pocket-Plane-Group/Lure_Of_Sirines_Call
     dist: ppg
     desc: Adds some conversations with sirines.
     tags:
@@ -1155,12 +1155,16 @@ characters2:
     tags:
       - npc
 
-  - name: Indi NPC
-    home: ""
+  - name: Indira
+    home: https://www.pocketplane.net/bg1tutu-enhancements/
     down: ~
-    dist: xxx
-    desc: ""
+    dist: ppg
+    desc:
+      Indira is a half-elven, lawful good fighter/mage to
+      be found in the Firewine Ruins. She has banters with almost
+      all the BG1 NPCs, for a grand total of 20.
     tags:
+      - banter
       - npc
 
   - name: Angelo
@@ -1276,12 +1280,13 @@ characters2:
       - npc
 
   - name: The Grey Clan
-    home: ""
+    home: https://www.pocketplane.net/bg1tutu-enhancements/
     down: ~
-    dist: xxx
-    desc: ""
+    dist: ppg
+    desc: Adds about 2 hours of gameplay.
     tags:
-      - npc
+      - story
+      - quest
 
   - name: Skitia NPCs
     home: ""
