@@ -1647,6 +1647,20 @@ tactics2:
       - ai
       - qol
 
+  - name: Tactics Remix
+    home: https://www.gibberlings3.net/forums/topic/35950-tactics-remix/
+    down: ~
+    dist: g3
+    desc:
+      Tactics Remix adds quite a few optional, but difficult,
+      encounters to BG2:EE and EET aims to make the game more challenging and rewarding.
+      This is a remix/revitalization of the original "Tactics" mod by
+      Wes Weimer of WEIDU fame.
+    tags:
+      - combat
+      - hard
+      - ai
+
   - name: Enhanced Powergaming Scripts
     home: https://www.gibberlings3.net/mods/other/enhanced-powergaming-scripts/
     down: ~
@@ -1667,8 +1681,26 @@ tweaks2:
       From quality of life (QOL) features, to rebalancing weapon
       proficiencies, this tweak pack offers a lot.
     tags:
+      - tweaks
       - balance
       - qol
+
+  - name: Skills and Abilities
+    home: https://www.gibberlings3.net/mods/tweaks/skills-and-abilities/
+    down: ~
+    dist: g3
+    desc:
+      This mod is a collection of class, skill, proficiency, and stat
+      updates.
+      This is an alpha release with the intention of adding more
+      class, skill, and stat updates in the near future while further
+      refining the new proficiencies that are being added.
+
+      From quality of life (QOL) features, to rebalancing weapon
+      proficiencies, this tweak pack offers a lot.
+    tags:
+      - tweaks
+      - balance
 
   - name: House Rules
     home: https://artisans-corner.com/house-rules/
@@ -1678,6 +1710,7 @@ tweaks2:
       Tries to enhance some lesser used weapon styles (2h).
       Has a component to update thief sprites to go hoodless too.
     tags:
+      - tweaks
       - balance
       - feature
 
@@ -1690,6 +1723,7 @@ tweaks2:
       happen nearly instantly (and your npcs will give alerts even
       when trap detection isn't active.
     tags:
+      - tweaks
       - qol
 
   - name: Klatu Tweaks and Fixes
@@ -1701,6 +1735,7 @@ tweaks2:
       the Bodies and others), forces mobs to drop gear on
       petrification/disintegration/imprisonment.
     tags:
+      - tweaks
       - items
       - qol
 
@@ -1712,6 +1747,7 @@ tweaks2:
       Strong focus on making things more PnP-like, which can make many
       creature types much more challenging.
     tags:
+      - tweaks
       - qol
 
   - name: Scales of Balance
@@ -1722,6 +1758,7 @@ tweaks2:
       Adds revised armor/weapon/proficiency systems.  Heavy armor is
       much more absorbent.  Has a revised MR component.
     tags:
+      - tweaks
       - feature
       - qol
 
@@ -1733,6 +1770,7 @@ tweaks2:
       Good end of order adjustments for an EET install, focusing
       on normalizing NPC appearances, XP rewards, and XP caps.
     tags:
+      - tweaks
       - balance
       - qol
 
@@ -1773,6 +1811,7 @@ tweaks2:
     dist: bartymae
     desc: Minor adjustments to some lore/spell progression.
     tags:
+      - tweaks
       - balance
       - qol
 
@@ -1785,6 +1824,7 @@ tweaks2:
       Component to cap +APR effects on gear to 1/2 APR each (some mod
       gear goes heavy on it).
     tags:
+      - tweaks
       - balance
       - qol
 

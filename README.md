@@ -3379,6 +3379,23 @@ https://ahungry.github.io/awesome-bgmods/
  
 <tr class="mod-entry">
   <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Tactics Remix.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/forums/topic/35950-tactics-remix/">Tactics Remix</a>
+  </td>
+  <td>
+    Tactics Remix adds quite a few optional, but difficult, encounters to BG2:EE and EET aims to make the game more challenging and rewarding. This is a remix/revitalization of the original "Tactics" mod by Wes Weimer of WEIDU fame.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-hard-e1a041?style=plastic" alt="hard"/><img src="https://img.shields.io/badge/tag-ai-60ca95?style=plastic" alt="ai"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Enhanced Powergaming Scripts.png" alt="pic" />
   </td>
   <td>
@@ -3408,7 +3425,25 @@ https://ahungry.github.io/awesome-bgmods/
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
+    <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/><img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Skills and Abilities.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://www.gibberlings3.net/mods/tweaks/skills-and-abilities/">Skills and Abilities</a>
+  </td>
+  <td>
+    This mod is a collection of class, skill, proficiency, and stat updates. This is an alpha release with the intention of adding more class, skill, and stat updates in the near future while further refining the new proficiencies that are being added.
+From quality of life (QOL) features, to rebalancing weapon proficiencies, this tweak pack offers a lot.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/><img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/>
   </td>
 </tr>
  
@@ -3425,7 +3460,7 @@ https://ahungry.github.io/awesome-bgmods/
   <td>
     <img src="https://img.shields.io/badge/dist-artisans-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/>
+    <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/><img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/>
   </td>
 </tr>
  
@@ -3442,7 +3477,7 @@ https://ahungry.github.io/awesome-bgmods/
   <td>
     <img src="https://img.shields.io/badge/dist-bgforge-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
+    <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
  
@@ -3459,7 +3494,7 @@ https://ahungry.github.io/awesome-bgmods/
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
+    <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/><img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
  
@@ -3476,7 +3511,7 @@ https://ahungry.github.io/awesome-bgmods/
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
+    <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
  
@@ -3493,7 +3528,7 @@ https://ahungry.github.io/awesome-bgmods/
   <td>
     <img src="https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
+    <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/><img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
  
@@ -3510,7 +3545,7 @@ https://ahungry.github.io/awesome-bgmods/
   <td>
     <img src="https://img.shields.io/badge/dist-k4thos-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
+    <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/><img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
  
@@ -3578,7 +3613,7 @@ https://ahungry.github.io/awesome-bgmods/
   <td>
     <img src="https://img.shields.io/badge/dist-bartymae-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
+    <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/><img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
  
@@ -3595,7 +3630,7 @@ https://ahungry.github.io/awesome-bgmods/
   <td>
     <img src="https://img.shields.io/badge/dist-ahungry-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
+    <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/><img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
  
