@@ -14,10 +14,13 @@ mod should be installed in the install order.
 For most installs, you should do something roughly like (well, what
 worked for me):
 
-Misc. -> UI -> Items -> Quests -> NPCs -> Voice/Portraits -> Gameplay
--> SCS/Tactics -> Tweaks -> End of Order
+For support, see the mod's site, or visit one of the popular modding
+communities at (alphabetized):
 
-There are a lot of Windows based mod management/installation tools
-(Project Infinity is one, up top I will try to build out links to
-others).  There aren't a lot of GNU/Linux tools - maybe someday (at
-least Near Infinity is there though!).
+- [Beamdog Mod Forums](https://forums.beamdog.com/categories/general-modding)
+- [gibberlings3](https://www.gibberlings3.net/)
+- [Spellhold Studios](http://www.shsforums.net/)
+
+```
+Misc. -> UI -> Items -> Quests -> NPCs -> Voice/Portraits -> Gameplay -> SCS/Tactics -> Tweaks -> End of Order
+```
