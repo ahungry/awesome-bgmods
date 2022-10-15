@@ -26,11 +26,10 @@ function snagtags(){
   const tagbar = document.querySelector('.bottom-search-bar .tags')
   const typebar = document.querySelector('.bottom-search-bar .types')
   const distbar = document.querySelector('.bottom-search-bar .dists')
-  const naybar = document.querySelector('.bottom-search-bar .nays')
   const tags = document.querySelectorAll('img')
   const m = {}
   for (let i = 0; i < tags.length; i++) {
-    const match = tags[i].src.match(/.*((tag|type|dist|nay)-.*?)-/)
+    const match = tags[i].src.match(/.*((tag|type|dist)-.*?)-/)
 
     if (match) {
       const anchor = document.createElement('a')
@@ -50,7 +49,7 @@ function snagtags(){
         const els = document.querySelectorAll('.active')
         const modsearches = []
         for (let i = 0; i < els.length; i++) {
-          const innermatch = els[i].src.match(/.*((tag|type|dist|nay)-.*?)-/)
+          const innermatch = els[i].src.match(/.*((tag|type|dist)-.*?)-/)
           modsearches.push(innermatch[1])
         }
         document.getElementById('modsearch').value = modsearches.join(',')
@@ -69,7 +68,7 @@ function snagtags(){
       m[match[1]] = el
     }
   }
-  Object.keys(m).forEach(k => {
+  Object.keys(m).sort().forEach(k => {
     if (/^tag/.test(k))
       tagbar.append(m[k])
 
@@ -78,9 +77,6 @@ function snagtags(){
 
     if (/^dist/.test(k))
       distbar.append(m[k])
-
-    if (/^nay/.test(k))
-      naybar.append(m[k])
   })
 }
 
@@ -99,14 +95,12 @@ function appendsearch() {
 <input type="text" id="modsearch" />
 <button class="reset" onclick='reset()'>reset</button>
 <button class="help" onclick='help()'>help</button>
-<h5>tags</h5>
+<h5>tags (any max)</h5>
 <div class="tags overflower"></div>
-<h5>types</h5>
+<h5>mod type (1 max)</h5>
 <div class="types overflower"></div>
-<h5>dists</h5>
+<h5>mod distributor (1 max)</h5>
 <div class="dists overflower"></div>
-<h5>nays</h5>
-<div class="nays overflower"></div>
 </div>
 </div>
 `
