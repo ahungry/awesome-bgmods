@@ -441,7 +441,7 @@ mods:
       a hub for crossmod of future mods for IWD:EE.
     tags:
       - npc
-      - c:iwd
+      - c:iwd1
 
   - name: Crossmod Banter Pack for BG2
     home: https://www.gibberlings3.net/mods/npcs/crossmod/
@@ -2063,8 +2063,6 @@ mods:
     tags:
       - audio
 
-gameplay2:
-
   - name: Made In Heaven Item Pack
     home: ""
     down: ~
@@ -2240,8 +2238,6 @@ gameplay2:
       - feature
       - kits
 
-sys2:
-
   - name: EET End
     home: ""
     down: ~
@@ -2250,9 +2246,6 @@ sys2:
     tags:
       - util
       - required
-
-
-tactics2:
 
   - name: Sword Coast Stratagems
     home: https://www.gibberlings3.net/mods/tweaks/scs/
@@ -2297,9 +2290,6 @@ tactics2:
     tags:
       - ai
       - qol
-
-
-tweaks2:
 
   - name: Tweaks Anthology (cdtweaks)
     home: https://github.com/Gibberlings3/Tweaks-Anthology/releases
@@ -2452,6 +2442,7 @@ tweaks2:
       Component to cap +APR effects on gear to 1/2 APR each (some mod
       gear goes heavy on it).
     tags:
+      - stable
       - tweaks
       - balance
       - qol
@@ -2502,6 +2493,7 @@ tweaks2:
       intent of giving players a challenge via making gear rare
       (player can specify what percentage).
     tags:
+      - alpha
       - c:bg1
       - c:sod
       - c:bg2

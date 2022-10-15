@@ -48,6 +48,9 @@
 (defn yaml->md [yaml]
   (clojure.string/join (map entry->md yaml)))
 
+(defn sort-yaml [yaml]
+  (sort-by :name #(compare (.toLowerCase (str %1)) (.toLowerCase (str %2))) yaml))
+
 (defn generate []
   (let [yaml (slurp-yaml)
         preamble (slurp "../PREAMBLE.md")]
@@ -61,7 +64,7 @@
 
 "
                   preamble
-                  (yaml->md (:mods yaml))))))
+                  (yaml->md (sort-yaml (:mods yaml)))))))
 
 (defn greet
   "Callable entry point to the application."

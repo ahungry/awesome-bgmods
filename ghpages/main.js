@@ -27,6 +27,7 @@ function dosearch()
 
 function snagtags(){
   const tagbar = document.querySelector('.bottom-search-bar .tags')
+  const typebar = document.querySelector('.bottom-search-bar .types')
   const distbar = document.querySelector('.bottom-search-bar .dists')
   const tags = document.querySelectorAll('img')
   const m = {}
@@ -51,7 +52,7 @@ function snagtags(){
         const els = document.querySelectorAll('.active')
         const modsearches = []
         for (let i = 0; i < els.length; i++) {
-          const innermatch = els[i].src.match(/.*((tag|dist)-.*?)-/)
+          const innermatch = els[i].src.match(/.*((tag|type|dist)-.*?)-/)
           modsearches.push(innermatch[1])
         }
         document.getElementById('modsearch').value = modsearches.join(',')
@@ -71,8 +72,12 @@ function snagtags(){
     }
   }
   Object.keys(m).sort().forEach(k => {
-    if (/^tag-.+/.test(k))
-      tagbar.append(m[k])
+    if (/^tag-.+/.test(k)) {
+      if (k.slice(4, 6) === 'c:')
+        typebar.append(m[k])
+      else
+        tagbar.append(m[k])
+    }
 
     if (/^dist-.+/.test(k))
       distbar.append(m[k])
@@ -104,6 +109,8 @@ function appendsearch() {
 <button class="help" onclick='help()'>help</button>
 <h5>tags (AND condition/narrows results)</h5>
 <div class="tags overflower"></div>
+<h5>has content for campaign(s)</h5>
+<div class="types overflower"></div>
 <h5>mod distributor (1 max)</h5>
 <div class="dists overflower"></div>
 </div>
@@ -151,9 +158,12 @@ function resumeState () {
 
 window.onload=() => {
   appendsearch()
-  snagtags()
-  linkify()
-  resumeState()
-  setInterval(dosearch, 100)
+
+  setTimeout(() => {
+    snagtags()
+    linkify()
+    setInterval(dosearch, 100)
+    resumeState()
+  }, 1000)
   // setInterval(searchToggle, 300)
 }
