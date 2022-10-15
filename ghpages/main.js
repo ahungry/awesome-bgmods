@@ -2,25 +2,36 @@ console.log('js 2 loaded')
 
 function dosearch()
 {
-  const filter = document.getElementById('modsearch').value
-  const xs = document.querySelectorAll('.mod-entry')
-  for (let i = 0; i < xs.length; i++) {
-    if (xs[i].innerHTML.toLowerCase().indexOf(filter) > -1)
-      xs[i].style.display='block'
-    else
-      xs[i].style.display='none'
-  }
+  const filterv = document.getElementById('modsearch').value
+  const filters = filterv.split(',')
+
+    const xs = document.querySelectorAll('.mod-entry')
+    for (let i = 0; i < xs.length; i++) {
+      let hasMatch = true
+
+      filters.forEach(filter => {
+        if (xs[i].innerHTML.toLowerCase().indexOf(filter.trim()) === -1) {
+          hasMatch = false
+        }
+      })
+
+      if (hasMatch)
+        xs[i].style.display='block'
+      else
+        xs[i].style.display='none'
+    }
 }
 
 function snagtags(){
   const tagbar = document.querySelector('.bottom-search-bar .tags')
+  const typebar = document.querySelector('.bottom-search-bar .types')
   const distbar = document.querySelector('.bottom-search-bar .dists')
   const cmpbar = document.querySelector('.bottom-search-bar .cmps')
   const naybar = document.querySelector('.bottom-search-bar .nays')
   const tags = document.querySelectorAll('img')
   const m = {}
   for (let i = 0; i < tags.length; i++) {
-    const match = tags[i].src.match(/.*((tag|dist|cmp|nay)-.*?)-/)
+    const match = tags[i].src.match(/.*((tag|type|dist|cmp|nay)-.*?)-/)
 
     if (match) {
       const anchor = document.createElement('a')
@@ -31,16 +42,16 @@ function snagtags(){
       el.src = tags[i].src
       el.className = 'barbutton'
       el.onclick = () => {
-        document.getElementById('modsearch').value = match[1]
-        window.scrollTo(0, 0)
-        setTimeout(
-          () => {
-            document.querySelector('a[href="#' + match[1] + '"]')
-              .scrollIntoView(true)
-            setTimeout(() => { window.scrollBy(0, -200) }, 100)
-          },
-          100
-        )
+        document.getElementById('modsearch').value += ',' + match[1]
+        // window.scrollTo(0, 0)
+        // setTimeout(
+        //   () => {
+        //     document.querySelector('a[href="#' + match[1] + '"]')
+        //       .scrollIntoView(true)
+        //     setTimeout(() => { window.scrollBy(0, -200) }, 100)
+        //   },
+        //   100
+        // )
       }
       m[match[1]] = el
     }
@@ -48,6 +59,9 @@ function snagtags(){
   Object.keys(m).forEach(k => {
     if (/^tag/.test(k))
       tagbar.append(m[k])
+
+    if (/^type/.test(k))
+      typebar.append(m[k])
 
     if (/^dist/.test(k))
       distbar.append(m[k])
@@ -78,6 +92,8 @@ function appendsearch() {
 <button class="help" onclick='help()'>help</button>
 <h5>tags</h5>
 <div class="tags overflower"></div>
+<h5>types</h5>
+<div class="types overflower"></div>
 <h5>dists</h5>
 <div class="dists overflower"></div>
 <h5>cmps</h5>
