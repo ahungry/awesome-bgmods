@@ -3,8 +3,8 @@
 
 <details>
 <summary>Github Pages Stuff - ignore it</summary>
-<link href="ghpages/main.css?v=10" rel="stylesheet" />
-<script src="ghpages/main.js?v=10"></script>
+<link href="ghpages/main.css?v=11" rel="stylesheet" />
+<script src="ghpages/main.js?v=11"></script>
 </details>
 
 If you're reading this on Github, you may prefer the more interactive

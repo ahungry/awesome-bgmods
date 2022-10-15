@@ -15,10 +15,13 @@ function dosearch()
         }
       })
 
-      if (hasMatch)
+      if (hasMatch) {
         xs[i].style.display='block'
-      else
+        xs[i].style.visibility='visible'
+      } else {
         xs[i].style.display='none'
+        xs[i].style.visibility='hidden'
+      }
     }
 }
 
