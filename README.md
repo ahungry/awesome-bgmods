@@ -3,8 +3,8 @@
 
 <details>
 <summary>Github Pages Stuff - ignore it</summary>
-<link href="ghpages/main.css?v=11" rel="stylesheet" />
-<script src="ghpages/main.js?v=11"></script>
+<link href="ghpages/main.css?v=12" rel="stylesheet" />
+<script src="ghpages/main.js?v=12"></script>
 </details>
 
 If you're reading this on Github, you may prefer the more interactive
@@ -27,8 +27,7 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-required-2d64c8?style=plastic" alt="required"/>
+    <img src="https://img.shields.io/badge/tag-required-2d64c8?style=plastic" alt="required"/><img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/>
   </td>
 </tr>
  
@@ -44,8 +43,7 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/>
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/>
   </td>
 </tr>
  
@@ -61,7 +59,6 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/>
   </td>
 </tr>
@@ -78,7 +75,6 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/>
   </td>
 </tr>
@@ -95,7 +91,6 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/>
   </td>
 </tr>
@@ -112,7 +107,6 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-igi-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
@@ -129,7 +123,6 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-igi-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
@@ -142,11 +135,12 @@ https://ahungry.github.io/awesome-bgmods/
     <a href="https://github.com/btigi/iixando">iixando</a>
   </td>
   <td>
-    {:iixando is a one day total conversion for Baldur's Gate 2 Throne of Bhaal that radically changes the game.}
+    iixando is a one day total conversion for Baldur's Gate 2:
+Throne of Bhaal that radically changes the game.
+
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-igi-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-totalconversion-5170e0?style=plastic" alt="totalconversion"/>
   </td>
 </tr>
@@ -163,7 +157,6 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-igi-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/>
   </td>
 </tr>
@@ -180,7 +173,6 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-igi-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
@@ -197,7 +189,6 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-igi-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/>
   </td>
 </tr>
@@ -214,7 +205,6 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-igi-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/>
   </td>
 </tr>
@@ -231,12 +221,10 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-igi-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/>
   </td>
 </tr>
  
-
 <tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Drizzt Saga.png" alt="pic" />
@@ -249,8 +237,7 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/>
+    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/>
   </td>
 </tr>
  
@@ -266,8 +253,7 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/>
+    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/>
   </td>
 </tr>
  
@@ -283,8 +269,7 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/>
+    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/>
   </td>
 </tr>
  
@@ -300,12 +285,10 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/>
+    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/>
   </td>
 </tr>
  
-
 <tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Garrick Tales of a Troubador.png" alt="pic" />
@@ -318,8 +301,7 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-bgw-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -335,8 +317,7 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-artisans-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/>
+    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/>
   </td>
 </tr>
  
@@ -352,8 +333,7 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-artisans-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -369,8 +349,7 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -386,8 +365,7 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/>
+    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/>
   </td>
 </tr>
  
@@ -403,8 +381,7 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -420,7 +397,6 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -437,7 +413,6 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -454,7 +429,6 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -471,7 +445,6 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -488,7 +461,6 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -505,7 +477,6 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -522,8 +493,7 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/><img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/>
   </td>
 </tr>
  
@@ -539,7 +509,6 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -556,7 +525,6 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -573,7 +541,6 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -594,7 +561,6 @@ a hub for crossmod of future mods for IWD:EE.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -611,7 +577,6 @@ a hub for crossmod of future mods for IWD:EE.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -628,7 +593,6 @@ a hub for crossmod of future mods for IWD:EE.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -645,7 +609,6 @@ a hub for crossmod of future mods for IWD:EE.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -662,7 +625,6 @@ a hub for crossmod of future mods for IWD:EE.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -679,7 +641,6 @@ a hub for crossmod of future mods for IWD:EE.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -696,7 +657,6 @@ a hub for crossmod of future mods for IWD:EE.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -723,7 +683,6 @@ really sorry, but no romance.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -740,7 +699,6 @@ really sorry, but no romance.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -757,7 +715,6 @@ really sorry, but no romance.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -774,7 +731,6 @@ really sorry, but no romance.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -791,7 +747,6 @@ really sorry, but no romance.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -808,7 +763,6 @@ really sorry, but no romance.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -831,7 +785,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -848,7 +801,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -865,7 +817,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -882,7 +833,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -899,7 +849,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -916,7 +865,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -933,12 +881,10 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
-
 <tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Saradas Magic.png" alt="pic" />
@@ -951,12 +897,10 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-spells-c0952b?style=plastic" alt="spells"/>
+    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-spells-c0952b?style=plastic" alt="spells"/>
   </td>
 </tr>
  
-
 <tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/EET.png" alt="pic" />
@@ -969,7 +913,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-util-3fbf7f?style=plastic" alt="util"/>
   </td>
 </tr>
@@ -986,7 +929,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-infinitymods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/>
   </td>
 </tr>
@@ -1003,7 +945,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -1020,7 +961,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
@@ -1037,7 +977,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
@@ -1054,7 +993,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/>
   </td>
 </tr>
@@ -1071,7 +1009,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-bubb-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
@@ -1088,7 +1025,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-argent77-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/>
   </td>
 </tr>
@@ -1105,7 +1041,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-argent77-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
@@ -1122,12 +1057,10 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-spells-c0952b?style=plastic" alt="spells"/><img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
  
-
 <tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Tipun GUI.png" alt="pic" />
@@ -1140,7 +1073,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-tipun-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-gui-d2468c?style=plastic" alt="gui"/>
   </td>
 </tr>
@@ -1157,7 +1089,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-lefreut-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-gui-d2468c?style=plastic" alt="gui"/>
   </td>
 </tr>
@@ -1174,7 +1105,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-lefreut-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-gui-d2468c?style=plastic" alt="gui"/><img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
@@ -1191,12 +1121,10 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-argent77-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-gui-d2468c?style=plastic" alt="gui"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
  
-
 <tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/TeamBG's Armor Pack.png" alt="pic" />
@@ -1209,7 +1137,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-teambg-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
@@ -1226,7 +1153,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-crevsdaak-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/><img src="https://img.shields.io/badge/tag-item:upgrades-db4992?style=plastic" alt="item:upgrades"/>
   </td>
 </tr>
@@ -1243,7 +1169,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-sorcerers-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
@@ -1260,7 +1185,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-alexander12-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
@@ -1277,7 +1201,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
@@ -1294,7 +1217,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
@@ -1311,7 +1233,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
@@ -1328,7 +1249,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-item:upgrades-db4992?style=plastic" alt="item:upgrades"/>
   </td>
 </tr>
@@ -1345,7 +1265,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/><img src="https://img.shields.io/badge/tag-item:upgrades-db4992?style=plastic" alt="item:upgrades"/>
   </td>
 </tr>
@@ -1362,7 +1281,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/><img src="https://img.shields.io/badge/tag-item:upgrades-db4992?style=plastic" alt="item:upgrades"/>
   </td>
 </tr>
@@ -1379,7 +1297,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/><img src="https://img.shields.io/badge/tag-item:upgrades-db4992?style=plastic" alt="item:upgrades"/>
   </td>
 </tr>
@@ -1396,12 +1313,10 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
  
-
 <tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/BG1 NPC in SoA.png" alt="pic" />
@@ -1414,7 +1329,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1431,7 +1345,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1448,7 +1361,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1465,7 +1377,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1482,7 +1393,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1499,7 +1409,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1516,7 +1425,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1533,7 +1441,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1550,7 +1457,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1567,7 +1473,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1584,7 +1489,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1601,7 +1505,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1618,7 +1521,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1635,7 +1537,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1652,7 +1553,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1669,7 +1569,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1686,7 +1585,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-blindmonkey-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1703,7 +1601,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1720,7 +1617,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-jastey-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1737,7 +1633,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-jastey-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1754,7 +1649,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1771,7 +1665,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1788,7 +1681,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1805,7 +1697,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1822,7 +1713,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1839,7 +1729,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1856,7 +1745,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1873,7 +1761,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1890,7 +1777,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1907,7 +1793,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1924,7 +1809,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1941,7 +1825,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1958,7 +1841,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-infinitymods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1975,7 +1857,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1992,7 +1873,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -2009,7 +1889,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-bgde-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -2026,7 +1905,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -2043,7 +1921,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -2060,7 +1937,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -2077,7 +1953,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -2094,7 +1969,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -2111,7 +1985,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -2128,7 +2001,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -2145,7 +2017,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -2162,7 +2033,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -2179,7 +2049,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -2196,7 +2065,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/>
   </td>
 </tr>
@@ -2213,7 +2081,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/>
   </td>
 </tr>
@@ -2230,7 +2097,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -2247,7 +2113,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-austinbg-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -2264,7 +2129,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-hard-e1a041?style=plastic" alt="hard"/>
   </td>
 </tr>
@@ -2281,7 +2145,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-argent77-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-hard-e1a041?style=plastic" alt="hard"/>
   </td>
 </tr>
@@ -2298,7 +2161,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2315,7 +2177,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -2332,7 +2193,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-argent77-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/>
   </td>
 </tr>
@@ -2349,7 +2209,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/>
   </td>
 </tr>
@@ -2366,7 +2225,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -2383,7 +2241,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -2400,7 +2257,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -2417,12 +2273,10 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-argent77-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     
   </td>
 </tr>
  
-
 <tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Tenya Thermidor.png" alt="pic" />
@@ -2435,7 +2289,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2452,7 +2305,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2469,7 +2321,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2486,7 +2337,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2503,7 +2353,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2520,7 +2369,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2537,7 +2385,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2554,7 +2401,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2571,7 +2417,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2588,7 +2433,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2605,7 +2449,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-gwendolyne-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2622,7 +2465,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2639,7 +2481,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2656,7 +2497,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2673,7 +2513,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2690,7 +2529,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2707,7 +2545,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2724,7 +2561,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2741,7 +2577,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2758,7 +2593,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2775,7 +2609,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2792,7 +2625,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2809,7 +2641,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2826,7 +2657,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2843,7 +2673,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2860,7 +2689,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2877,7 +2705,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2894,7 +2721,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2911,7 +2737,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2928,7 +2753,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2945,7 +2769,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/>
   </td>
 </tr>
@@ -2962,7 +2785,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/>
   </td>
 </tr>
@@ -2979,7 +2801,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -2996,7 +2817,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-spells-c0952b?style=plastic" alt="spells"/>
   </td>
 </tr>
@@ -3013,7 +2833,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3030,7 +2849,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3047,7 +2865,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3064,7 +2881,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3081,7 +2897,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3098,7 +2913,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3115,7 +2929,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3132,7 +2945,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3149,7 +2961,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3166,7 +2977,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3183,7 +2993,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3200,7 +3009,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3217,7 +3025,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3234,7 +3041,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3251,7 +3057,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3268,7 +3073,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3285,7 +3089,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3302,7 +3105,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3319,7 +3121,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3336,7 +3137,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3353,7 +3153,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3370,7 +3169,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3387,7 +3185,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/>
   </td>
 </tr>
@@ -3404,7 +3201,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3421,7 +3217,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3438,7 +3233,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3455,7 +3249,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/>
   </td>
 </tr>
@@ -3472,7 +3265,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3489,7 +3281,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
@@ -3506,12 +3297,10 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
-
 <tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/BP BGT Worldmap.png" alt="pic" />
@@ -3524,7 +3313,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/><img src="https://img.shields.io/badge/tag-required-2d64c8?style=plastic" alt="required"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
@@ -3541,7 +3329,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/>
   </td>
 </tr>
@@ -3558,7 +3345,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/>
   </td>
 </tr>
@@ -3575,12 +3361,10 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-crossmod-486dda?style=plastic" alt="crossmod"/>
   </td>
 </tr>
  
-
 <tr class="mod-entry">
   <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Portraits, Portraits Everywhere (PPE).png" alt="pic" />
@@ -3593,7 +3377,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-xxx-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-pics-12b061?style=plastic" alt="pics"/>
   </td>
 </tr>
@@ -3610,7 +3393,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-graion-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/>
   </td>
 </tr>
@@ -3627,7 +3409,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-graion-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/>
   </td>
 </tr>
@@ -3644,7 +3425,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-graion-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/>
   </td>
 </tr>
@@ -3661,7 +3441,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-graion-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/>
   </td>
 </tr>
@@ -3678,7 +3457,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-graion-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/>
   </td>
 </tr>
@@ -3695,7 +3473,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-graion-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/>
   </td>
 </tr>
@@ -3712,711 +3489,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-graion-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/>
-  </td>
-</tr>
- 
-
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Made In Heaven Item Pack.png" alt="pic" />
-  </td>
-  <td>
-    <a href="">Made In Heaven Item Pack</a>
-  </td>
-  <td>
-    
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-angel-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Made in Heaven Spell Pack.png" alt="pic" />
-  </td>
-  <td>
-    <a href="">Made in Heaven Spell Pack</a>
-  </td>
-  <td>
-    
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-angel-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-spells-c0952b?style=plastic" alt="spells"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Made in Heaven EQ.png" alt="pic" />
-  </td>
-  <td>
-    <a href="">Made in Heaven EQ</a>
-  </td>
-  <td>
-    
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-angel-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-hard-e1a041?style=plastic" alt="hard"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Made in Heaven Tweaks.png" alt="pic" />
-  </td>
-  <td>
-    <a href="">Made in Heaven Tweaks</a>
-  </td>
-  <td>
-    
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-angel-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Item Revisions.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/Gibberlings3/ItemRevisions/releases">Item Revisions</a>
-  </td>
-  <td>
-    
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Item Revisions Revised.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/BartyMae/IR_Revised/releases">Item Revisions Revised</a>
-  </td>
-  <td>
-    
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-bartymae-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Forgotten Armament.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/Gibberlings3/Forgotten-Armament/releases/tag/1.0">Forgotten Armament</a>
-  </td>
-  <td>
-    
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Spell Revisions.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/Gibberlings3/SpellRevisions/releases">Spell Revisions</a>
-  </td>
-  <td>
-    
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-spells-c0952b?style=plastic" alt="spells"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Spell Revisions Revised.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/BartyMae/SR_Revised/releases">Spell Revisions Revised</a>
-  </td>
-  <td>
-    
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-bartymae-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-spells-c0952b?style=plastic" alt="spells"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Monastic Orders of Faerun.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/aquadrizzt/MonasticOrders/releases">Monastic Orders of Faerun</a>
-  </td>
-  <td>
-    
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-aquadrizzt-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-kits-36bc79?style=plastic" alt="kits"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Artisans Kitpack.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://artisans-corner.com/the-artisans-kitpack/">Artisans Kitpack</a>
-  </td>
-  <td>
-    
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-artisans-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-kits-36bc79?style=plastic" alt="kits"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Warlock.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/ArtemiusI/Warlock/releases">Warlock</a>
-  </td>
-  <td>
-    
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-artisans-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-kits-36bc79?style=plastic" alt="kits"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Bardic Wonders.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/ArtemiusI/Bardic-Wonders/releases">Bardic Wonders</a>
-  </td>
-  <td>
-    
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-artisans-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-kits-36bc79?style=plastic" alt="kits"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Shadow Adept.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/ArtemiusI/Shadow-Magic/releases">Shadow Adept</a>
-  </td>
-  <td>
-    
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-artisans-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-kits-36bc79?style=plastic" alt="kits"/><img src="https://img.shields.io/badge/tag-spells-c0952b?style=plastic" alt="spells"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Divine Remix.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/Gibberlings3/Divine_Remix/releases">Divine Remix</a>
-  </td>
-  <td>
-    Revamps priest type classes, sphere system.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-spells-c0952b?style=plastic" alt="spells"/><img src="https://img.shields.io/badge/tag-kits-36bc79?style=plastic" alt="kits"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Tome and Blood.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/subtledoctor/TomeAndBlood/releases">Tome and Blood</a>
-  </td>
-  <td>
-    Revamps spell casters.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/><img src="https://img.shields.io/badge/tag-kits-36bc79?style=plastic" alt="kits"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Faiths and Powers.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/UnearthedArcana/Faiths_and_Powers/releases">Faiths and Powers</a>
-  </td>
-  <td>
-    Revamps priest type classes, sphere system.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/><img src="https://img.shields.io/badge/tag-kits-36bc79?style=plastic" alt="kits"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Will to Power.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/UnearthedArcana/Will_to_Power/releases/tag/2.2.1">Will to Power</a>
-  </td>
-  <td>
-    Psionics mod - new system.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/><img src="https://img.shields.io/badge/tag-kits-36bc79?style=plastic" alt="kits"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Might and Guile.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/UnearthedArcana/Might_and_Guile/releases">Might and Guile</a>
-  </td>
-  <td>
-    Revamps melee in a unique way.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/><img src="https://img.shields.io/badge/tag-kits-36bc79?style=plastic" alt="kits"/>
-  </td>
-</tr>
- 
-
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/EET End.png" alt="pic" />
-  </td>
-  <td>
-    <a href="">EET End</a>
-  </td>
-  <td>
-    No link - this is just the end step after EET
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist--purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-util-3fbf7f?style=plastic" alt="util"/><img src="https://img.shields.io/badge/tag-required-2d64c8?style=plastic" alt="required"/>
-  </td>
-</tr>
- 
-
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Sword Coast Stratagems.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://www.gibberlings3.net/mods/tweaks/scs/">Sword Coast Stratagems</a>
-  </td>
-  <td>
-    Most everyone into modding knows this one, and for good reason. Greatly enhances the AI of enemies, and updates encounters.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-hard-e1a041?style=plastic" alt="hard"/><img src="https://img.shields.io/badge/tag-spells-c0952b?style=plastic" alt="spells"/><img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/><img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-ai-60ca95?style=plastic" alt="ai"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Tactics Remix.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://www.gibberlings3.net/mods/quests/tactics-remix/">Tactics Remix</a>
-  </td>
-  <td>
-    Tactics, originally from Wes Weimer and a number of other authors, was a mod for the original Baldur's Gate II that added a number of difficult encounters and substantially improved AI for enemies. With Wes's permission morpheus562 has created Tactics Remix, based the original Tactics mod, that adds quite a few optional, but difficult, encounters to BG2:EE and EET aimed to make the game more challenging and rewarding.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-hard-e1a041?style=plastic" alt="hard"/><img src="https://img.shields.io/badge/tag-ai-60ca95?style=plastic" alt="ai"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Enhanced Powergaming Scripts.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://www.gibberlings3.net/mods/other/enhanced-powergaming-scripts/">Enhanced Powergaming Scripts</a>
-  </td>
-  <td>
-    Scripts for your team that will drastically reduce monotonous portions of the game.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-ai-60ca95?style=plastic" alt="ai"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
-  </td>
-</tr>
- 
-
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Tweaks Anthology (cdtweaks).png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/Gibberlings3/Tweaks-Anthology/releases">Tweaks Anthology (cdtweaks)</a>
-  </td>
-  <td>
-    From quality of life (QOL) features, to rebalancing weapon proficiencies, this tweak pack offers a lot.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/><img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Skills and Abilities.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://www.gibberlings3.net/mods/tweaks/skills-and-abilities/">Skills and Abilities</a>
-  </td>
-  <td>
-    This mod is a collection of class, skill, proficiency, and stat updates. This is an alpha release with the intention of adding more class, skill, and stat updates in the near future while further refining the new proficiencies that are being added.
-From quality of life (QOL) features, to rebalancing weapon proficiencies, this tweak pack offers a lot.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/><img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/House Rules.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://artisans-corner.com/house-rules/">House Rules</a>
-  </td>
-  <td>
-    Tries to enhance some lesser used weapon styles (2h). Has a component to update thief sprites to go hoodless too.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-artisans-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/><img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Tweaks and Tricks (TNT).png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/BGforgeNet/bg2-tweaks-and-tricks">Tweaks and Tricks (TNT)</a>
-  </td>
-  <td>
-    One of my favorite components is the one to make trap detection happen nearly instantly (and your npcs will give alerts even when trap detection isn't active.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-bgforge-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Klatu Tweaks and Fixes.png" alt="pic" />
-  </td>
-  <td>
-    <a href="http://www.shsforums.net/files/file/1109-klatu-tweaks-and-fixes/">Klatu Tweaks and Fixes</a>
-  </td>
-  <td>
-    Adds some wild mage items, fixes some legacy mod issues (Check the Bodies and others), forces mobs to drop gear on petrification/disintegration/imprisonment.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/><img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/aTweaks.png" alt="pic" />
-  </td>
-  <td>
-    <a href="http://www.spellholdstudios.net/ie/atweaks">aTweaks</a>
-  </td>
-  <td>
-    Strong focus on making things more PnP-like, which can make many creature types much more challenging.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Scales of Balance.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/UnearthedArcana/Scales_of_Balance/releases">Scales of Balance</a>
-  </td>
-  <td>
-    Adds revised armor/weapon/proficiency systems.  Heavy armor is much more absorbent.  Has a revised MR component.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/><img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/EET Tweaks.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/K4thos/EET_Tweaks/releases">EET Tweaks</a>
-  </td>
-  <td>
-    Good end of order adjustments for an EET install, focusing on normalizing NPC appearances, XP rewards, and XP caps.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-k4thos-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/><img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Subrace.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/tipun81/Subrace-mod/releases">Subrace</a>
-  </td>
-  <td>
-    Allows specialized sub-races of all races but half-orcs.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-tipun-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Magic Battles Revised.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/UnearthedArcana/magic_battles_revised/releases">Magic Battles Revised</a>
-  </td>
-  <td>
-    Streamlines 'mage battles' to be more consistent in how the effects are applied and removed.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Low Magic.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/UnearthedArcana/Low_Magic">Low Magic</a>
-  </td>
-  <td>
-    Aims to increase game difficulty by lowering item strength of common weapons (abundance of +3 weapons etc.), and lowering the strength of spells via spell scaling w/level removal.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-hard-e1a041?style=plastic" alt="hard"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Bart Tweaks.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/BartyMae/Bart_Tweaks">Bart Tweaks</a>
-  </td>
-  <td>
-    Minor adjustments to some lore/spell progression.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-bartymae-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/><img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Ahungry Tweaks.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/ahungry/ahungry_tweaks">Ahungry Tweaks</a>
-  </td>
-  <td>
-    Aims to solve issues that heavy mod installs may introduce. Component to cap +APR effects on gear to 1/2 APR each (some mod gear goes heavy on it).
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-ahungry-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/><img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
-  </td>
-</tr>
- 
-
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/NPC EE.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/UnearthedArcana/NPC_EE/releases">NPC EE</a>
-  </td>
-  <td>
-    Allows customization of NPCs in game via a tome item.  Enables changing class/kit/stats/proficiencies.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Level One NPCs.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://www.gibberlings3.net/mods/tweaks/levelonenpcs/">Level One NPCs</a>
-  </td>
-  <td>
-    Allows customization of NPCs during install via WEIDU selection.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/randomiser.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/FredrikLindgren/randomiser/releases">randomiser</a>
-  </td>
-  <td>
-    Randomizes item locations to provide a fresh play through each time.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-fredriklindgren-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-rand-f3a64d?style=plastic" alt="rand"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/BG Enemy Randomizer.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/GuardianAnubite/bg_enemy_randomizer/releases">BG Enemy Randomizer</a>
-  </td>
-  <td>
-    Randomizes enemies to provide a fresh play through each time.
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-guardiananubite-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-rand-f3a64d?style=plastic" alt="rand"/>
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Ahungry Deletefier.png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://github.com/ahungry/ahungry_deletefier">Ahungry Deletefier</a>
-  </td>
-  <td>
-    Deletes a percentage of all non-quest items with the intent of giving players a challenge via making gear rare (player can specify what percentage).
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-ahungry-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/type-post:eet-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-hard-e1a041?style=plastic" alt="hard"/><img src="https://img.shields.io/badge/tag-rand-f3a64d?style=plastic" alt="rand"/>
   </td>
 </tr>
  

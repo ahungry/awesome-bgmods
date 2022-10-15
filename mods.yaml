@@ -1,4 +1,4 @@
-sundry1:
+mods:
 
   - name: modmerge
     home: https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-steam-gog-sod-dlc-or-custom-dlcs-with-the-main-game
@@ -157,8 +157,6 @@ sundry1:
     tags:
       - feature
 
-quests1:
-
   - name: Drizzt Saga
     home: https://forums.beamdog.com/discussion/29969/drizzt-saga-v3-released-now-bgee-compatible
     down: ~
@@ -202,8 +200,6 @@ quests1:
     tags:
       - pre:eet
       - story
-
-characters1:
 
   - name: Garrick Tales of a Troubador
     home: https://mirandir.baldursgateworld.fr/garrick-tt/
@@ -676,8 +672,6 @@ characters1:
     tags:
       - npc
 
-gameplay1:
-
   - name: Saradas Magic
     home: https://forums.beamdog.com/discussion/23861/bg-ee-mod-saradas-magic-released-v-1-1
     down: ~
@@ -688,8 +682,6 @@ gameplay1:
     tags:
       - pre:eet
       - spells
-
-sundry2:
 
   - name: EET
     home: https://github.com/Gibberlings3/EET
@@ -783,8 +775,6 @@ sundry2:
       - spells
       - items
 
-ui2:
-
   - name: Tipun GUI
     home: https://github.com/tipun81/tipun_gui_mod/releases
     down: ~
@@ -819,9 +809,6 @@ ui2:
     tags:
       - gui
       - qol
-
-
-items2:
 
   - name: "TeamBG's Armor Pack"
     home: https://forums.beamdog.com/discussion/13314/mod-teambgs-armor-pack-for-bg-ee-bg2ee-bgt-amp-tutu/p1
@@ -923,8 +910,6 @@ items2:
     tags:
       - items
 
-
-quests2:
 
   - name: BG1 NPC in SoA
     home: https://forums.beamdog.com/discussion/82463/mod-bg1-npcs-for-soa-tob
@@ -1362,9 +1347,6 @@ quests2:
     dist: argent77
     desc: ""
     tags:
-
-
-characters2:
 
   - name: Tenya Thermidor
     home: https://forums.beamdog.com/discussion/33291/tenya-thermidor-v1-5
@@ -1893,9 +1875,6 @@ characters2:
     tags:
       - npc
 
-
-pos2:
-
   - name: BP BGT Worldmap
     home: http://www.shsforums.net/files/file/308-bp-bgt-worldmap/
     down: ~
@@ -1930,9 +1909,6 @@ pos2:
     tags:
       - banter
       - crossmod
-
-
-voice2:
 
   - name: Portraits, Portraits Everywhere (PPE)
     home: ""
@@ -2386,9 +2362,6 @@ tweaks2:
       - tweaks
       - balance
       - qol
-
-
-end2:
 
   - name: NPC EE
     home: https://github.com/UnearthedArcana/NPC_EE/releases

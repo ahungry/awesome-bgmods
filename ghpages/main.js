@@ -27,12 +27,11 @@ function dosearch()
 
 function snagtags(){
   const tagbar = document.querySelector('.bottom-search-bar .tags')
-  const typebar = document.querySelector('.bottom-search-bar .types')
   const distbar = document.querySelector('.bottom-search-bar .dists')
   const tags = document.querySelectorAll('img')
   const m = {}
   for (let i = 0; i < tags.length; i++) {
-    const match = tags[i].src.match(/.*((tag|type|dist)-.*?)-/)
+    const match = tags[i].src.match(/.*((tag|dist)-.*?)-/)
 
     if (match) {
       const anchor = document.createElement('a')
@@ -52,7 +51,7 @@ function snagtags(){
         const els = document.querySelectorAll('.active')
         const modsearches = []
         for (let i = 0; i < els.length; i++) {
-          const innermatch = els[i].src.match(/.*((tag|type|dist)-.*?)-/)
+          const innermatch = els[i].src.match(/.*((tag|dist)-.*?)-/)
           modsearches.push(innermatch[1])
         }
         document.getElementById('modsearch').value = modsearches.join(',')
@@ -77,11 +76,6 @@ function snagtags(){
 
     if (/^dist-.+/.test(k))
       distbar.append(m[k])
-  })
-
-  Object.keys(m).forEach(k => {
-    if (/^type/.test(k))
-      typebar.append(m[k])
   })
 }
 
@@ -110,8 +104,6 @@ function appendsearch() {
 <button class="help" onclick='help()'>help</button>
 <h5>tags (AND condition/narrows results)</h5>
 <div class="tags overflower"></div>
-<h5>mod type for install order (1 max)</h5>
-<div class="types overflower"></div>
 <h5>mod distributor (1 max)</h5>
 <div class="dists overflower"></div>
 </div>

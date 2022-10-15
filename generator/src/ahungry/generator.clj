@@ -25,7 +25,7 @@
              tag color tag)))
         tags)))
 
-(defn entry->md [type {:keys [name home dist desc tags]}]
+(defn entry->md [{:keys [name home dist desc tags]}]
   (format "
 <tr class=\"mod-entry\">
   <td>
@@ -39,15 +39,14 @@
   </td>
   <td>
     <img src=\"https://img.shields.io/badge/dist-%s-purple?style=plastic\" alt=\"dist\" />
-    <img src=\"https://img.shields.io/badge/type-%s-teal?style=plastic\" alt=\"dist\" />
     %s
   </td>
 </tr>
  "
-          name home name desc dist type (tags->md tags)))
+          name home name desc dist (tags->md tags)))
 
-(defn yaml->md [type yaml]
-  (clojure.string/join (map (partial entry->md type) yaml)))
+(defn yaml->md [yaml]
+  (clojure.string/join (map entry->md yaml)))
 
 (defn generate []
   (let [yaml (slurp-yaml)
@@ -58,43 +57,11 @@
 
 <table>
 %s
-%s
-%s
-%s
-%s
-%s
-%s
-%s
-%s
-%s
-%s
-%s
-%s
-%s
-%s
-%s
 </table>
 
 "
                   preamble
-
-                  (yaml->md "pre:eet" (:sundry1 yaml))
-                  (yaml->md "pre:eet" (:quests1 yaml))
-                  (yaml->md "pre:eet" (:characters1 yaml))
-                  (yaml->md "pre:eet" (:gameplay1 yaml))
-
-                  (yaml->md "post:eet" (:sundry2 yaml))
-                  (yaml->md "post:eet" (:ui2 yaml))
-                  (yaml->md "post:eet" (:items2 yaml))
-                  (yaml->md "post:eet" (:quests2 yaml))
-                  (yaml->md "post:eet" (:characters2 yaml))
-                  (yaml->md "post:eet" (:pos2 yaml))
-                  (yaml->md "post:eet" (:voice2 yaml))
-                  (yaml->md "post:eet" (:gameplay2 yaml))
-                  (yaml->md "post:eet" (:sys2 yaml))
-                  (yaml->md "post:eet" (:tactics2 yaml))
-                  (yaml->md "post:eet" (:tweaks2 yaml))
-                  (yaml->md "post:eet" (:end2 yaml))))))
+                  (yaml->md (:mods yaml))))))
 
 (defn greet
   "Callable entry point to the application."
@@ -103,22 +70,7 @@
 
 (defn testit []
   (let [yaml (slurp-yaml)]
-    (-> (flatten [(:sundry1 yaml)
-                  (:quests1 yaml)
-                  (:characters1 yaml)
-                  (:gameplay1 yaml)
-                  (:sundry2 yaml)
-                  (:ui2 yaml)
-                  (:items2 yaml)
-                  (:quests2 yaml)
-                  (:characters2 yaml)
-                  (:pos2 yaml)
-                  (:voice2 yaml)
-                  (:gameplay2 yaml)
-                  (:sys2 yaml)
-                  (:tactics2 yaml)
-                  (:tweaks2 yaml)
-                  (:end2 yaml)])
+    (-> (:mods yaml)
         (crawl/take-screenshots))))
 
 ;; TODO: Swap based on cmd in makefile
