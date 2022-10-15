@@ -54,6 +54,10 @@ function snagtags(){
           modsearches.push(innermatch[1])
         }
         document.getElementById('modsearch').value = modsearches.join(',')
+
+        if (modsearches.length > 0) {
+          window.location.href = '#' + modsearches.join(',')
+        }
         // window.scrollTo(0, 0)
         // setTimeout(
         //   () => {
@@ -129,10 +133,30 @@ function searchToggle(){
   }
 }
 
+function resumeState () {
+  const segments = window.location.href.match(/#(.*)/)[1] || false
+  if (!segments) return
+  const matches = segments.split(',')
+
+  document.getElementById('modsearch').value = segments
+
+  const els = document.querySelectorAll('.bottom-search-bar img')
+
+  for (let i = 0; i < els.length; i++) {
+    matches.forEach(m => {
+      if (els[i].src.indexOf(m) > -1) {
+        els[i].className += ' active'
+      }
+    })
+  }
+  document.getElementById('legend').scrollIntoView(true)
+}
+
 window.onload=() => {
   appendsearch()
   snagtags()
   linkify()
+  resumeState()
   setInterval(dosearch, 100)
   // setInterval(searchToggle, 300)
 }
