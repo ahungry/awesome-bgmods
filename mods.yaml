@@ -94,10 +94,7 @@ quests1:
     home: https://forums.beamdog.com/discussion/42168/mod-the-stone-of-askavar-for-totsc-tutu-bgt-and-bg-ee
     down: ~
     dist: beamdog
-    desc:
-      Use "Travel Triggers" install option.  High level campaign with 5
-      custom npcs ranging in level from 9 to 15.  R.A. Salvatore based
-      theme, up to +4 weapons can be found - about 5 hours of content.
+    desc: ""
     tags:
       - combat
 

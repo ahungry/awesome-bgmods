@@ -143,7 +143,7 @@ https://ahungry.github.io/awesome-bgmods/
     <a href="https://forums.beamdog.com/discussion/42168/mod-the-stone-of-askavar-for-totsc-tutu-bgt-and-bg-ee">The Stone of Askavar</a>
   </td>
   <td>
-    Use "Travel Triggers" install option.  High level campaign with 5 custom npcs ranging in level from 9 to 15.  R.A. Salvatore based theme, up to +4 weapons can be found - about 5 hours of content.
+    
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
