@@ -26,12 +26,11 @@ function snagtags(){
   const tagbar = document.querySelector('.bottom-search-bar .tags')
   const typebar = document.querySelector('.bottom-search-bar .types')
   const distbar = document.querySelector('.bottom-search-bar .dists')
-  const cmpbar = document.querySelector('.bottom-search-bar .cmps')
   const naybar = document.querySelector('.bottom-search-bar .nays')
   const tags = document.querySelectorAll('img')
   const m = {}
   for (let i = 0; i < tags.length; i++) {
-    const match = tags[i].src.match(/.*((tag|type|dist|cmp|nay)-.*?)-/)
+    const match = tags[i].src.match(/.*((tag|type|dist|nay)-.*?)-/)
 
     if (match) {
       const anchor = document.createElement('a')
@@ -42,7 +41,19 @@ function snagtags(){
       el.src = tags[i].src
       el.className = 'barbutton'
       el.onclick = () => {
-        document.getElementById('modsearch').value += ',' + match[1]
+        if (el.className.indexOf('active') > -1) {
+          el.className = 'barbutton'
+        } else {
+          el.className = 'barbutton active'
+        }
+
+        const els = document.querySelectorAll('.active')
+        const modsearches = []
+        for (let i = 0; i < els.length; i++) {
+          const innermatch = els[i].src.match(/.*((tag|type|dist|nay)-.*?)-/)
+          modsearches.push(innermatch[1])
+        }
+        document.getElementById('modsearch').value = modsearches.join(',')
         // window.scrollTo(0, 0)
         // setTimeout(
         //   () => {
@@ -66,9 +77,6 @@ function snagtags(){
     if (/^dist/.test(k))
       distbar.append(m[k])
 
-    if (/^cmp/.test(k))
-      cmpbar.append(m[k])
-
     if (/^nay/.test(k))
       naybar.append(m[k])
   })
@@ -76,8 +84,7 @@ function snagtags(){
 
 function help() {
   alert(`ex: 'tag-audio' finds audio mods, 'drizzt' finds any mods that
-mention him, 'cmp-ahungry001' finds mods that ahungry used in tandem, 'dist-g3'
-finds mods from gibberlings3
+mention him, 'dist-g3' finds mods from gibberlings3
 `)
 }
 function reset() {
@@ -96,8 +103,6 @@ function appendsearch() {
 <div class="types overflower"></div>
 <h5>dists</h5>
 <div class="dists overflower"></div>
-<h5>cmps</h5>
-<div class="cmps overflower"></div>
 <h5>nays</h5>
 <div class="nays overflower"></div>
 </div>
