@@ -27,7 +27,7 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-required-2d64c8?style=plastic" alt="required"/><img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/>
+    <img src="https://img.shields.io/badge/tag-required-2d64c8?style=plastic" alt="required"/><img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-sod-d5478e?style=plastic" alt="sod"/>
   </td>
 </tr>
  
@@ -43,7 +43,7 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/>
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/><img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/>
   </td>
 </tr>
  
@@ -59,7 +59,7 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/>
+    <img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/><img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/>
   </td>
 </tr>
  
@@ -107,7 +107,7 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-igi-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
+    <img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/><img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/>
   </td>
 </tr>
  
@@ -173,7 +173,7 @@ Throne of Bhaal that radically changes the game.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-igi-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
+    <img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/><img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/>
   </td>
 </tr>
  
@@ -205,7 +205,7 @@ Throne of Bhaal that radically changes the game.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-igi-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/>
+    <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/><img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/>
   </td>
 </tr>
  
@@ -237,7 +237,7 @@ Throne of Bhaal that radically changes the game.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/>
+    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/>
   </td>
 </tr>
  
@@ -253,7 +253,7 @@ Throne of Bhaal that radically changes the game.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/>
+    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/>
   </td>
 </tr>
  
@@ -269,7 +269,7 @@ Throne of Bhaal that radically changes the game.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/>
+    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/>
   </td>
 </tr>
  
@@ -285,7 +285,7 @@ Throne of Bhaal that radically changes the game.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/>
+    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/>
   </td>
 </tr>
  
@@ -301,7 +301,7 @@ Throne of Bhaal that radically changes the game.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-bgw-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/>
   </td>
 </tr>
  
@@ -317,7 +317,7 @@ Throne of Bhaal that radically changes the game.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-artisans-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/>
+    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/><img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/>
   </td>
 </tr>
  
@@ -333,7 +333,7 @@ Throne of Bhaal that radically changes the game.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-artisans-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -365,7 +365,7 @@ Throne of Bhaal that radically changes the game.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/>
+    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/>
   </td>
 </tr>
  
@@ -381,7 +381,7 @@ Throne of Bhaal that radically changes the game.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -493,7 +493,7 @@ Throne of Bhaal that radically changes the game.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/><img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/>
+    <img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/><img src="https://img.shields.io/badge/tag-tob-d2468c?style=plastic" alt="tob"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/><img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/>
   </td>
 </tr>
  
@@ -561,7 +561,7 @@ a hub for crossmod of future mods for IWD:EE.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-iwd-cf458a?style=plastic" alt="iwd"/>
   </td>
 </tr>
  
@@ -577,7 +577,7 @@ a hub for crossmod of future mods for IWD:EE.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/>
   </td>
 </tr>
  
@@ -609,7 +609,7 @@ a hub for crossmod of future mods for IWD:EE.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -625,7 +625,7 @@ a hub for crossmod of future mods for IWD:EE.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/>
   </td>
 </tr>
  
@@ -641,7 +641,7 @@ a hub for crossmod of future mods for IWD:EE.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/><img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/><img src="https://img.shields.io/badge/tag-pid-ba3e7c?style=plastic" alt="pid"/>
   </td>
 </tr>
  
@@ -657,7 +657,7 @@ a hub for crossmod of future mods for IWD:EE.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -699,7 +699,7 @@ really sorry, but no romance.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -715,7 +715,7 @@ really sorry, but no romance.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-iwd2-6677ee?style=plastic" alt="iwd2"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -731,7 +731,7 @@ really sorry, but no romance.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -747,7 +747,7 @@ really sorry, but no romance.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -763,7 +763,7 @@ really sorry, but no romance.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -785,7 +785,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-tob-d2468c?style=plastic" alt="tob"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -801,7 +801,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -817,7 +817,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -833,7 +833,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-tob-d2468c?style=plastic" alt="tob"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -865,7 +865,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-tob-d2468c?style=plastic" alt="tob"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -897,7 +897,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-spells-c0952b?style=plastic" alt="spells"/>
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-pre:eet-45c183?style=plastic" alt="pre:eet"/><img src="https://img.shields.io/badge/tag-spells-c0952b?style=plastic" alt="spells"/>
   </td>
 </tr>
  
@@ -913,7 +913,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-util-3fbf7f?style=plastic" alt="util"/>
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-sod-d5478e?style=plastic" alt="sod"/><img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/><img src="https://img.shields.io/badge/tag-tob-d2468c?style=plastic" alt="tob"/><img src="https://img.shields.io/badge/tag-util-3fbf7f?style=plastic" alt="util"/>
   </td>
 </tr>
  
@@ -929,7 +929,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-infinitymods-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/>
+    <img src="https://img.shields.io/badge/tag-tob-d2468c?style=plastic" alt="tob"/><img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quest-9c3468?style=plastic" alt="quest"/>
   </td>
 </tr>
  
@@ -945,7 +945,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
+    <img src="https://img.shields.io/badge/tag-tob-d2468c?style=plastic" alt="tob"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -957,11 +957,11 @@ non-evil alignment.
     <a href="https://github.com/UnearthedArcana/BP_in_BG/releases/tag/0.6.1">BlackPits in BG</a>
   </td>
   <td>
-    Alpha quality but works - at the moment for some users, their team cannot fall below 1 HP, requiring the user to force their own game over/failures if desired.
+    At the moment, for some users, their team cannot fall below 1 HP, requiring the user to force their own game over/failures if desired.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
+    <img src="https://img.shields.io/badge/tag-alpha-18810?style=plastic" alt="alpha"/><img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
  
@@ -993,7 +993,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/>
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-sod-d5478e?style=plastic" alt="sod"/><img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/><img src="https://img.shields.io/badge/tag-tob-d2468c?style=plastic" alt="tob"/><img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/>
   </td>
 </tr>
  
@@ -1009,7 +1009,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-bubb-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-sod-d5478e?style=plastic" alt="sod"/><img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/><img src="https://img.shields.io/badge/tag-tob-d2468c?style=plastic" alt="tob"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
  
@@ -1025,7 +1025,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-argent77-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/>
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-sod-d5478e?style=plastic" alt="sod"/><img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/><img src="https://img.shields.io/badge/tag-tob-d2468c?style=plastic" alt="tob"/><img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/>
   </td>
 </tr>
  
@@ -1041,7 +1041,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-argent77-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
+    <img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
  
@@ -1057,7 +1057,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-spells-c0952b?style=plastic" alt="spells"/><img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-sod-d5478e?style=plastic" alt="sod"/><img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/><img src="https://img.shields.io/badge/tag-tob-d2468c?style=plastic" alt="tob"/><img src="https://img.shields.io/badge/tag-spells-c0952b?style=plastic" alt="spells"/><img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
  
@@ -1073,7 +1073,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-tipun-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-gui-d2468c?style=plastic" alt="gui"/>
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-sod-d5478e?style=plastic" alt="sod"/><img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/><img src="https://img.shields.io/badge/tag-tob-d2468c?style=plastic" alt="tob"/><img src="https://img.shields.io/badge/tag-gui-d2468c?style=plastic" alt="gui"/>
   </td>
 </tr>
  
@@ -1089,7 +1089,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-lefreut-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-gui-d2468c?style=plastic" alt="gui"/>
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-sod-d5478e?style=plastic" alt="sod"/><img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/><img src="https://img.shields.io/badge/tag-tob-d2468c?style=plastic" alt="tob"/><img src="https://img.shields.io/badge/tag-gui-d2468c?style=plastic" alt="gui"/>
   </td>
 </tr>
  
@@ -1105,7 +1105,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-lefreut-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-gui-d2468c?style=plastic" alt="gui"/><img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-sod-d5478e?style=plastic" alt="sod"/><img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/><img src="https://img.shields.io/badge/tag-tob-d2468c?style=plastic" alt="tob"/><img src="https://img.shields.io/badge/tag-gui-d2468c?style=plastic" alt="gui"/><img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
  
@@ -1121,7 +1121,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-argent77-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-gui-d2468c?style=plastic" alt="gui"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-sod-d5478e?style=plastic" alt="sod"/><img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/><img src="https://img.shields.io/badge/tag-tob-d2468c?style=plastic" alt="tob"/><img src="https://img.shields.io/badge/tag-gui-d2468c?style=plastic" alt="gui"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
  
@@ -1153,7 +1153,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-crevsdaak-purple?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/><img src="https://img.shields.io/badge/tag-item:upgrades-db4992?style=plastic" alt="item:upgrades"/>
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/><img src="https://img.shields.io/badge/tag-item:upgrades-db4992?style=plastic" alt="item:upgrades"/>
   </td>
 </tr>
  
@@ -1329,7 +1329,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/>
   </td>
 </tr>
  
@@ -1345,38 +1345,6 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
-    
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Romantic Encounters (BG2).png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://www.gibberlings3.net/files/file/931-romantic-encounters-bg2/">Romantic Encounters (BG2)</a>
-  </td>
-  <td>
-    
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    
-  </td>
-</tr>
- 
-<tr class="mod-entry">
-  <td>
-    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Romantic Encounters (BG).png" alt="pic" />
-  </td>
-  <td>
-    <a href="https://www.gibberlings3.net/mods/npcs/bg-romantic-encounters/">Romantic Encounters (BG)</a>
-  </td>
-  <td>
-    
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
     
   </td>
 </tr>
@@ -1409,7 +1377,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/>
   </td>
 </tr>
  
@@ -1425,7 +1393,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/>
   </td>
 </tr>
  
@@ -1441,7 +1409,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/>
   </td>
 </tr>
  
@@ -1473,7 +1441,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-sod-d5478e?style=plastic" alt="sod"/><img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/><img src="https://img.shields.io/badge/tag-tob-d2468c?style=plastic" alt="tob"/>
   </td>
 </tr>
  
@@ -1489,7 +1457,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/><img src="https://img.shields.io/badge/tag-sod-d5478e?style=plastic" alt="sod"/><img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/><img src="https://img.shields.io/badge/tag-tob-d2468c?style=plastic" alt="tob"/>
   </td>
 </tr>
  
@@ -1505,7 +1473,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-sod-d5478e?style=plastic" alt="sod"/>
   </td>
 </tr>
  
@@ -1521,7 +1489,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-sod-d5478e?style=plastic" alt="sod"/>
   </td>
 </tr>
  
@@ -1553,7 +1521,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/>
   </td>
 </tr>
  
@@ -1569,7 +1537,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-bg1-f0faf5?style=plastic" alt="bg1"/>
   </td>
 </tr>
  
@@ -1585,7 +1553,7 @@ non-evil alignment.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-blindmonkey-purple?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-bg2-f3fbf7?style=plastic" alt="bg2"/>
   </td>
 </tr>
  
