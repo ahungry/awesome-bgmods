@@ -10,30 +10,44 @@
   (-> (slurp "../mods.yaml")
       yaml/parse-string))
 
+(defn get-color [tag]
+  (let [red (mod (reduce + (map #(* % % ) (map int tag))) 255)
+        green (mod (reduce + (map int tag)) 255)
+        blue (mod (reduce * (map int tag)) 255)]
+    (format "%x%x%x" red green blue)))
+
 (defn tags->md [tags]
   (clojure.string/join
    (map (fn [tag]
-          (format
-           "<img src=\"https://img.shields.io/badge/tag-%s-purple?style=plastic\" alt=\"%s\"/>"
-           tag tag))
+          (let [color (get-color tag)]
+            (format
+             "<img src=\"https://img.shields.io/badge/tag-%s-%s?style=plastic\" alt=\"%s\"/>"
+             tag color tag)))
         tags)))
 
-(defn entry->md [{:keys [name home dist desc tags]}]
+(defn entry->md [type {:keys [name home dist desc tags]}]
   (format "
-<div class=\"mod-entry\">
-  <p><a href=\"%s\">%s</a></p>
-  <img src=\"https://ahungry.github.io/awesome-bgmods/ghpages/images/%s.png\" alt=\"pic\" />
-  <p class=\"tags\">
-    <img src=\"https://img.shields.io/badge/dist-%s-purple?style=plastic\" alt=\"dist\" />
+<tr class=\"mod-entry\">
+  <td>
+    <img src=\"https://ahungry.github.io/awesome-bgmods/ghpages/images/%s.png\" alt=\"pic\" />
+  </td>
+  <td>
+    <a href=\"%s\">%s</a>
+  </td>
+  <td>
     %s
-  </p>
-<p class=\"desc\">%s</p>
-</div>
+  </td>
+  <td>
+    <img src=\"https://img.shields.io/badge/dist-%s-purple?style=plastic\" alt=\"dist\" />
+    <img src=\"https://img.shields.io/badge/type-%s-teal?style=plastic\" alt=\"dist\" />
+    %s
+  </td>
+</tr>
  "
-          home name name dist (tags->md tags) desc))
+          name home name desc dist type (tags->md tags)))
 
-(defn yaml->md [yaml]
-  (clojure.string/join (map entry->md yaml)))
+(defn yaml->md [type yaml]
+  (clojure.string/join (map (partial entry->md type) yaml)))
 
 (defn generate []
   (let [yaml (slurp-yaml)
@@ -42,116 +56,45 @@
           (format "
 %s
 
-### Sundry/Miscellaneous
-<div class=\"container\">
+<table>
 %s
-</div>
-
-### Quests/Story
-<div class=\"container\">
 %s
-</div>
-
-### Characters
-<div class=\"container\">
 %s
-</div>
-
-### Gameplay
-<div class=\"container\">
 %s
-</div>
-
-## Post-EET
-
-Install/setup after EET
-
-### Sundry/Miscellaneous
-<div class=\"container\">
 %s
-</div>
-
-### UI Enhancement
-<div class=\"container\">
 %s
-</div>
-
-### Item Packs
-<div class=\"container\">
 %s
-</div>
-
-### Quests/Story
-<div class=\"container\">
 %s
-</div>
-
-### Characters
-<div class=\"container\">
 %s
-</div>
-
-### Position Dependent Quest/Megamod Portions
-
-This includes a few items that should be installed after
-quests/characters, but still not quite end of order.
-
-<div class=\"container\">
 %s
-</div>
-
-### Voice Packs/Portraits
-<div class=\"container\">
 %s
-</div>
-
-### Gameplay
-<div class=\"container\">
 %s
-</div>
-
-### System Revisions
-<div class=\"container\">
 %s
-</div>
-
-### Tactics
-<div class=\"container\">
 %s
-</div>
-
-### Tweaks
-<div class=\"container\">
 %s
-</div>
-
-### End of Order
-<div class=\"container\">
 %s
-</div>
+</table>
 
 "
                   preamble
 
-                  (yaml->md (:sundry1 yaml))
-                  (yaml->md (:quests1 yaml))
-                  (yaml->md (:characters1 yaml))
-                  (yaml->md (:gameplay1 yaml))
+                  (yaml->md :sundry1 (:sundry1 yaml))
+                  (yaml->md :quests1 (:quests1 yaml))
+                  (yaml->md :characters1 (:characters1 yaml))
+                  (yaml->md :gameplay1 (:gameplay1 yaml))
 
-                  (yaml->md (:sundry2 yaml))
-                  (yaml->md (:ui2 yaml))
-                  (yaml->md (:items2 yaml))
-                  (yaml->md (:quests2 yaml))
-                  (yaml->md (:characters2 yaml))
-                  (yaml->md (:pos2 yaml))
-                  (yaml->md (:voice2 yaml))
-                  (yaml->md (:gameplay2 yaml))
-                  (yaml->md (:sys2 yaml))
-                  (yaml->md (:tactics2 yaml))
-                  (yaml->md (:tweaks2 yaml))
-                  (yaml->md (:end2 yaml))
-
-                  ))))
+                  (yaml->md :sundry2 (:sundry2 yaml))
+                  (yaml->md :ui2 (:ui2 yaml))
+                  (yaml->md :items2 (:items2 yaml))
+                  (yaml->md :quests2 (:quests2 yaml))
+                  (yaml->md :characters2 (:characters2 yaml))
+                  (yaml->md :pos2 (:pos2 yaml))
+                  (yaml->md :voice2 (:voice2 yaml))
+                  (yaml->md :gameplay2 (:gameplay2 yaml))
+                  (yaml->md :sys2 (:sys2 yaml))
+                  (yaml->md :tactics2 (:tactics2 yaml))
+                  (yaml->md :tweaks2 (:tweaks2 yaml))
+                  (yaml->md :end2 (:end2 yaml))))))
 
 (defn greet
   "Callable entry point to the application."

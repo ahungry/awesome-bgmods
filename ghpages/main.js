@@ -6,7 +6,7 @@ function dosearch()
   const xs = document.querySelectorAll('.mod-entry')
   for (let i = 0; i < xs.length; i++) {
     if (xs[i].innerHTML.toLowerCase().indexOf(filter) > -1)
-      xs[i].style.display='inline-block'
+      xs[i].style.display='block'
     else
       xs[i].style.display='none'
   }

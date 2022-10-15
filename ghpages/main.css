@@ -124,3 +124,13 @@ h3 {
   margin: 2px;
   text-align: justify;
 }
+
+table tr td {
+  font-size: 0.7rem;
+  text-align: left !important;
+  padding: 8px;
+}
+
+table tr td img {
+  max-width: 80px !important;
+}
