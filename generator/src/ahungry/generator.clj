@@ -101,11 +101,6 @@
   [data]
   (println (str "Hello, " (or (:name data) "World") "!")))
 
-(defn -main
-  "I don't do a whole lot ... yet."
-  [& args]
-  (greet {:name (first args)}))
-
 (defn testit []
   (let [yaml (slurp-yaml)]
     (-> (flatten [(:sundry1 yaml)
@@ -125,3 +120,10 @@
                   (:tweaks2 yaml)
                   (:end2 yaml)])
         (crawl/take-screenshots))))
+
+(defn -main
+  "I don't do a whole lot ... yet."
+  [& args]
+  (greet {:name (first args)})
+  (generate)
+  (testit))
