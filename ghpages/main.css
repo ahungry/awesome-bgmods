@@ -148,3 +148,23 @@ table tr td img {
 details {
   display: none;
 }
+
+header {
+  margin-right: 250px;
+}
+
+header h1 {
+  font-size: 1.4rem;
+}
+
+header h2 {
+  font-size: 1.0rem;
+}
+
+aside {
+  display: none;
+}
+
+#main-content h1:nth-child(1), #main-content p:nth-child(3), #main-content p:nth-child(4) {
+  display: none;
+}
