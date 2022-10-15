@@ -100,6 +100,142 @@ https://ahungry.github.io/awesome-bgmods/
   </td>
 </tr>
  
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/iiNoBanter.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://github.com/btigi/iiNoBanter">iiNoBanter</a>
+  </td>
+  <td>
+    No Banter is a small mod for Baldur's Gate 2 that disables party banter. While party banter can be immersive and revealing, it can also break immersion. How likely is it that party members would begin a banter while exploring a dark forbidding dungeon? Or while sneaking through an enemy stronghold? Or while disguised in a drow stronghold?
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-igi-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/iiItem.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://github.com/btigi/iiItem">iiItem</a>
+  </td>
+  <td>
+    iiItem adds several dozen new items to the Infinity Engine games, concentrating on lesser known item types (such as potions, bracers, arrows etc).
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-igi-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/iixando.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://github.com/btigi/iixando">iixando</a>
+  </td>
+  <td>
+    {:iixando is a one day total conversion for Baldur's Gate 2 Throne of Bhaal that radically changes the game.}
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-igi-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-totalconversion-5170e0?style=plastic" alt="totalconversion"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/iiSpellSystemAdjustments.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://github.com/btigi/iiSpellSystemAdjustments">iiSpellSystemAdjustments</a>
+  </td>
+  <td>
+    iiSpellSystemAdjustments offers a couple of tweaks to the way spells work; spellcasters can gain experience for casting spells, and spells can automatically refresh after a configurable amount of time.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-igi-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/iiKeyNames.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://github.com/btigi/iiKeyNames">iiKeyNames</a>
+  </td>
+  <td>
+    iiKeyNames is a mod for Baldur's Gate 2, which alters the names of key items once they have been used, to help you organise your inventory and only carry required items around.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-igi-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/iiTweak.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://github.com/btigi/iiTweak">iiTweak</a>
+  </td>
+  <td>
+    iiTweak contains several tweaks and convenience alterations for the Infinity Engine series of games.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-igi-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-tweaks-b49123?style=plastic" alt="tweaks"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/iiLearnThroughUse.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://github.com/btigi/iiLearnThroughUse">iiLearnThroughUse</a>
+  </td>
+  <td>
+    The Learn Through Use Mod attempts to add a small element of realism to Baldur's Gate II by tracking weapon proficiencies for weapon types the player is actually using, rather than as arbitrary choice at level-up.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-igi-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/iiProjectileR.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://github.com/btigi/iiProjectileR">iiProjectileR</a>
+  </td>
+  <td>
+    Projectile Retrieval is a mod for Infinity Engine games with a simple aim - to allow the player to retrieve projectiles after using them.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-igi-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/type-pre:eet-teal?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/>
+  </td>
+</tr>
+ 
 
 <tr class="mod-entry">
   <td>
