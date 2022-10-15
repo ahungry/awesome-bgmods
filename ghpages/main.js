@@ -95,7 +95,7 @@ function reset() {
   const els = document.querySelectorAll('.active')
 
   for (let i = 0; i < els.length; i++) {
-    els.className = 'barbutton'
+    els[i].className = 'barbutton'
   }
 }
 
