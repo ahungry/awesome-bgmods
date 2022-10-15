@@ -82,7 +82,7 @@ characters1:
     tags:
       - banter
       - story
-      - quests
+      - quest
       - npc
 
   - name: Drake
@@ -93,7 +93,7 @@ characters1:
     tags:
       - banter
       - story
-      - quests
+      - quest
       - npc
 
   - name: Sirene
@@ -104,7 +104,7 @@ characters1:
     tags:
       - banter
       - story
-      - quests
+      - quest
       - npc
 
   - name: White
@@ -115,7 +115,7 @@ characters1:
     tags:
       - banter
       - story
-      - quests
+      - quest
       - npc
 
   - name: Verrsza
@@ -126,7 +126,7 @@ characters1:
     tags:
       - banter
       - story
-      - quests
+      - quest
       - npc
 
   - name: Margarita
@@ -167,7 +167,7 @@ sundry2:
     tags:
       - combat
       - story
-      - quests
+      - quest
 
   - name: Longer Road
     home: https://forums.beamdog.com/discussion/37579/longer-road-working-in-bg2ee
@@ -428,8 +428,8 @@ quests2:
     desc: ""
     tags:
 
-  - name: BGQE (BG Quests and Encounters)
-    home: https://github.com/Gibberlings3/BG_Quests_And_Encounters/releases
+  - name: BGQE (BG Quest and Encounters)
+    home: https://github.com/Gibberlings3/BG_Quest_And_Encounters/releases
     down: ~
     dist: g3
     desc: ""
@@ -714,16 +714,20 @@ quests2:
     dist: ppg
     desc: ""
     tags:
+      - story
+      - quest
 
   - name: "Balduran's Seatower"
     home: https://github.com/Gibberlings3/BS_Baldurans_Seatower/releases
     down: ~
     dist: g3
-    desc: ""
+    desc: New region in south-central Baldur's Gate
     tags:
+      - story
+      - quest
 
   - name: Cowled Menace
-    home: https://www.gibberlings3.net/mods/quests/the-cowled-menace/
+    home: https://www.gibberlings3.net/mods/quest/the-cowled-menace/
     down: ~
     dist: g3
     desc: ""
@@ -742,20 +746,28 @@ quests2:
     dist: g3
     desc: ""
     tags:
+      - combat
+      - hard
 
   - name: Test Your Mettle
     home: https://github.com/Argent77/A7-TestYourMettle/releases
     down: ~
     dist: argent77
-    desc: ""
+    desc: A challenge of encounters.
     tags:
+      - combat
+      - hard
 
   - name: Secret of Bonehill
     home: http://www.shsforums.net/forum/194-secret-of-bonehill/
     down: ~
     dist: shs
-    desc: ""
+    desc: Find out the mystery of Restenford, and the secret of bonehill.
     tags:
+      - combat
+      - quest
+      - story
+      - npc
 
   - name: The Vault
     home: http://www.shsforums.net/topic/55129-the-vault-for-bgt-v72-released/
@@ -768,15 +780,20 @@ quests2:
     home: https://github.com/Argent77/A7-MagicStore/releases
     down: ~
     dist: argent77
-    desc: ""
+    desc: Adds a quest to get a magical item that allows a mobile store.
     tags:
+      - feature
+      - qol
+      - quest
 
   - name: Sirines Call
-    home: ""
+    home: https://www.pocketplane.net/bg1tutu-enhancements/
     down: ~
-    dist: xxx
-    desc: ""
+    dist: ppg
+    desc: Adds some conversations with sirines.
     tags:
+      - story
+      - quest
 
   - name: Dark Side of the Sword Coast
     home: http://www.shsforums.net/files/file/66-dark-side-of-the-sword-coast/
@@ -815,6 +832,7 @@ characters2:
     dist: beamdog
     desc: ""
     tags:
+      - npc
 
   - name: Kivan and Deheriana
     home: https://github.com/Gibberlings3/Kivan_and_Deheriana/releases
@@ -822,6 +840,7 @@ characters2:
     dist: g3
     desc: ""
     tags:
+      - npc
 
   - name: Fhaugy
     home: https://downloads.weaselmods.net/download/fhaugy/
@@ -829,6 +848,7 @@ characters2:
     dist: weaselmods
     desc: ""
     tags:
+      - npc
 
   - name: Khalid BG2
     home: https://downloads.weaselmods.net/download/khalid-bg2/
@@ -836,6 +856,7 @@ characters2:
     dist: weaselmods
     desc: ""
     tags:
+      - npc
 
   - name: Faldorn BG2
     home: https://downloads.weaselmods.net/download/faldorn-bg2ee/
@@ -843,6 +864,7 @@ characters2:
     dist: weaselmods
     desc: ""
     tags:
+      - npc
 
   - name: Petsy
     home: https://downloads.weaselmods.net/download/petsy/
@@ -850,6 +872,7 @@ characters2:
     dist: weaselmods
     desc: ""
     tags:
+      - npc
 
   - name: Iylos
     home: http://www.shsforums.net/files/file/539-iylos/
@@ -857,6 +880,7 @@ characters2:
     dist: shs
     desc: ""
     tags:
+      - npc
 
   - name: Ninde
     home: http://www.shsforums.net/files/file/714-ninde/
@@ -864,6 +888,7 @@ characters2:
     dist: shs
     desc: ""
     tags:
+      - npc
 
   - name: Xulaye
     home: http://www.shsforums.net/files/file/710-xulaye/
@@ -871,6 +896,7 @@ characters2:
     dist: shs
     desc: ""
     tags:
+      - npc
 
   - name: Kido
     home: ""
@@ -878,6 +904,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Alora BG2
     home: https://github.com/GwendolyneFreddy/Alora-NPC-for-BG2/releases
@@ -885,6 +912,7 @@ characters2:
     dist: gwendolyne
     desc: ""
     tags:
+      - npc
 
   - name: Yasraena
     home: ""
@@ -892,6 +920,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Ajoc Mod
     home: ""
@@ -899,6 +928,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Tyris Flare
     home: ""
@@ -906,6 +936,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Kindrek
     home: ""
@@ -913,6 +944,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Ariena
     home: ""
@@ -920,6 +952,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Valen
     home: ""
@@ -927,6 +960,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Star
     home: ""
@@ -934,6 +968,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Uldar
     home: ""
@@ -941,6 +976,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Holly Elf
     home: ""
@@ -948,6 +984,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Maltese
     home: ""
@@ -955,6 +992,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Melynda
     home: ""
@@ -962,6 +1000,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Velvet
     home: ""
@@ -969,6 +1008,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Saerileth
     home: ""
@@ -976,6 +1016,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Kitanya
     home: ""
@@ -983,6 +1024,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Fade
     home: ""
@@ -990,6 +1032,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Paina
     home: ""
@@ -997,6 +1040,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Arath
     home: ""
@@ -1004,6 +1048,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Bristlelick
     home: ""
@@ -1011,6 +1056,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Valerie
     home: ""
@@ -1018,6 +1064,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Gavin
     home: ""
@@ -1025,6 +1072,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Isra
     home: ""
@@ -1032,6 +1080,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Eilistraee
     home: ""
@@ -1039,6 +1088,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Saradas Magic 2
     home: ""
@@ -1046,6 +1096,8 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
+      - spells
 
   - name: Glam NPC Pack
     home: ""
@@ -1053,6 +1105,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Adrian
     home: ""
@@ -1060,6 +1113,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Sirene BG2
     home: ""
@@ -1067,6 +1121,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: The Calling
     home: ""
@@ -1074,6 +1129,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Finch NPC
     home: ""
@@ -1081,6 +1137,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Tsujatha
     home: ""
@@ -1088,6 +1145,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Kelsey
     home: ""
@@ -1095,6 +1153,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Indi NPC
     home: ""
@@ -1102,6 +1161,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Angelo
     home: ""
@@ -1109,6 +1169,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Chloe
     home: ""
@@ -1116,6 +1177,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Kim the Pirate
     home: ""
@@ -1123,6 +1185,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Vampire Tales
     home: ""
@@ -1130,6 +1193,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Travellers
     home: ""
@@ -1137,6 +1201,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: The Rune
     home: ""
@@ -1144,6 +1209,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Lens Hunt
     home: ""
@@ -1151,6 +1217,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Corwin EET
     home: ""
@@ -1158,6 +1225,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Tamoko
     home: ""
@@ -1165,6 +1233,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Safana
     home: ""
@@ -1172,6 +1241,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Ehlastra
     home: ""
@@ -1179,6 +1249,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Sime NPC
     home: ""
@@ -1186,6 +1257,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Deep Gnomes
     home: ""
@@ -1193,6 +1265,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Sheena
     home: ""
@@ -1200,6 +1273,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: The Grey Clan
     home: ""
@@ -1207,6 +1281,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Skitia NPCs
     home: ""
@@ -1214,6 +1289,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Vienxay
     home: ""
@@ -1221,6 +1297,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: The Beaurin Legacy
     home: ""
@@ -1228,6 +1305,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Aura BG1
     home: ""
@@ -1235,6 +1313,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Dace EET
     home: ""
@@ -1242,6 +1321,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Foundling
     home: ""
@@ -1249,6 +1329,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
   - name: Shine on Caelar
     home: ""
@@ -1256,6 +1337,7 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - npc
 
 
 pos2:
@@ -1266,6 +1348,9 @@ pos2:
     dist: shs
     desc: ""
     tags:
+      - feature
+      - required
+      - qol
 
   - name: The Darkest Day + TDDz
     home: ""
@@ -1273,6 +1358,7 @@ pos2:
     dist: xxx
     desc: ""
     tags:
+      - quest
 
   - name: SoD Banter
     home: ""
@@ -1280,6 +1366,7 @@ pos2:
     dist: xxx
     desc: ""
     tags:
+      - banter
 
   - name: Crossmod BG2
     home: https://www.gibberlings3.net/mods/npcs/crossmod/
@@ -1287,6 +1374,8 @@ pos2:
     dist: g3
     desc: ""
     tags:
+      - banter
+      - crossmod
 
 
 voice2:
@@ -1478,7 +1567,7 @@ gameplay2:
     desc: ""
     tags:
       - combat
-      - quests
+      - quest
       - kits
       - spells
 
