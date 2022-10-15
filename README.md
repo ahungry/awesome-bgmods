@@ -24,8 +24,8 @@ include links to some non-Weidu based tooling as well.
 
 <details>
 <summary>Github Pages Stuff - ignore it</summary>
-<link href="ghpages/main.css?v=8" rel="stylesheet" />
-<script src="ghpages/main.js?v=8"></script>
+<link href="ghpages/main.css?v=9" rel="stylesheet" />
+<script src="ghpages/main.js?v=9"></script>
 </details>
 
 # Sites

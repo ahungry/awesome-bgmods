@@ -87,8 +87,16 @@ function help() {
 mention him, 'dist-g3' finds mods from gibberlings3
 `)
 }
+
 function reset() {
   document.getElementById('modsearch').value = ''
+  window.history.replaceState({}, 'ignored', '#')
+
+  const els = document.querySelectorAll('.active')
+
+  for (let i = 0; i < els.length; i++) {
+    els.className = 'barbutton'
+  }
 }
 
 function appendsearch() {
