@@ -1648,14 +1648,17 @@ tactics2:
       - qol
 
   - name: Tactics Remix
-    home: https://www.gibberlings3.net/forums/topic/35950-tactics-remix/
+    home: https://www.gibberlings3.net/mods/quests/tactics-remix/
     down: ~
     dist: g3
     desc:
-      Tactics Remix adds quite a few optional, but difficult,
-      encounters to BG2:EE and EET aims to make the game more challenging and rewarding.
-      This is a remix/revitalization of the original "Tactics" mod by
-      Wes Weimer of WEIDU fame.
+      Tactics, originally from Wes Weimer and a number of other
+      authors, was a mod for the original Baldur's Gate II that added
+      a number of difficult encounters and substantially improved AI
+      for enemies. With Wes's permission morpheus562 has created
+      Tactics Remix, based the original Tactics mod, that adds quite
+      a few optional, but difficult, encounters to BG2:EE and EET
+      aimed to make the game more challenging and rewarding.
     tags:
       - combat
       - hard
@@ -1665,7 +1668,9 @@ tactics2:
     home: https://www.gibberlings3.net/mods/other/enhanced-powergaming-scripts/
     down: ~
     dist: g3
-    desc: ""
+    desc:
+      Scripts for your team that will drastically reduce monotonous
+      portions of the game.
     tags:
       - ai
       - qol

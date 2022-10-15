@@ -3382,10 +3382,10 @@ https://ahungry.github.io/awesome-bgmods/
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Tactics Remix.png" alt="pic" />
   </td>
   <td>
-    <a href="https://www.gibberlings3.net/forums/topic/35950-tactics-remix/">Tactics Remix</a>
+    <a href="https://www.gibberlings3.net/mods/quests/tactics-remix/">Tactics Remix</a>
   </td>
   <td>
-    Tactics Remix adds quite a few optional, but difficult, encounters to BG2:EE and EET aims to make the game more challenging and rewarding. This is a remix/revitalization of the original "Tactics" mod by Wes Weimer of WEIDU fame.
+    Tactics, originally from Wes Weimer and a number of other authors, was a mod for the original Baldur's Gate II that added a number of difficult encounters and substantially improved AI for enemies. With Wes's permission morpheus562 has created Tactics Remix, based the original Tactics mod, that adds quite a few optional, but difficult, encounters to BG2:EE and EET aimed to make the game more challenging and rewarding.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
@@ -3402,7 +3402,7 @@ https://ahungry.github.io/awesome-bgmods/
     <a href="https://www.gibberlings3.net/mods/other/enhanced-powergaming-scripts/">Enhanced Powergaming Scripts</a>
   </td>
   <td>
-    
+    Scripts for your team that will drastically reduce monotonous portions of the game.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
