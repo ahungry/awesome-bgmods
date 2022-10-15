@@ -95,6 +95,8 @@ characters1:
       - story
       - quest
       - npc
+      - audio
+      - pid
 
   - name: Sirene
     home: https://artisans-corner.com/sirene-npc-for-bgee-and-bgsod/
@@ -128,6 +130,8 @@ characters1:
       - story
       - quest
       - npc
+      - audio
+      - pid
 
   - name: Margarita
     home: https://forums.beamdog.com/discussion/15867/mod-npc-margarita-zelleod
@@ -1072,7 +1076,10 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - banter
       - npc
+      - audio
+      - pid
 
   - name: Isra
     home: ""
@@ -1080,7 +1087,10 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - banter
       - npc
+      - audio
+      - pid
 
   - name: Eilistraee
     home: ""
@@ -1318,7 +1328,10 @@ characters2:
     dist: xxx
     desc: ""
     tags:
+      - banter
       - npc
+      - audio
+      - pid
 
   - name: Dace EET
     home: ""
