@@ -9,6 +9,7 @@ sundry1:
       a weidu mod and more of a mandatory tool to execute.
     tags:
       - required
+      - pre:eet
 
   - name: The BG1 NPC Project
     home: https://www.gibberlings3.net/mods/npcs/bg1npc/
@@ -30,6 +31,7 @@ sundry1:
       - banter
       - story
       - quest
+      - pid
 
   - name: BG1 NPC Project Music Pack
     home: https://www.gibberlings3.net/subpages/bg1npc/bg1music/
@@ -71,7 +73,12 @@ sundry1:
     down: https://github.com/btigi/iiNoBanter/releases
     dist: igi
     desc:
-       No Banter is a small mod for Baldur's Gate 2 that disables party banter. While party banter can be immersive and revealing, it can also break immersion. How likely is it that party members would begin a banter while exploring a dark forbidding dungeon? Or while sneaking through an enemy stronghold? Or while disguised in a drow stronghold?
+       No Banter is a small mod for Baldur's Gate 2 that
+       disables party banter. While party banter can be
+       immersive and revealing, it can also break immersion.
+       How likely is it that party members would begin a banter
+       while exploring a dark forbidding dungeon? Or while sneaking
+       through an enemy stronghold? Or while disguised in a drow stronghold?
     tags:
       - qol
 
@@ -80,7 +87,9 @@ sundry1:
     down: https://github.com/btigi/iiItem/releases
     dist: igi
     desc:
-       iiItem adds several dozen new items to the Infinity Engine games, concentrating on lesser known item types (such as potions, bracers, arrows etc).
+       iiItem adds several dozen new items to the Infinity Engine
+       games, concentrating on lesser known item types (such as
+       potions, bracers, arrows etc).
     tags:
       - items
 
@@ -88,8 +97,9 @@ sundry1:
     home: https://github.com/btigi/iixando
     down: https://github.com/btigi/iixando/releases
     dist: igi
-    desc:
-       iixando is a one day total conversion for Baldur's Gate 2: Throne of Bhaal that radically changes the game.       
+    desc: |
+       iixando is a one day total conversion for Baldur's Gate 2:
+       Throne of Bhaal that radically changes the game.
     tags:
       - totalconversion
 
@@ -98,16 +108,21 @@ sundry1:
     down: https://github.com/btigi/iiSpellSystemAdjustments/releases
     dist: igi
     desc:
-       iiSpellSystemAdjustments offers a couple of tweaks to the way spells work; spellcasters can gain experience for casting spells, and spells can automatically refresh after a configurable amount of time.
+       iiSpellSystemAdjustments offers a couple of tweaks to the
+       way spells work; spellcasters can gain experience for
+       casting spells, and spells can automatically refresh
+       after a configurable amount of time.
     tags:
       - feature
-      
+
   - name: iiKeyNames
     home: https://github.com/btigi/iiKeyNames
     down: https://github.com/btigi/iiKeyNames/releases
     dist: igi
     desc:
-       iiKeyNames is a mod for Baldur's Gate 2, which alters the names of key items once they have been used, to help you organise your inventory and only carry required items around.
+       iiKeyNames is a mod for Baldur's Gate 2, which alters the
+       names of key items once they have been used, to help you
+       organise your inventory and only carry required items around.
     tags:
       - qol
 
@@ -125,7 +140,10 @@ sundry1:
     down: https://github.com/btigi/iiLearnThroughUse/releases
     dist: igi
     desc:
-       The Learn Through Use Mod attempts to add a small element of realism to Baldur's Gate II by tracking weapon proficiencies for weapon types the player is actually using, rather than as arbitrary choice at level-up.
+       The Learn Through Use Mod attempts to add a small element
+       of realism to Baldur's Gate II by tracking weapon
+       proficiencies for weapon types the player is actually
+       using, rather than as arbitrary choice at level-up.
     tags:
       - feature
 
@@ -134,7 +152,8 @@ sundry1:
     down: https://github.com/btigi/iiProjectileR/releases
     dist: igi
     desc:
-       Projectile Retrieval is a mod for Infinity Engine games with a simple aim - to allow the player to retrieve projectiles after using them.
+       Projectile Retrieval is a mod for Infinity Engine games
+       with a simple aim - to allow the player to retrieve projectiles after using them.
     tags:
       - feature
 
@@ -149,6 +168,7 @@ quests1:
       custom npcs ranging in level from 9 to 15.  R.A. Salvatore based
       theme, up to +4 weapons can be found - about 5 hours of content.
     tags:
+      - pre:eet
       - combat
 
   - name: Dark Horizons
@@ -160,6 +180,7 @@ quests1:
       campaign.  Drops are powerful - one known issue with end of campaign
       Oversight HQ.
     tags:
+      - pre:eet
       - combat
       - story
 
@@ -169,6 +190,7 @@ quests1:
     dist: beamdog
     desc: ""
     tags:
+      - pre:eet
       - combat
 
   - name: bg1ub - Unfinished Business
@@ -178,6 +200,7 @@ quests1:
     desc:
       Lots of fun little quests (some part of original BG1 but cut for reasons).
     tags:
+      - pre:eet
       - story
 
 characters1:
@@ -188,6 +211,7 @@ characters1:
     dist: bgw
     desc: Adventures of Garrick - hear some more banter as well.
     tags:
+      - pre:eet
       - banter
       - story
       - quest
@@ -199,6 +223,7 @@ characters1:
     dist: artisans
     desc: Cleric NPC
     tags:
+      - pre:eet
       - banter
       - story
       - quest
@@ -212,6 +237,7 @@ characters1:
     dist: artisans
     desc: Paladin NPC
     tags:
+      - pre:eet
       - banter
       - story
       - quest
@@ -223,6 +249,7 @@ characters1:
     dist: weaselmods
     desc: Barbarian NPC
     tags:
+      - pre:eet
       - banter
       - story
       - quest
@@ -234,6 +261,7 @@ characters1:
     dist: weaselmods
     desc: Rakshasa NPC
     tags:
+      - pre:eet
       - banter
       - story
       - quest
@@ -247,6 +275,7 @@ characters1:
     dist: beamdog
     desc: Halfling fighter NPC
     tags:
+      - pre:eet
       - npc
 
   - name: Ajantis BG Expansion
@@ -342,6 +371,8 @@ characters1:
       friendship track themes.
     tags:
       - npc
+      - pid
+      - audio
 
   - name: Calin
     home: https://www.gibberlings3.net/mods/npcs/calin/
@@ -655,6 +686,7 @@ gameplay1:
       This adds a lot of spells, however (for me) it blocked EET
       from installing with an invalid spell id -1 error.
     tags:
+      - pre:eet
       - spells
 
 sundry2:
