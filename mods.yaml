@@ -77,21 +77,21 @@ characters1:
   - name: Garrick Tales of a Troubador
     home: https://mirandir.baldursgateworld.fr/garrick-tt/
     down: ~
-    dist: xxx
-    desc: ""
+    dist: bgw
+    desc: Adventures of Garrick - hear some more banter as well.
     tags:
 
   - name: Drake
     home: https://artisans-corner.com/drake-npc-for-bgee/
     down: ~
-    dist: xxx
+    dist: artisans
     desc: ""
     tags:
 
   - name: Sirene
     home: https://artisans-corner.com/sirene-npc-for-bgee-and-bgsod/
     down: ~
-    dist: xxx
+    dist: artisans
     desc: ""
     tags:
 
@@ -130,7 +130,7 @@ sundry2:
   - name: EET
     home: https://github.com/Gibberlings3/EET
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
@@ -165,7 +165,7 @@ sundry2:
   - name: Lore from Learning
     home: https://www.gibberlings3.net/mods/tweaks/lore/
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
@@ -193,7 +193,7 @@ sundry2:
   - name: IWDification
     home: https://www.gibberlings3.net/mods/spells/iwdification/
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
@@ -303,7 +303,7 @@ items2:
   - name: SoD to BG2EE Item Upgrades
     home: https://github.com/Gibberlings3/SoD-to-BG2EE-Item-Upgrade/releases
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
@@ -334,14 +334,14 @@ quests2:
   - name: Romantic Encounters (BG2)
     home: https://www.gibberlings3.net/files/file/931-romantic-encounters-bg2/
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
   - name: Romantic Encounters (BG)
     home: https://www.gibberlings3.net/mods/npcs/bg-romantic-encounters/
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
@@ -355,14 +355,14 @@ quests2:
   - name: BG2 Fix Pack
     home: https://www.gibberlings3.net/files/file/696-bg2-fixpack/
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
   - name: BGQE (BG Quests and Encounters)
     home: https://github.com/Gibberlings3/BG_Quests_And_Encounters/releases
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
@@ -376,35 +376,35 @@ quests2:
   - name: Imoen Forever
     home: https://www.gibberlings3.net/files/file/1013-imoen-4-ever/
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
   - name: Endless BG1
     home: https://www.gibberlings3.net/files/file/1019-endless-bg1/
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
   - name: Transitions
     home: https://www.gibberlings3.net/files/file/1021-transitions/
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
   - name: Another Fine Hell
     home: https://www.gibberlings3.net/files/file/1034-another-fine-hell/
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
   - name: The Boareskyr Bridge Scene
     home: https://www.gibberlings3.net/files/file/1033-the-boareskyr-bridge-scene/
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
@@ -614,14 +614,14 @@ quests2:
   - name: Every Mod and Dog
     home: https://www.gibberlings3.net/files/file/707-every-mod-and-dog/
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
   - name: Gibberlings3 Anniversary
     home: https://www.gibberlings3.net/files/file/932-gibberlings-three-anniversary-mod/
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
@@ -635,7 +635,7 @@ quests2:
   - name: Alternatives
     home: https://www.gibberlings3.net/files/file/682-alternatives/
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
@@ -649,14 +649,14 @@ quests2:
   - name: "Balduran's Seatower"
     home: https://github.com/Gibberlings3/BS_Baldurans_Seatower/releases
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
   - name: Cowled Menace
     home: https://www.gibberlings3.net/mods/quests/the-cowled-menace/
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
@@ -670,7 +670,7 @@ quests2:
   - name: Dungeon Crawl
     home: https://www.gibberlings3.net/forums/topic/30155-ppg-dungeon-crawl-v11-with-eet-compatibility-and-minor-fixes/
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
@@ -750,7 +750,7 @@ characters2:
   - name: Kivan and Deheriana
     home: https://github.com/Gibberlings3/Kivan_and_Deheriana/releases
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
@@ -1215,7 +1215,7 @@ pos2:
   - name: Crossmod BG2
     home: https://www.gibberlings3.net/mods/npcs/crossmod/
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
@@ -1312,7 +1312,7 @@ gameplay2:
   - name: Item Revisions
     home: https://github.com/Gibberlings3/ItemRevisions/releases
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
@@ -1326,14 +1326,14 @@ gameplay2:
   - name: Forgotten Armament
     home: https://github.com/Gibberlings3/Forgotten-Armament/releases/tag/1.0
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
   - name: Spell Revisions
     home: https://github.com/Gibberlings3/SpellRevisions/releases
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
@@ -1354,35 +1354,35 @@ gameplay2:
   - name: Artisans Kitpack
     home: https://artisans-corner.com/the-artisans-kitpack/
     down: ~
-    dist: xxx
+    dist: artisans
     desc: ""
     tags:
 
   - name: Warlock
     home: https://github.com/ArtemiusI/Warlock/releases
     down: ~
-    dist: xxx
+    dist: artisans
     desc: ""
     tags:
 
   - name: Bardic Wonders
     home: https://github.com/ArtemiusI/Bardic-Wonders/releases
     down: ~
-    dist: xxx
+    dist: artisans
     desc: ""
     tags:
 
   - name: Shadow Adept
     home: https://github.com/ArtemiusI/Shadow-Magic/releases
     down: ~
-    dist: xxx
+    dist: artisans
     desc: ""
     tags:
 
   - name: Divine Remix
     home: https://github.com/Gibberlings3/Divine_Remix/releases
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
@@ -1429,7 +1429,7 @@ tactics2:
   - name: Sword Coast Stratagems
     home: https://www.gibberlings3.net/mods/tweaks/scs/
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
@@ -1446,7 +1446,7 @@ tweaks2:
   - name: Tweaks Anthology (cdtweaks)
     home: https://github.com/Gibberlings3/Tweaks-Anthology/releases
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
@@ -1523,7 +1523,7 @@ tweaks2:
   - name: Ahungry Tweaks
     home: https://github.com/ahungry/ahungry_tweaks
     down: ~
-    dist: xxx
+    dist: ahungry
     desc: ""
     tags:
 
@@ -1540,7 +1540,7 @@ end2:
   - name: Level One NPCs
     home: https://www.gibberlings3.net/mods/tweaks/levelonenpcs/
     down: ~
-    dist: xxx
+    dist: g3
     desc: ""
     tags:
 
@@ -1561,6 +1561,6 @@ end2:
   - name: Ahungry Deletefier
     home: https://github.com/ahungry/ahungry_deletefier
     down: ~
-    dist: xxx
+    dist: ahungry
     desc: ""
     tags:
