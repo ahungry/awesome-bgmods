@@ -69,14 +69,16 @@ function snagtags(){
     }
   }
   Object.keys(m).sort().forEach(k => {
-    if (/^tag/.test(k))
+    if (/^tag-.+/.test(k))
       tagbar.append(m[k])
 
+    if (/^dist-.+/.test(k))
+      distbar.append(m[k])
+  })
+
+  Object.keys(m).forEach(k => {
     if (/^type/.test(k))
       typebar.append(m[k])
-
-    if (/^dist/.test(k))
-      distbar.append(m[k])
   })
 }
 
@@ -95,9 +97,9 @@ function appendsearch() {
 <input type="text" id="modsearch" />
 <button class="reset" onclick='reset()'>reset</button>
 <button class="help" onclick='help()'>help</button>
-<h5>tags (any max)</h5>
+<h5>tags (AND condition/narrows results)</h5>
 <div class="tags overflower"></div>
-<h5>mod type (1 max)</h5>
+<h5>mod type for install order (1 max)</h5>
 <div class="types overflower"></div>
 <h5>mod distributor (1 max)</h5>
 <div class="dists overflower"></div>

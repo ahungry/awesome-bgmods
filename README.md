@@ -24,8 +24,8 @@ include links to some non-Weidu based tooling as well.
 
 <details>
 <summary>Github Pages Stuff - ignore it</summary>
-<link href="ghpages/main.css?v=7" rel="stylesheet" />
-<script src="ghpages/main.js?v=7"></script>
+<link href="ghpages/main.css?v=8" rel="stylesheet" />
+<script src="ghpages/main.js?v=8"></script>
 </details>
 
 # Sites
@@ -102,7 +102,7 @@ the EET portion (type-:sundry2).
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:sundry1-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-required-2564f0?style=plastic" alt="required"/>
+    <img src="https://img.shields.io/badge/tag-required-2d64c8?style=plastic" alt="required"/>
   </td>
 </tr>
  
@@ -136,7 +136,7 @@ the EET portion (type-:sundry2).
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:sundry1-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-audio-5914e1?style=plastic" alt="audio"/>
+    <img src="https://img.shields.io/badge/tag-audio-3c1428?style=plastic" alt="audio"/>
   </td>
 </tr>
  
@@ -154,7 +154,7 @@ the EET portion (type-:sundry2).
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests1-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-combat-ac78ab?style=plastic" alt="combat"/>
+    <img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/>
   </td>
 </tr>
  
@@ -171,7 +171,7 @@ the EET portion (type-:sundry2).
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests1-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-combat-ac78ab?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-story-5443c3?style=plastic" alt="story"/>
+    <img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/>
   </td>
 </tr>
  
@@ -188,7 +188,7 @@ the EET portion (type-:sundry2).
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests1-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-combat-ac78ab?style=plastic" alt="combat"/>
+    <img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/>
   </td>
 </tr>
  
@@ -205,7 +205,7 @@ the EET portion (type-:sundry2).
   <td>
     <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:quests1-teal?style=plastic" alt="dist" />
-    <img src="https://img.shields.io/badge/tag-story-5443c3?style=plastic" alt="story"/>
+    <img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/>
   </td>
 </tr>
  
@@ -223,7 +223,7 @@ the EET portion (type-:sundry2).
   <td>
     <img src="https://img.shields.io/badge/dist-bgw-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:characters1-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quests-f6a74f?style=plastic" alt="quests"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -235,12 +235,12 @@ the EET portion (type-:sundry2).
     <a href="https://artisans-corner.com/drake-npc-for-bgee/">Drake</a>
   </td>
   <td>
-    
+    Cleric NPC
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-artisans-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:characters1-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quests-f6a74f?style=plastic" alt="quests"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -252,12 +252,12 @@ the EET portion (type-:sundry2).
     <a href="https://artisans-corner.com/sirene-npc-for-bgee-and-bgsod/">Sirene</a>
   </td>
   <td>
-    
+    Paladin NPC
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-artisans-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:characters1-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quests-f6a74f?style=plastic" alt="quests"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -269,12 +269,12 @@ the EET portion (type-:sundry2).
     <a href="https://downloads.weaselmods.net/download/white-npc/">White</a>
   </td>
   <td>
-    
+    Barbarian NPC
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:characters1-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quests-f6a74f?style=plastic" alt="quests"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -286,12 +286,12 @@ the EET portion (type-:sundry2).
     <a href="https://downloads.weaselmods.net/download/verrsza-bg1ee/">Verrsza</a>
   </td>
   <td>
-    
+    Rakshasa NPC
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-weaselmods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:characters1-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-banter-7b7efc?style=plastic" alt="banter"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quests-f6a74f?style=plastic" alt="quests"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -303,12 +303,12 @@ the EET portion (type-:sundry2).
     <a href="https://forums.beamdog.com/discussion/15867/mod-npc-margarita-zelleod">Margarita</a>
   </td>
   <td>
-    
+    Halfling fighter NPC
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:characters1-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -321,12 +321,12 @@ the EET portion (type-:sundry2).
     <a href="https://forums.beamdog.com/discussion/23861/bg-ee-mod-saradas-magic-released-v-1-1">Saradas Magic</a>
   </td>
   <td>
-    
+    This adds a lot of spells, however (for me) it blocked EET from installing with an invalid spell id -1 error.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:gameplay1-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-spells-c0952b?style=plastic" alt="spells"/>
   </td>
 </tr>
  
@@ -344,7 +344,7 @@ the EET portion (type-:sundry2).
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:sundry2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-util-3fbf7f?style=plastic" alt="util"/>
   </td>
 </tr>
  
@@ -361,7 +361,7 @@ the EET portion (type-:sundry2).
   <td>
     <img src="https://img.shields.io/badge/dist-infinitymods-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:sundry2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-quests-f6a74f?style=plastic" alt="quests"/>
   </td>
 </tr>
  
@@ -378,7 +378,7 @@ the EET portion (type-:sundry2).
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:sundry2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-story-c94386?style=plastic" alt="story"/><img src="https://img.shields.io/badge/tag-npc-c64284?style=plastic" alt="npc"/>
   </td>
 </tr>
  
@@ -390,12 +390,12 @@ the EET portion (type-:sundry2).
     <a href="https://github.com/UnearthedArcana/BP_in_BG/releases/tag/0.6.1">BlackPits in BG</a>
   </td>
   <td>
-    
+    Alpha quality but works - at the moment for some users, their team cannot fall below 1 HP, requiring the user to force their own game over/failures if desired.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-unearthedarcana-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:sundry2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-combat-6978f0?style=plastic" alt="combat"/><img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
  
@@ -407,12 +407,12 @@ the EET portion (type-:sundry2).
     <a href="http://www.spellholdstudios.net/ie/rr">Rogue Revisions</a>
   </td>
   <td>
-    
+    Rebalances some aspects of rogue/thief play.  One great update is changing how an entire town will attack on pick pocket failure, to instead give the player RP based ways to avoid it.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:sundry2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-balance-5ac891?style=plastic" alt="balance"/><img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
  
@@ -424,12 +424,12 @@ the EET portion (type-:sundry2).
     <a href="https://www.gibberlings3.net/mods/tweaks/lore/">Lore from Learning</a>
   </td>
   <td>
-    
+    Gain lore throughout various game activities (read your books)
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:sundry2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/>
   </td>
 </tr>
  
@@ -441,12 +441,12 @@ the EET portion (type-:sundry2).
     <a href="https://forums.beamdog.com/discussion/comment/1174034#Comment_1174034">Bubb Remove Stoneskin color</a>
   </td>
   <td>
-    
+    Enjoy your fancy colored wizard robes!
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-bubb-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:sundry2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
  
@@ -458,12 +458,12 @@ the EET portion (type-:sundry2).
     <a href="https://github.com/Argent77/A7-Achievements/releases">A7 Achievements</a>
   </td>
   <td>
-    
+    Steam overlay achievements, without needing the overlay.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-argent77-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:sundry2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/>
   </td>
 </tr>
  
@@ -475,12 +475,12 @@ the EET portion (type-:sundry2).
     <a href="https://github.com/Argent77/A7-SkipChateauIrenicus/releases/tag/v3.2">Skip Chateau Irenicus</a>
   </td>
   <td>
-    
+    Read the name - self explanatory :)
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-argent77-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:sundry2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
  
@@ -492,12 +492,12 @@ the EET portion (type-:sundry2).
     <a href="https://www.gibberlings3.net/mods/spells/iwdification/">IWDification</a>
   </td>
   <td>
-    
+    Adds Icewind Dale spells/graphics/items into the game.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:sundry2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-spells-c0952b?style=plastic" alt="spells"/><img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
  
@@ -510,12 +510,12 @@ the EET portion (type-:sundry2).
     <a href="https://github.com/tipun81/tipun_gui_mod/releases">Tipun GUI</a>
   </td>
   <td>
-    
+    Very unique looking GUI - resembles SOD color scheme.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-tipun-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:ui2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-gui-d2468c?style=plastic" alt="gui"/>
   </td>
 </tr>
  
@@ -527,12 +527,12 @@ the EET portion (type-:sundry2).
     <a href="https://github.com/r-e-d/LeUI/releases">LeUI</a>
   </td>
   <td>
-    
+    Clean and crisp GUI - resembles BG2 UI color scheme.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-lefreut-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:ui2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-gui-d2468c?style=plastic" alt="gui"/>
   </td>
 </tr>
  
@@ -544,12 +544,12 @@ the EET portion (type-:sundry2).
     <a href="https://github.com/r-e-d/EEUITweaks/releases/tag/v4.0.1">EEUITweaks</a>
   </td>
   <td>
-    
+    Adds general UI enhancements, including an auto-roller!
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-lefreut-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:ui2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-gui-d2468c?style=plastic" alt="gui"/><img src="https://img.shields.io/badge/tag-feature-cceedd?style=plastic" alt="feature"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
  
@@ -561,12 +561,12 @@ the EET portion (type-:sundry2).
     <a href="https://github.com/Argent77/A7-recoloredbuttons/releases">Recolored Buttons</a>
   </td>
   <td>
-    
+    Makes some buttons easier to see.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-argent77-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:ui2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-gui-d2468c?style=plastic" alt="gui"/><img src="https://img.shields.io/badge/tag-qol-e74d9a?style=plastic" alt="qol"/>
   </td>
 </tr>
  
@@ -584,7 +584,7 @@ the EET portion (type-:sundry2).
   <td>
     <img src="https://img.shields.io/badge/dist-teambg-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
  
@@ -596,12 +596,12 @@ the EET portion (type-:sundry2).
     <a href="https://github.com/CrevsDaak/thalan/releases">Thalantyr Item Upgrades</a>
   </td>
   <td>
-    
+    Everyone's favorite BG1 wizard is ready to make some goodies.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-crevsdaak-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/><img src="https://img.shields.io/badge/tag-item:upgrades-db4992?style=plastic" alt="item:upgrades"/>
   </td>
 </tr>
  
@@ -618,7 +618,7 @@ the EET portion (type-:sundry2).
   <td>
     <img src="https://img.shields.io/badge/dist-sorcerers-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
  
@@ -635,7 +635,7 @@ the EET portion (type-:sundry2).
   <td>
     <img src="https://img.shields.io/badge/dist-alexander12-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
  
@@ -652,7 +652,7 @@ the EET portion (type-:sundry2).
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
  
@@ -669,7 +669,7 @@ the EET portion (type-:sundry2).
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
  
@@ -686,7 +686,7 @@ the EET portion (type-:sundry2).
   <td>
     <img src="https://img.shields.io/badge/dist-beamdog-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
  
@@ -703,7 +703,7 @@ the EET portion (type-:sundry2).
   <td>
     <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-item:upgrades-db4992?style=plastic" alt="item:upgrades"/>
   </td>
 </tr>
  
@@ -720,7 +720,7 @@ the EET portion (type-:sundry2).
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/><img src="https://img.shields.io/badge/tag-item:upgrades-db4992?style=plastic" alt="item:upgrades"/>
   </td>
 </tr>
  
@@ -737,7 +737,7 @@ the EET portion (type-:sundry2).
   <td>
     <img src="https://img.shields.io/badge/dist-shs-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/><img src="https://img.shields.io/badge/tag-item:upgrades-db4992?style=plastic" alt="item:upgrades"/>
   </td>
 </tr>
  
@@ -754,7 +754,7 @@ the EET portion (type-:sundry2).
   <td>
     <img src="https://img.shields.io/badge/dist-g3-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/><img src="https://img.shields.io/badge/tag-item:upgrades-db4992?style=plastic" alt="item:upgrades"/>
   </td>
 </tr>
  
@@ -771,7 +771,7 @@ the EET portion (type-:sundry2).
   <td>
     <img src="https://img.shields.io/badge/dist-ppg-purple?style=plastic" alt="dist" />
     <img src="https://img.shields.io/badge/type-:items2-teal?style=plastic" alt="dist" />
-    
+    <img src="https://img.shields.io/badge/tag-items-6c2448?style=plastic" alt="items"/>
   </td>
 </tr>
  

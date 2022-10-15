@@ -80,41 +80,62 @@ characters1:
     dist: bgw
     desc: Adventures of Garrick - hear some more banter as well.
     tags:
+      - banter
+      - story
+      - quests
+      - npc
 
   - name: Drake
     home: https://artisans-corner.com/drake-npc-for-bgee/
     down: ~
     dist: artisans
-    desc: ""
+    desc: Cleric NPC
     tags:
+      - banter
+      - story
+      - quests
+      - npc
 
   - name: Sirene
     home: https://artisans-corner.com/sirene-npc-for-bgee-and-bgsod/
     down: ~
     dist: artisans
-    desc: ""
+    desc: Paladin NPC
     tags:
+      - banter
+      - story
+      - quests
+      - npc
 
   - name: White
     home: https://downloads.weaselmods.net/download/white-npc/
     down: ~
     dist: weaselmods
-    desc: ""
+    desc: Barbarian NPC
     tags:
+      - banter
+      - story
+      - quests
+      - npc
 
   - name: Verrsza
     home: https://downloads.weaselmods.net/download/verrsza-bg1ee/
     down: ~
     dist: weaselmods
-    desc: ""
+    desc: Rakshasa NPC
     tags:
+      - banter
+      - story
+      - quests
+      - npc
 
   - name: Margarita
     home: https://forums.beamdog.com/discussion/15867/mod-npc-margarita-zelleod
     down: ~
     dist: beamdog
-    desc: ""
+    desc: Halfling fighter NPC
     tags:
+      - npc
 
 gameplay1:
 
@@ -122,8 +143,11 @@ gameplay1:
     home: https://forums.beamdog.com/discussion/23861/bg-ee-mod-saradas-magic-released-v-1-1
     down: ~
     dist: beamdog
-    desc: ""
+    desc:
+      This adds a lot of spells, however (for me) it blocked EET
+      from installing with an invalid spell id -1 error.
     tags:
+      - spells
 
 sundry2:
 
@@ -133,6 +157,7 @@ sundry2:
     dist: g3
     desc: ""
     tags:
+      - util
 
   - name: Ascension
     home: https://github.com/InfinityMods/Ascension/releases
@@ -140,6 +165,9 @@ sundry2:
     dist: infinitymods
     desc: ""
     tags:
+      - combat
+      - story
+      - quests
 
   - name: Longer Road
     home: https://forums.beamdog.com/discussion/37579/longer-road-working-in-bg2ee
@@ -147,55 +175,73 @@ sundry2:
     dist: beamdog
     desc: ""
     tags:
+      - story
+      - npc
 
   - name: BlackPits in BG
     home: https://github.com/UnearthedArcana/BP_in_BG/releases/tag/0.6.1
     down: ~
     dist: unearthedarcana
-    desc: ""
+    desc:
+      Alpha quality but works - at the moment for some users, their team
+      cannot fall below 1 HP, requiring the user to force their own game
+      over/failures if desired.
     tags:
+      - combat
+      - items
 
   - name: Rogue Revisions
     home: http://www.spellholdstudios.net/ie/rr
     down: ~
     dist: shs
-    desc: ""
+    desc:
+      Rebalances some aspects of rogue/thief play.  One great update
+      is changing how an entire town will attack on pick pocket failure,
+      to instead give the player RP based ways to avoid it.
     tags:
+      - balance
+      - items
 
   - name: Lore from Learning
     home: https://www.gibberlings3.net/mods/tweaks/lore/
     down: ~
     dist: g3
-    desc: ""
+    desc: Gain lore throughout various game activities (read your books)
     tags:
+      - feature
 
   - name: Bubb Remove Stoneskin color
     home: https://forums.beamdog.com/discussion/comment/1174034#Comment_1174034
     down: ~
     dist: bubb
-    desc: ""
+    desc: Enjoy your fancy colored wizard robes!
     tags:
+      - qol
 
   - name: A7 Achievements
     home: https://github.com/Argent77/A7-Achievements/releases
     down: ~
     dist: argent77
-    desc: ""
+    desc: Steam overlay achievements, without needing the overlay.
     tags:
+      - feature
 
   - name: Skip Chateau Irenicus
     home: https://github.com/Argent77/A7-SkipChateauIrenicus/releases/tag/v3.2
     down: ~
     dist: argent77
-    desc: ""
+    desc: Read the name - self explanatory :)
     tags:
+      - qol
 
   - name: IWDification
     home: https://www.gibberlings3.net/mods/spells/iwdification/
     down: ~
     dist: g3
-    desc: ""
+    desc: Adds Icewind Dale spells/graphics/items into the game.
     tags:
+      - spells
+      - items
 
 ui2:
 
@@ -203,29 +249,36 @@ ui2:
     home: https://github.com/tipun81/tipun_gui_mod/releases
     down: ~
     dist: tipun
-    desc: ""
+    desc: Very unique looking GUI - resembles SOD color scheme.
     tags:
+      - gui
 
   - name: LeUI
     home: https://github.com/r-e-d/LeUI/releases
     down: ~
     dist: lefreut
-    desc: ""
+    desc: Clean and crisp GUI - resembles BG2 UI color scheme.
     tags:
+      - gui
 
   - name: EEUITweaks
     home: https://github.com/r-e-d/EEUITweaks/releases/tag/v4.0.1
     down: ~
     dist: lefreut
-    desc: ""
+    desc: Adds general UI enhancements, including an auto-roller!
     tags:
+      - gui
+      - feature
+      - qol
 
   - name: Recolored Buttons
     home: https://github.com/Argent77/A7-recoloredbuttons/releases
     down: ~
     dist: argent77
-    desc: ""
+    desc: Makes some buttons easier to see.
     tags:
+      - gui
+      - qol
 
 
 items2:
@@ -236,13 +289,16 @@ items2:
     dist: teambg
     desc: ""
     tags:
+      - items
 
   - name: Thalantyr Item Upgrades
     home: https://github.com/CrevsDaak/thalan/releases
     down: ~
     dist: crevsdaak
-    desc: ""
+    desc: Everyone's favorite BG1 wizard is ready to make some goodies.
     tags:
+      - items
+      - item:upgrades
 
   - name: "Boards O' Magick Item Pack"
     home: https://sorcerers.net/community/resources/boards-o-magick-item-pack.85/
@@ -250,6 +306,7 @@ items2:
     dist: sorcerers
     desc: ""
     tags:
+      - items
 
   - name: Arcane Treasure
     home: https://github.com/Alexander12-creator/Arcane-Treasury-mod
@@ -257,6 +314,7 @@ items2:
     dist: alexander12
     desc: ""
     tags:
+      - items
 
   - name: The Sword of Noober
     home: https://github.com/SpellholdStudios/TheSwordofNoober/releases
@@ -264,6 +322,7 @@ items2:
     dist: shs
     desc: ""
     tags:
+      - items
 
   - name: Unofficial Item Pack
     home: https://forums.beamdog.com/discussion/56567/mod-bgii-ee-unofficial-item-pack
@@ -271,6 +330,7 @@ items2:
     dist: beamdog
     desc: ""
     tags:
+      - items
 
   - name: Freedoms Reign of Virtue
     home: https://forums.beamdog.com/discussion/34075/freedoms-reign-reign-of-virtue-now-enhanced
@@ -278,6 +338,7 @@ items2:
     dist: beamdog
     desc: ""
     tags:
+      - items
 
   - name: Pocket Plane Group Item Upgrades
     home: https://github.com/Pocket-Plane-Group/Item_Upgrade/releases
@@ -285,6 +346,7 @@ items2:
     dist: ppg
     desc: ""
     tags:
+      - item:upgrades
 
   - name: Rolles Safyer
     home: https://github.com/SpellholdStudios/Rolles/releases
@@ -292,6 +354,8 @@ items2:
     dist: shs
     desc: ""
     tags:
+      - items
+      - item:upgrades
 
   - name: Ruad
     home: https://github.com/SpellholdStudios/RuadRofhessaItemUpgrade/releases
@@ -299,6 +363,8 @@ items2:
     dist: shs
     desc: ""
     tags:
+      - items
+      - item:upgrades
 
   - name: SoD to BG2EE Item Upgrades
     home: https://github.com/Gibberlings3/SoD-to-BG2EE-Item-Upgrade/releases
@@ -306,6 +372,8 @@ items2:
     dist: g3
     desc: ""
     tags:
+      - items
+      - item:upgrades
 
   - name: Under Represented Items
     home: https://github.com/Pocket-Plane-Group/Under-Respresented_Items/releases
@@ -313,6 +381,7 @@ items2:
     dist: ppg
     desc: ""
     tags:
+      - items
 
 
 quests2:

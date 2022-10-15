@@ -11,9 +11,9 @@
       yaml/parse-string))
 
 (defn get-color [tag]
-  (let [red (mod (reduce + (map #(* % % ) (map int tag))) 255)
+  (let [red (mod (reduce + (map #(* % 3 ) (map int tag))) 255)
         green (mod (reduce + (map int tag)) 255)
-        blue (mod (reduce * (map int tag)) 255)]
+        blue (mod (reduce + (map #(* % 2) (map int tag))) 255)]
     (format "%x%x%x" red green blue)))
 
 (defn tags->md [tags]
