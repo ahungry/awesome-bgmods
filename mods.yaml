@@ -65,6 +65,79 @@ sundry1:
     tags:
       - audio
 
+
+  - name: iiNoBanter
+    home: https://github.com/btigi/iiNoBanter
+    down: https://github.com/btigi/iiNoBanter/releases
+    dist: igi
+    desc:
+       No Banter is a small mod for Baldur's Gate 2 that disables party banter. While party banter can be immersive and revealing, it can also break immersion. How likely is it that party members would begin a banter while exploring a dark forbidding dungeon? Or while sneaking through an enemy stronghold? Or while disguised in a drow stronghold?
+    tags:
+      - qol
+
+  - name: iiItem
+    home: https://github.com/btigi/iiItem
+    down: https://github.com/btigi/iiItem/releases
+    dist: igi
+    desc:
+       iiItem adds several dozen new items to the Infinity Engine games, concentrating on lesser known item types (such as potions, bracers, arrows etc).
+    tags:
+      - items
+
+  - name: iixando
+    home: https://github.com/btigi/iixando
+    down: https://github.com/btigi/iixando/releases
+    dist: igi
+    desc:
+       iixando is a one day total conversion for Baldur's Gate 2: Throne of Bhaal that radically changes the game.       
+    tags:
+      - totalconversion
+
+  - name: iiSpellSystemAdjustments
+    home: https://github.com/btigi/iiSpellSystemAdjustments
+    down: https://github.com/btigi/iiSpellSystemAdjustments/releases
+    dist: igi
+    desc:
+       iiSpellSystemAdjustments offers a couple of tweaks to the way spells work; spellcasters can gain experience for casting spells, and spells can automatically refresh after a configurable amount of time.
+    tags:
+      - feature
+      
+  - name: iiKeyNames
+    home: https://github.com/btigi/iiKeyNames
+    down: https://github.com/btigi/iiKeyNames/releases
+    dist: igi
+    desc:
+       iiKeyNames is a mod for Baldur's Gate 2, which alters the names of key items once they have been used, to help you organise your inventory and only carry required items around.
+    tags:
+      - qol
+
+  - name: iiTweak
+    home: https://github.com/btigi/iiTweak
+    down: https://github.com/btigi/iiTweak/releases
+    dist: igi
+    desc:
+       iiTweak contains several tweaks and convenience alterations for the Infinity Engine series of games.
+    tags:
+      - tweaks
+
+  - name: iiLearnThroughUse
+    home: https://github.com/btigi/iiLearnThroughUse
+    down: https://github.com/btigi/iiLearnThroughUse/releases
+    dist: igi
+    desc:
+       The Learn Through Use Mod attempts to add a small element of realism to Baldur's Gate II by tracking weapon proficiencies for weapon types the player is actually using, rather than as arbitrary choice at level-up.
+    tags:
+      - feature
+
+  - name: iiProjectileR
+    home: https://github.com/btigi/iiProjectileR
+    down: https://github.com/btigi/iiProjectileR/releases
+    dist: igi
+    desc:
+       Projectile Retrieval is a mod for Infinity Engine games with a simple aim - to allow the player to retrieve projectiles after using them.
+    tags:
+      - feature
+
 quests1:
 
   - name: Drizzt Saga
