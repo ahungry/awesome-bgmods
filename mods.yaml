@@ -10,8 +10,8 @@ mods:
     tags:
       - required
       - pre:eet
-      - bg1
-      - sod
+      - c:bg1
+      - c:sod
 
   - name: The BG1 NPC Project
     home: https://www.gibberlings3.net/mods/npcs/bg1npc/
@@ -34,7 +34,7 @@ mods:
       - story
       - quest
       - pid
-      - bg1
+      - c:bg1
 
   - name: BG1 NPC Project Music Pack
     home: https://www.gibberlings3.net/subpages/bg1npc/bg1music/
@@ -48,7 +48,7 @@ mods:
       and BG:EE.
     tags:
       - audio
-      - bg1
+      - c:bg1
 
   - name: Auren Aseph Original Soundtrack
     home: https://www.gibberlings3.net/mods/npcs/auren/
@@ -85,7 +85,7 @@ mods:
        through an enemy stronghold? Or while disguised in a drow stronghold?
     tags:
       - qol
-      - bg2
+      - c:bg2
 
   - name: iiItem
     home: https://github.com/btigi/iiItem
@@ -130,7 +130,7 @@ mods:
        organise your inventory and only carry required items around.
     tags:
       - qol
-      - bg2
+      - c:bg2
 
   - name: iiTweak
     home: https://github.com/btigi/iiTweak
@@ -153,7 +153,7 @@ mods:
        using, rather than as arbitrary choice at level-up.
     tags:
       - feature
-      - bg2
+      - c:bg2
 
   - name: iiProjectileR
     home: https://github.com/btigi/iiProjectileR
@@ -177,7 +177,7 @@ mods:
     tags:
       - pre:eet
       - combat
-      - bg1
+      - c:bg1
 
   - name: Dark Horizons
     home: https://forums.beamdog.com/discussion/18833/bg-ee-dark-horizons-released
@@ -191,7 +191,7 @@ mods:
       - pre:eet
       - combat
       - story
-      - bg1
+      - c:bg1
 
   - name: The Stone of Askavar
     home: https://forums.beamdog.com/discussion/42168/mod-the-stone-of-askavar-for-totsc-tutu-bgt-and-bg-ee
@@ -201,7 +201,7 @@ mods:
     tags:
       - pre:eet
       - combat
-      - bg1
+      - c:bg1
 
   - name: bg1ub - Unfinished Business
     home: https://github.com/Pocket-Plane-Group/bg1ub/releases
@@ -212,7 +212,7 @@ mods:
     tags:
       - pre:eet
       - story
-      - bg1
+      - c:bg1
 
   - name: Garrick Tales of a Troubador
     home: https://mirandir.baldursgateworld.fr/garrick-tt/
@@ -225,7 +225,7 @@ mods:
       - story
       - quest
       - npc
-      - bg1
+      - c:bg1
 
   - name: Drake
     home: https://artisans-corner.com/drake-npc-for-bgee/
@@ -240,7 +240,7 @@ mods:
       - npc
       - audio
       - pid
-      - bg1
+      - c:bg1
 
   - name: Sirene
     home: https://artisans-corner.com/sirene-npc-for-bgee-and-bgsod/
@@ -248,7 +248,7 @@ mods:
     dist: artisans
     desc: Paladin NPC
     tags:
-      - bg1
+      - c:bg1
       - pre:eet
       - banter
       - story
@@ -274,7 +274,7 @@ mods:
     desc: Rakshasa NPC
     tags:
       - pre:eet
-      - bg1
+      - c:bg1
       - banter
       - story
       - quest
@@ -288,7 +288,7 @@ mods:
     dist: beamdog
     desc: Halfling fighter NPC
     tags:
-      - bg1
+      - c:bg1
       - pre:eet
       - npc
 
@@ -384,8 +384,8 @@ mods:
       with a Bioware NPC, player-initiated dialogues, and custom
       friendship track themes.
     tags:
-      - bg2
-      - tob
+      - c:bg2
+      - c:tob
       - npc
       - pid
       - audio
@@ -441,7 +441,7 @@ mods:
       a hub for crossmod of future mods for IWD:EE.
     tags:
       - npc
-      - iwd
+      - c:iwd
 
   - name: Crossmod Banter Pack for BG2
     home: https://www.gibberlings3.net/mods/npcs/crossmod/
@@ -453,7 +453,7 @@ mods:
       Shadows of Amn and Throne of Bhaal.
     tags:
       - npc
-      - bg2
+      - c:bg2
 
   - name: Evandra
     home: https://www.gibberlings3.net/mods/npcs/evandra/
@@ -483,7 +483,7 @@ mods:
       compatible with the BG1 NPC Project, though the latter is
       not required.
     tags:
-      - bg1
+      - c:bg1
       - npc
 
   - name: Gavin NPC for BG
@@ -496,7 +496,7 @@ mods:
       found outside the Song of the Morning Temple, near
       Beregost.
     tags:
-      - bg1
+      - c:bg1
       - npc
       - banter
       - audio
@@ -512,7 +512,7 @@ mods:
       Morninglord of Lathander and can be found in the Temple of
       Ilmater on the roof of the Copper Coronet in the Slums.
     tags:
-      - bg2
+      - c:bg2
       - npc
       - banter
       - audio
@@ -529,7 +529,7 @@ mods:
       Assassin" and four brand-new party members for BGEE, Tutu,
       BGT, and EET.﻿
     tags:
-      - bg1
+      - c:bg1
       - npc
 
   - name: Grey the Dog
@@ -559,7 +559,7 @@ mods:
       BGII:EE. He is an unkitted elven fighter and can be found
       in the Den of the Seven Vales in Waukeen's Promenade.
     tags:
-      - bg2
+      - c:bg2
       - npc
 
   - name: IWD2 NPC Project
@@ -573,7 +573,7 @@ mods:
       or a custom character and five premade characters to allow
       for interaction within the party.
     tags:
-      - iwd2
+      - c:iwd2
       - npc
 
   - name: Keldorn Romance
@@ -584,7 +584,7 @@ mods:
       berelinde's Keldorn Romance introduces a romance for the
       original BioWare NPC Keldorn.
     tags:
-      - bg2
+      - c:bg2
       - npc
 
   - name: Kivan and Deheriana Companions for BG2
@@ -598,7 +598,7 @@ mods:
       the main download package and is no longer available
       separately.
     tags:
-      - bg2
+      - c:bg2
       - npc
 
   - name: Mur'Neth NPC Mod
@@ -611,7 +611,7 @@ mods:
       shapechangers who venerate Ghaunadaur, the evil deity of
       oozes, moulds and the like.
     tags:
-      - bg1
+      - c:bg1
       - npc
 
   - name: Navarra
@@ -626,7 +626,7 @@ mods:
       romance a male who is Elf, Half-elf, Human and of
       non-evil alignment.
     tags:
-      - tob
+      - c:tob
       - npc
 
   - name: Romantic Encounters (BG)
@@ -642,7 +642,7 @@ mods:
       quests that all deal with true love, fulfilled or
       unfulfilled.
     tags:
-      - bg1
+      - c:bg1
       - npc
 
   - name: Romantic Encounters (BG2)
@@ -657,7 +657,7 @@ mods:
       one-night stand. Or even several nights together - with a
       'morning after' and without. A dream. Or something else?
     tags:
-      - bg2
+      - c:bg2
       - npc
 
   - name: "Sarah NPC Romance Mod for BG2: TOB"
@@ -669,7 +669,7 @@ mods:
       Baldur's Gate II. Sarah also has a romance available for
       female characters and a friendship for any PC.
     tags:
-      - tob
+      - c:tob
       - npc
 
   - name: Tyris Flare NPC
@@ -698,7 +698,7 @@ mods:
       that was left with nothing but regrets. Listen to him as
       this may be his last chance to find peace.
     tags:
-      - tob
+      - c:tob
       - npc
 
   - name: Zakrion
@@ -722,7 +722,7 @@ mods:
       This adds a lot of spells, however (for me) it blocked EET
       from installing with an invalid spell id -1 error.
     tags:
-      - bg1
+      - c:bg1
       - pre:eet
       - spells
 
@@ -732,10 +732,10 @@ mods:
     dist: g3
     desc: ""
     tags:
-      - bg1
-      - sod
-      - bg2
-      - tob
+      - c:bg1
+      - c:sod
+      - c:bg2
+      - c:tob
       - util
 
   - name: Ascension
@@ -744,7 +744,7 @@ mods:
     dist: infinitymods
     desc: ""
     tags:
-      - tob
+      - c:tob
       - combat
       - story
       - quest
@@ -755,7 +755,7 @@ mods:
     dist: beamdog
     desc: ""
     tags:
-      - tob
+      - c:tob
       - story
       - npc
 
@@ -769,7 +769,7 @@ mods:
       over/failures if desired.
     tags:
       - alpha
-      - bg1
+      - c:bg1
       - combat
       - items
 
@@ -791,10 +791,10 @@ mods:
     dist: g3
     desc: Gain lore throughout various game activities (read your books)
     tags:
-      - bg1
-      - sod
-      - bg2
-      - tob
+      - c:bg1
+      - c:sod
+      - c:bg2
+      - c:tob
       - feature
 
   - name: Bubb Remove Stoneskin color
@@ -803,10 +803,10 @@ mods:
     dist: bubb
     desc: Enjoy your fancy colored wizard robes!
     tags:
-      - bg1
-      - sod
-      - bg2
-      - tob
+      - c:bg1
+      - c:sod
+      - c:bg2
+      - c:tob
       - qol
 
   - name: A7 Achievements
@@ -815,10 +815,10 @@ mods:
     dist: argent77
     desc: Steam overlay achievements, without needing the overlay.
     tags:
-      - bg1
-      - sod
-      - bg2
-      - tob
+      - c:bg1
+      - c:sod
+      - c:bg2
+      - c:tob
       - feature
 
   - name: Skip Chateau Irenicus
@@ -827,7 +827,7 @@ mods:
     dist: argent77
     desc: Read the name - self explanatory :)
     tags:
-      - bg2
+      - c:bg2
       - qol
 
   - name: IWDification
@@ -836,10 +836,10 @@ mods:
     dist: g3
     desc: Adds Icewind Dale spells/graphics/items into the game.
     tags:
-      - bg1
-      - sod
-      - bg2
-      - tob
+      - c:bg1
+      - c:sod
+      - c:bg2
+      - c:tob
       - spells
       - items
 
@@ -849,10 +849,10 @@ mods:
     dist: tipun
     desc: Very unique looking GUI - resembles SOD color scheme.
     tags:
-      - bg1
-      - sod
-      - bg2
-      - tob
+      - c:bg1
+      - c:sod
+      - c:bg2
+      - c:tob
       - gui
 
   - name: LeUI
@@ -861,10 +861,10 @@ mods:
     dist: lefreut
     desc: Clean and crisp GUI - resembles BG2 UI color scheme.
     tags:
-      - bg1
-      - sod
-      - bg2
-      - tob
+      - c:bg1
+      - c:sod
+      - c:bg2
+      - c:tob
       - gui
 
   - name: EEUITweaks
@@ -873,10 +873,10 @@ mods:
     dist: lefreut
     desc: Adds general UI enhancements, including an auto-roller!
     tags:
-      - bg1
-      - sod
-      - bg2
-      - tob
+      - c:bg1
+      - c:sod
+      - c:bg2
+      - c:tob
       - gui
       - feature
       - qol
@@ -887,10 +887,10 @@ mods:
     dist: argent77
     desc: Makes some buttons easier to see.
     tags:
-      - bg1
-      - sod
-      - bg2
-      - tob
+      - c:bg1
+      - c:sod
+      - c:bg2
+      - c:tob
       - gui
       - qol
 
@@ -908,7 +908,7 @@ mods:
     dist: crevsdaak
     desc: Everyone's favorite BG1 wizard is ready to make some goodies.
     tags:
-      - bg1
+      - c:bg1
       - items
       - item:upgrades
 
@@ -1002,7 +1002,7 @@ mods:
     dist: beamdog
     desc: ""
     tags:
-      - bg2
+      - c:bg2
 
   - name: Banter Pack
     home: https://github.com/Pocket-Plane-Group/Banter_Pack/releases
@@ -1024,7 +1024,7 @@ mods:
     dist: g3
     desc: ""
     tags:
-      - bg2
+      - c:bg2
 
   - name: BGQE (BG Quest and Encounters)
     home: https://github.com/Gibberlings3/BG_Quest_And_Encounters/releases
@@ -1032,7 +1032,7 @@ mods:
     dist: g3
     desc: ""
     tags:
-      - bg1
+      - c:bg1
 
   - name: Unfinished Business
     home: https://github.com/Pocket-Plane-Group/UnfinishedBusiness/releases
@@ -1040,7 +1040,7 @@ mods:
     dist: ppg
     desc: ""
     tags:
-      - bg1
+      - c:bg1
 
   - name: Imoen Forever
     home: https://www.gibberlings3.net/files/file/1013-imoen-4-ever/
@@ -1055,10 +1055,10 @@ mods:
     dist: g3
     desc: ""
     tags:
-      - bg1
-      - sod
-      - bg2
-      - tob
+      - c:bg1
+      - c:sod
+      - c:bg2
+      - c:tob
 
   - name: Transitions
     home: https://www.gibberlings3.net/files/file/1021-transitions/
@@ -1066,10 +1066,10 @@ mods:
     dist: g3
     desc: ""
     tags:
-      - bg1
-      - sod
-      - bg2
-      - tob
+      - c:bg1
+      - c:sod
+      - c:bg2
+      - c:tob
 
   - name: Another Fine Hell
     home: https://www.gibberlings3.net/files/file/1034-another-fine-hell/
@@ -1077,7 +1077,7 @@ mods:
     dist: g3
     desc: ""
     tags:
-      - sod
+      - c:sod
 
   - name: The Boareskyr Bridge Scene
     home: https://www.gibberlings3.net/files/file/1033-the-boareskyr-bridge-scene/
@@ -1085,7 +1085,7 @@ mods:
     dist: g3
     desc: ""
     tags:
-      - sod
+      - c:sod
 
   - name: PPG Quest Pack
     home: https://www.pocketplane.net/quest-pack/
@@ -1100,7 +1100,7 @@ mods:
     dist: g3
     desc: ""
     tags:
-      - bg1
+      - c:bg1
 
   - name: Weasels!
     home: https://downloads.weaselmods.net/download/weasels/
@@ -1108,7 +1108,7 @@ mods:
     dist: weaselmods
     desc: ""
     tags:
-      - bg1
+      - c:bg1
 
   - name: Imoen Romance
     home: http://imoen.blindmonkey.org/downloads.php
@@ -1116,7 +1116,7 @@ mods:
     dist: blindmonkey
     desc: ""
     tags:
-      - bg2
+      - c:bg2
 
   - name: Sellswords
     home: https://github.com/Pocket-Plane-Group/Sellswords/releases
@@ -2149,6 +2149,7 @@ gameplay2:
     dist: aquadrizzt
     desc: ""
     tags:
+      - conversion
       - balance
       - kits
 
@@ -2184,6 +2185,7 @@ gameplay2:
     dist: artisans
     desc: ""
     tags:
+      - feature
       - combat
       - quest
       - kits
@@ -2205,6 +2207,7 @@ gameplay2:
     dist: unearthedarcana
     desc: Revamps spell casters.
     tags:
+      - conversion
       - feature
       - kits
 
@@ -2214,6 +2217,7 @@ gameplay2:
     dist: unearthedarcana
     desc: Revamps priest type classes, sphere system.
     tags:
+      - conversion
       - feature
       - kits
 
@@ -2232,6 +2236,7 @@ gameplay2:
     dist: unearthedarcana
     desc: Revamps melee in a unique way.
     tags:
+      - conversion
       - feature
       - kits
 
@@ -2497,9 +2502,9 @@ tweaks2:
       intent of giving players a challenge via making gear rare
       (player can specify what percentage).
     tags:
-      - bg1
-      - sod
-      - bg2
-      - tob
+      - c:bg1
+      - c:sod
+      - c:bg2
+      - c:tob
       - hard
       - rand

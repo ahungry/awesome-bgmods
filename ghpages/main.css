@@ -137,7 +137,7 @@ table tr td img {
   border: 1px solid rgba(0,0,0,0);
   cursor: pointer;
   margin: 1px;
-  opacity: 0.5;
+  opacity: 0.75;
 }
 
 .active {
