@@ -1297,6 +1297,7 @@ voice2:
     dist: xxx
     desc: ""
     tags:
+      - pics
 
 
   - name: Planescape Torment Voice Pack
@@ -1305,6 +1306,7 @@ voice2:
     dist: graion
     desc: ""
     tags:
+      - audio
 
   - name: IWD Voices
     home: https://github.com/GraionDilach/Icewind-Dale-Voice-Pack-For-EE-2.6/releases/tag/version-1.0.0
@@ -1312,6 +1314,7 @@ voice2:
     dist: graion
     desc: ""
     tags:
+      - audio
 
   - name: IWD2 Voices
     home: https://github.com/GraionDilach/Icewind-Dale-II-Voice-Pack-For-EE-2.6/releases/tag/version-1.0.3
@@ -1319,6 +1322,7 @@ voice2:
     dist: graion
     desc: ""
     tags:
+      - audio
 
   - name: BG1 Voices
     home: https://github.com/GraionDilach/Baldurs-Gate-Voice-Pack-for-EE-2.6/releases/tag/version-1.0.0
@@ -1326,6 +1330,7 @@ voice2:
     dist: graion
     desc: ""
     tags:
+      - audio
 
   - name: BG2 Voices
     home: https://github.com/GraionDilach/Baldurs-Gate-II-Voice-Pack-for-EE-2.6/releases/tag/version-1.0.0
@@ -1333,6 +1338,7 @@ voice2:
     dist: graion
     desc: ""
     tags:
+      - audio
 
   - name: BGNPC Voices
     home: https://github.com/GraionDilach/Baldurs-Gate-NPC-Voice-Pack-for-EE-2.6/releases/tag/version-0.2.2
@@ -1340,6 +1346,7 @@ voice2:
     dist: graion
     desc: ""
     tags:
+      - audio
 
   - name: NWN Voices
     home: https://github.com/GraionDilach/Neverwinter-Nights-Voice-Pack-for-EE-2.6/releases/tag/version-0.3.1
@@ -1347,6 +1354,7 @@ voice2:
     dist: graion
     desc: ""
     tags:
+      - audio
 
 gameplay2:
 
@@ -1356,6 +1364,7 @@ gameplay2:
     dist: angel
     desc: ""
     tags:
+      - items
 
   - name: Made in Heaven Spell Pack
     home: ""
@@ -1363,6 +1372,7 @@ gameplay2:
     dist: angel
     desc: ""
     tags:
+      - spells
 
   - name: Made in Heaven EQ
     home: ""
@@ -1370,6 +1380,8 @@ gameplay2:
     dist: angel
     desc: ""
     tags:
+      - combat
+      - hard
 
   - name: Made in Heaven Tweaks
     home: ""
@@ -1377,6 +1389,7 @@ gameplay2:
     dist: angel
     desc: ""
     tags:
+      - qol
 
   - name: Item Revisions
     home: https://github.com/Gibberlings3/ItemRevisions/releases
@@ -1384,6 +1397,8 @@ gameplay2:
     dist: g3
     desc: ""
     tags:
+      - balance
+      - items
 
   - name: Item Revisions Revised
     home: https://github.com/BartyMae/IR_Revised/releases
@@ -1391,6 +1406,8 @@ gameplay2:
     dist: bartymae
     desc: ""
     tags:
+      - balance
+      - items
 
   - name: Forgotten Armament
     home: https://github.com/Gibberlings3/Forgotten-Armament/releases/tag/1.0
@@ -1398,6 +1415,8 @@ gameplay2:
     dist: g3
     desc: ""
     tags:
+      - balance
+      - items
 
   - name: Spell Revisions
     home: https://github.com/Gibberlings3/SpellRevisions/releases
@@ -1405,6 +1424,8 @@ gameplay2:
     dist: g3
     desc: ""
     tags:
+      - balance
+      - spells
 
   - name: Spell Revisions Revised
     home: https://github.com/BartyMae/SR_Revised/releases
@@ -1412,6 +1433,8 @@ gameplay2:
     dist: bartymae
     desc: ""
     tags:
+      - balance
+      - spells
 
   - name: Monastic Orders of Faerun
     home: https://github.com/aquadrizzt/MonasticOrders/releases
@@ -1419,6 +1442,8 @@ gameplay2:
     dist: aquadrizzt
     desc: ""
     tags:
+      - balance
+      - kits
 
   - name: Artisans Kitpack
     home: https://artisans-corner.com/the-artisans-kitpack/
@@ -1426,6 +1451,8 @@ gameplay2:
     dist: artisans
     desc: ""
     tags:
+      - balance
+      - kits
 
   - name: Warlock
     home: https://github.com/ArtemiusI/Warlock/releases
@@ -1433,6 +1460,7 @@ gameplay2:
     dist: artisans
     desc: ""
     tags:
+      - kits
 
   - name: Bardic Wonders
     home: https://github.com/ArtemiusI/Bardic-Wonders/releases
@@ -1440,6 +1468,8 @@ gameplay2:
     dist: artisans
     desc: ""
     tags:
+      - balance
+      - kits
 
   - name: Shadow Adept
     home: https://github.com/ArtemiusI/Shadow-Magic/releases
@@ -1447,41 +1477,56 @@ gameplay2:
     dist: artisans
     desc: ""
     tags:
+      - combat
+      - quests
+      - kits
+      - spells
 
   - name: Divine Remix
     home: https://github.com/Gibberlings3/Divine_Remix/releases
     down: ~
     dist: g3
-    desc: ""
+    desc: Revamps priest type classes, sphere system.
     tags:
+      - balance
+      - spells
+      - kits
 
   - name: Tome and Blood
     home: https://github.com/subtledoctor/TomeAndBlood/releases
     down: ~
     dist: unearthedarcana
-    desc: ""
+    desc: Revamps spell casters.
     tags:
+      - feature
+      - kits
 
   - name: Faiths and Powers
     home: https://github.com/UnearthedArcana/Faiths_and_Powers/releases
     down: ~
     dist: unearthedarcana
-    desc: ""
+    desc: Revamps priest type classes, sphere system.
     tags:
+      - feature
+      - kits
 
   - name: Will to Power
     home: https://github.com/UnearthedArcana/Will_to_Power/releases/tag/2.2.1
     down: ~
     dist: unearthedarcana
-    desc: ""
+    desc: Psionics mod - new system.
     tags:
+      - feature
+      - kits
 
   - name: Might and Guile
     home: https://github.com/UnearthedArcana/Might_and_Guile/releases
     down: ~
     dist: unearthedarcana
-    desc: ""
+    desc: Revamps melee in a unique way.
     tags:
+      - feature
+      - kits
 
 sys2:
 
@@ -1491,6 +1536,8 @@ sys2:
     dist: ""
     desc: No link - this is just the end step after EET
     tags:
+      - util
+      - required
 
 
 tactics2:
@@ -1499,8 +1546,17 @@ tactics2:
     home: https://www.gibberlings3.net/mods/tweaks/scs/
     down: ~
     dist: g3
-    desc: ""
+    desc:
+      Most everyone into modding knows this one, and for good reason.
+      Greatly enhances the AI of enemies, and updates encounters.
     tags:
+      - combat
+      - hard
+      - spells
+      - feature
+      - balance
+      - ai
+      - qol
 
   - name: Enhanced Powergaming Scripts
     home: https://www.gibberlings3.net/mods/other/enhanced-powergaming-scripts/
@@ -1508,6 +1564,8 @@ tactics2:
     dist: g3
     desc: ""
     tags:
+      - ai
+      - qol
 
 
 tweaks2:
@@ -1516,85 +1574,130 @@ tweaks2:
     home: https://github.com/Gibberlings3/Tweaks-Anthology/releases
     down: ~
     dist: g3
-    desc: ""
+    desc:
+      From quality of life (QOL) features, to rebalancing weapon
+      proficiencies, this tweak pack offers a lot.
     tags:
+      - balance
+      - qol
 
   - name: House Rules
     home: https://artisans-corner.com/house-rules/
     down: ~
     dist: artisans
-    desc: ""
+    desc:
+      Tries to enhance some lesser used weapon styles (2h).
+      Has a component to update thief sprites to go hoodless too.
     tags:
+      - balance
+      - feature
 
   - name: Tweaks and Tricks (TNT)
     home: https://github.com/BGforgeNet/bg2-tweaks-and-tricks
     down: ~
     dist: bgforge
-    desc: ""
+    desc:
+      One of my favorite components is the one to make trap detection
+      happen nearly instantly (and your npcs will give alerts even
+      when trap detection isn't active.
     tags:
+      - qol
 
   - name: Klatu Tweaks and Fixes
     home: http://www.shsforums.net/files/file/1109-klatu-tweaks-and-fixes/
     down: ~
     dist: shs
-    desc: ""
+    desc:
+      Adds some wild mage items, fixes some legacy mod issues (Check
+      the Bodies and others), forces mobs to drop gear on
+      petrification/disintegration/imprisonment.
     tags:
+      - items
+      - qol
 
   - name: aTweaks
     home: http://www.spellholdstudios.net/ie/atweaks
     down: ~
     dist: shs
-    desc: ""
+    desc:
+      Strong focus on making things more PnP-like, which can make many
+      creature types much more challenging.
     tags:
+      - qol
 
   - name: Scales of Balance
     home: https://github.com/UnearthedArcana/Scales_of_Balance/releases
     down: ~
     dist: unearthedarcana
-    desc: ""
+    desc:
+      Adds revised armor/weapon/proficiency systems.  Heavy armor is
+      much more absorbent.  Has a revised MR component.
     tags:
+      - feature
+      - qol
 
   - name: EET Tweaks
     home: https://github.com/K4thos/EET_Tweaks/releases
     down: ~
     dist: k4thos
-    desc: ""
+    desc:
+      Good end of order adjustments for an EET install, focusing
+      on normalizing NPC appearances, XP rewards, and XP caps.
     tags:
+      - balance
+      - qol
 
   - name: Subrace
     home: https://github.com/tipun81/Subrace-mod/releases
     down: ~
     dist: tipun
-    desc: ""
+    desc: Allows specialized sub-races of all races but half-orcs.
     tags:
+      - feature
 
   - name: Magic Battles Revised
     home: https://github.com/UnearthedArcana/magic_battles_revised/releases
     down: ~
     dist: unearthedarcana
-    desc: ""
+    desc:
+      Streamlines 'mage battles' to be more consistent in how the
+      effects are applied and removed.
     tags:
+      - balance
+      - qol
 
   - name: Low Magic
     home: https://github.com/UnearthedArcana/Low_Magic
     down: ~
     dist: unearthedarcana
-    desc: ""
+    desc:
+      Aims to increase game difficulty by lowering item strength of
+      common weapons (abundance of +3 weapons etc.), and lowering the
+      strength of spells via spell scaling w/level removal.
     tags:
+      - hard
+      - qol
 
   - name: Bart Tweaks
     home: https://github.com/BartyMae/Bart_Tweaks
     down: ~
     dist: bartymae
-    desc: ""
+    desc: Minor adjustments to some lore/spell progression.
     tags:
+      - balance
+      - qol
 
   - name: Ahungry Tweaks
     home: https://github.com/ahungry/ahungry_tweaks
     down: ~
     dist: ahungry
-    desc: ""
+    desc:
+      Aims to solve issues that heavy mod installs may introduce.
+      Component to cap +APR effects on gear to 1/2 APR each (some mod
+      gear goes heavy on it).
     tags:
+      - balance
+      - qol
 
 
 end2:
@@ -1603,33 +1706,47 @@ end2:
     home: https://github.com/UnearthedArcana/NPC_EE/releases
     down: ~
     dist: unearthedarcana
-    desc: ""
+    desc:
+      Allows customization of NPCs in game via a tome item.  Enables
+      changing class/kit/stats/proficiencies.
     tags:
+      - feature
+      - qol
 
   - name: Level One NPCs
     home: https://www.gibberlings3.net/mods/tweaks/levelonenpcs/
     down: ~
     dist: g3
-    desc: ""
+    desc:
+      Allows customization of NPCs during install via WEIDU selection.
     tags:
+      - feature
+      - qol
 
   - name: randomiser
     home: https://github.com/FredrikLindgren/randomiser/releases
     down: ~
     dist: fredriklindgren
-    desc: ""
+    desc: Randomizes item locations to provide a fresh play through each time.
     tags:
+      - rand
 
   - name: BG Enemy Randomizer
     home: https://github.com/GuardianAnubite/bg_enemy_randomizer/releases
     down: ~
     dist: guardiananubite
-    desc: ""
+    desc: Randomizes enemies to provide a fresh play through each time.
     tags:
+      - rand
 
   - name: Ahungry Deletefier
     home: https://github.com/ahungry/ahungry_deletefier
     down: ~
     dist: ahungry
-    desc: ""
+    desc:
+      Deletes a percentage of all non-quest items with the
+      intent of giving player's a challenge via making gear rare
+      (player can specify what percentage).
     tags:
+      - hard
+      - rand
