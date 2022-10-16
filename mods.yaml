@@ -2439,8 +2439,9 @@ mods:
     dist: ahungry
     desc:
       Aims to solve issues that heavy mod installs may introduce.
-      Component to cap +APR effects on gear to 1/2 APR each (some mod
-      gear goes heavy on it).
+      Component to cap +APR effects on gear to 1 APR each (some mod
+      gear goes heavy on it).  Can remove timestop/backstab immunities
+      from mobs.
     tags:
       - stable
       - tweaks

@@ -87,7 +87,7 @@ https://ahungry.github.io/awesome-bgmods/
     <a href="https://github.com/ahungry/ahungry_tweaks">Ahungry Tweaks</a>
   </td>
   <td>
-    Aims to solve issues that heavy mod installs may introduce. Component to cap +APR effects on gear to 1/2 APR each (some mod gear goes heavy on it).
+    Aims to solve issues that heavy mod installs may introduce. Component to cap +APR effects on gear to 1 APR each (some mod gear goes heavy on it).  Can remove timestop/backstab immunities from mobs.
   </td>
   <td>
     <img src="https://img.shields.io/badge/dist-ahungry-purple?style=plastic" alt="dist" />
