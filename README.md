@@ -81,6 +81,22 @@ https://ahungry.github.io/awesome-bgmods/
  
 <tr class="mod-entry">
   <td>
+    <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Ahungry Silent Hero.png" alt="pic" />
+  </td>
+  <td>
+    <a href="https://github.com/ahungry/ahungry_silent_hero">Ahungry Silent Hero</a>
+  </td>
+  <td>
+    Gives the protagonist many new dialogue options that allow them to play as more of a stoic silent hero, vs always having to choose a polarizing 'good' or 'evil' option.
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/dist-ahungry-purple?style=plastic" alt="dist" />
+    <img src="https://img.shields.io/badge/tag-alpha-18810?style=plastic" alt="alpha"/><img src="https://img.shields.io/badge/tag-c:bg1-c99831?style=plastic" alt="c:bg1"/><img src="https://img.shields.io/badge/tag-c:sod-aee4c9?style=plastic" alt="c:sod"/><img src="https://img.shields.io/badge/tag-c:bg2-cc9933?style=plastic" alt="c:bg2"/><img src="https://img.shields.io/badge/tag-c:tob-abe3c7?style=plastic" alt="c:tob"/><img src="https://img.shields.io/badge/tag-c:story-a2e0c1?style=plastic" alt="c:story"/>
+  </td>
+</tr>
+ 
+<tr class="mod-entry">
+  <td>
     <img src="https://ahungry.github.io/awesome-bgmods/ghpages/images/Ahungry Tweaks.png" alt="pic" />
   </td>
   <td>

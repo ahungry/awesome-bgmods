@@ -2433,21 +2433,6 @@ mods:
       - balance
       - qol
 
-  - name: Ahungry Tweaks
-    home: https://github.com/ahungry/ahungry_tweaks
-    down: ~
-    dist: ahungry
-    desc:
-      Aims to solve issues that heavy mod installs may introduce.
-      Component to cap +APR effects on gear to 1 APR each (some mod
-      gear goes heavy on it).  Can remove timestop/backstab immunities
-      from mobs.
-    tags:
-      - stable
-      - tweaks
-      - balance
-      - qol
-
   - name: NPC EE
     home: https://github.com/UnearthedArcana/NPC_EE/releases
     down: ~
@@ -2485,6 +2470,21 @@ mods:
     tags:
       - rand
 
+  - name: Ahungry Tweaks
+    home: https://github.com/ahungry/ahungry_tweaks
+    down: ~
+    dist: ahungry
+    desc:
+      Aims to solve issues that heavy mod installs may introduce.
+      Component to cap +APR effects on gear to 1 APR each (some mod
+      gear goes heavy on it).  Can remove timestop/backstab immunities
+      from mobs.
+    tags:
+      - stable
+      - tweaks
+      - balance
+      - qol
+
   - name: Ahungry Deletefier
     home: https://github.com/ahungry/ahungry_deletefier
     down: ~
@@ -2501,3 +2501,19 @@ mods:
       - c:tob
       - hard
       - rand
+
+  - name: Ahungry Silent Hero
+    home: https://github.com/ahungry/ahungry_silent_hero
+    down: ~
+    dist: ahungry
+    desc:
+      Gives the protagonist many new dialogue options that allow
+      them to play as more of a stoic silent hero, vs always
+      having to choose a polarizing 'good' or 'evil' option.
+    tags:
+      - alpha
+      - c:bg1
+      - c:sod
+      - c:bg2
+      - c:tob
+      - c:story
