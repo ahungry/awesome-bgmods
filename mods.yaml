@@ -2210,7 +2210,7 @@ mods:
       - kits
 
   - name: Faiths and Powers
-    home: https://github.com/UnearthedArcana/Faiths_and_Powers/releases
+    home: https://github.com/subtledoctor/Faiths_and_Powers/releases
     down: ~
     dist: unearthedarcana
     desc: Revamps priest type classes, sphere system.
